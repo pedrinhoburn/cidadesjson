@@ -11959,228 +11959,893 @@
       "sigla": "PI",
       "nome": "Piauí",
       "cidades": [
-        "Acauã",
-        "Agricolândia",
-        "Água Branca",
-        "Alagoinha do Piauí",
-        "Alegrete do Piauí",
-        "Alto Longá",
-        "Altos",
-        "Alvorada do Gurguéia",
-        "Amarante",
-        "Angical do Piauí",
-        "Anísio de Abreu",
-        "Antônio Almeida",
-        "Aroazes",
-        "Arraial",
-        "Assunção do Piauí",
-        "Avelino Lopes",
-        "Baixa Grande do Ribeiro",
-        "Barra d'Alcântara",
-        "Barras",
-        "Barreiras do Piauí",
-        "Barro Duro",
-        "Batalha",
-        "Bela Vista do Piauí",
-        "Belém do Piauí",
-        "Beneditinos",
-        "Bertolínia",
-        "Betânia do Piauí",
-        "Boa Hora",
-        "Bocaina",
-        "Bom Jesus",
-        "Bom Princípio do Piauí",
-        "Bonfim do Piauí",
-        "Boqueirão do Piauí",
-        "Brasileira",
-        "Brejo do Piauí",
-        "Buriti dos Lopes",
-        "Buriti dos Montes",
-        "Cabeceiras do Piauí",
-        "Cajazeiras do Piauí",
-        "Cajueiro da Praia",
-        "Caldeirão Grande do Piauí",
-        "Campinas do Piauí",
-        "Campo Alegre do Fidalgo",
-        "Campo Grande do Piauí",
-        "Campo Largo do Piauí",
-        "Campo Maior",
-        "Canavieira",
-        "Canto do Buriti",
-        "Capitão de Campos",
-        "Capitão Gervásio Oliveira",
-        "Caracol",
-        "Caraúbas do Piauí",
-        "Caridade do Piauí",
-        "Castelo do Piauí",
-        "Caxingó",
-        "Cocal",
-        "Cocal de Telha",
-        "Cocal dos Alves",
-        "Coivaras",
-        "Colônia do Gurguéia",
-        "Colônia do Piauí",
-        "Conceição do Canindé",
-        "Coronel José Dias",
-        "Corrente",
-        "Cristalândia do Piauí",
-        "Cristino Castro",
-        "Curimatá",
-        "Currais",
-        "Curral Novo do Piauí",
-        "Curralinhos",
-        "Demerval Lobão",
-        "Dirceu Arcoverde",
-        "Dom Expedito Lopes",
-        "Dom Inocêncio",
-        "Domingos Mourão",
-        "Elesbão Veloso",
-        "Eliseu Martins",
-        "Esperantina",
-        "Fartura do Piauí",
-        "Flores do Piauí",
-        "Floresta do Piauí",
-        "Floriano",
-        "Francinópolis",
-        "Francisco Ayres",
-        "Francisco Macedo",
-        "Francisco Santos",
-        "Fronteiras",
-        "Geminiano",
-        "Gilbués",
-        "Guadalupe",
-        "Guaribas",
-        "Hugo Napoleão",
-        "Ilha Grande",
-        "Inhuma",
-        "Ipiranga do Piauí",
-        "Isaías Coelho",
-        "Itainópolis",
-        "Itaueira",
-        "Jacobina do Piauí",
-        "Jaicós",
-        "Jardim do Mulato",
-        "Jatobá do Piauí",
-        "Jerumenha",
-        "João Costa",
-        "Joaquim Pires",
-        "Joca Marques",
-        "José de Freitas",
-        "Juazeiro do Piauí",
-        "Júlio Borges",
-        "Jurema",
-        "Lagoa Alegre",
-        "Lagoa de São Francisco",
-        "Lagoa do Barro do Piauí",
-        "Lagoa do Piauí",
-        "Lagoa do Sítio",
-        "Lagoinha do Piauí",
-        "Landri Sales",
-        "Luís Correia",
-        "Luzilândia",
-        "Madeiro",
-        "Manoel Emídio",
-        "Marcolândia",
-        "Marcos Parente",
-        "Massapê do Piauí",
-        "Matias Olímpio",
-        "Miguel Alves",
-        "Miguel Leão",
-        "Milton Brandão",
-        "Monsenhor Gil",
-        "Monsenhor Hipólito",
-        "Monte Alegre do Piauí",
-        "Morro Cabeça no Tempo",
-        "Morro do Chapéu do Piauí",
-        "Murici dos Portelas",
-        "Nazaré do Piauí",
-        "Nossa Senhora de Nazaré",
-        "Nossa Senhora dos Remédios",
-        "Nova Santa Rita",
-        "Novo Oriente do Piauí",
-        "Novo Santo Antônio",
-        "Oeiras",
-        "Olho d'Água do Piauí",
-        "Padre Marcos",
-        "Paes Landim",
-        "Pajeú do Piauí",
-        "Palmeira do Piauí",
-        "Palmeirais",
-        "Paquetá",
-        "Parnaguá",
-        "Parnaíba",
-        "Passagem Franca do Piauí",
-        "Patos do Piauí",
-        "Pau d'Arco do Piauí",
-        "Paulistana",
-        "Pavussu",
-        "Pedro II",
-        "Pedro Laurentino",
-        "Picos",
-        "Pimenteiras",
-        "Pio IX",
-        "Piracuruca",
-        "Piripiri",
-        "Porto",
-        "Porto Alegre do Piauí",
-        "Prata do Piauí",
-        "Queimada Nova",
-        "Redenção do Gurguéia",
-        "Regeneração",
-        "Riacho Frio",
-        "Ribeira do Piauí",
-        "Ribeiro Gonçalves",
-        "Rio Grande do Piauí",
-        "Santa Cruz do Piauí",
-        "Santa Cruz dos Milagres",
-        "Santa Filomena",
-        "Santa Luz",
-        "Santa Rosa do Piauí",
-        "Santana do Piauí",
-        "Santo Antônio de Lisboa",
-        "Santo Antônio dos Milagres",
-        "Santo Inácio do Piauí",
-        "São Braz do Piauí",
-        "São Félix do Piauí",
-        "São Francisco de Assis do Piauí",
-        "São Francisco do Piauí",
-        "São Gonçalo do Gurguéia",
-        "São Gonçalo do Piauí",
-        "São João da Canabrava",
-        "São João da Fronteira",
-        "São João da Serra",
-        "São João da Varjota",
-        "São João do Arraial",
-        "São João do Piauí",
-        "São José do Divino",
-        "São José do Peixe",
-        "São José do Piauí",
-        "São Julião",
-        "São Lourenço do Piauí",
-        "São Luis do Piauí",
-        "São Miguel da Baixa Grande",
-        "São Miguel do Fidalgo",
-        "São Miguel do Tapuio",
-        "São Pedro do Piauí",
-        "São Raimundo Nonato",
-        "Sebastião Barros",
-        "Sebastião Leal",
-        "Sigefredo Pacheco",
-        "Simões",
-        "Simplício Mendes",
-        "Socorro do Piauí",
-        "Sussuapara",
-        "Tamboril do Piauí",
-        "Tanque do Piauí",
-        "Teresina",
-        "União",
-        "Uruçuí",
-        "Valença do Piauí",
-        "Várzea Branca",
-        "Várzea Grande",
-        "Vera Mendes",
-        "Vila Nova do Piauí",
-        "Wall Ferraz"
+        {
+        "cod": "657",
+        "uf":"Acauã" 
+        },
+        {
+        "cod": "658",
+        "uf":"Agricolândia" 
+        },
+        {
+        "cod": "659",
+        "uf":"Água Branca" 
+        },
+        {
+        "cod": "660",
+        "uf":"Alagoinha do Piauí" 
+        },
+        {
+        "cod": "661",
+        "uf":"Alegrete do Piauí" 
+        },
+        {
+        "cod": "662",
+        "uf":"Alto Longá" 
+        },
+        {
+        "cod": "663",
+        "uf":"Altos" 
+        },
+        {
+        "cod": "664",
+        "uf":"Alvorada do Gurguéia" 
+        },
+        {
+        "cod": "665",
+        "uf":"Amarante" 
+        },
+        {
+        "cod": "666",
+        "uf":"Angical do Piauí" 
+        },
+        {
+        "cod": "667",
+        "uf":"Anísio de Abreu" 
+        },
+        {
+        "cod": "668",
+        "uf":"Antônio Almeida" 
+        },
+        {
+        "cod": "669",
+        "uf":"Aroazes" 
+        },
+        {
+        "cod": "670",
+        "uf":"Arraial" 
+        },
+        {
+        "cod": "671",
+        "uf":"Assunção do Piauí" 
+        },
+        {
+        "cod": "672",
+        "uf":"Avelino Lopes" 
+        },
+        {
+        "cod": "673",
+        "uf":"Baixa Grande do Ribeiro" 
+        },
+        {
+        "cod": "674",
+        "uf":"Barra d'Alcântara" 
+        },
+        {
+        "cod": "675",
+        "uf":"Barras" 
+        },
+        {
+        "cod": "676",
+        "uf":"Barreiras do Piauí" 
+        },
+        {
+        "cod": "677",
+        "uf":"Barro Duro" 
+        },
+        {
+        "cod": "678",
+        "uf":"Batalha" 
+        },
+        {
+        "cod": "679",
+        "uf":"Bela Vista do Piauí" 
+        },
+        {
+        "cod": "680",
+        "uf":"Belém do Piauí" 
+        },
+        {
+        "cod": "681",
+        "uf":"Beneditinos" 
+        },
+        {
+        "cod": "682",
+        "uf":"Bertolínia" 
+        },
+        {
+        "cod": "683",
+        "uf":"Betânia do Piauí" 
+        },
+        {
+        "cod": "684",
+        "uf":"Boa Hora" 
+        },
+        {
+        "cod": "685",
+        "uf":"Bocaina" 
+        },
+        {
+        "cod": "686",
+        "uf":"Bom Jesus" 
+        },
+        {
+        "cod": "687",
+        "uf":"Bom Princípio do Piauí" 
+        },
+        {
+        "cod": "688",
+        "uf":"Bonfim do Piauí" 
+        },
+        {
+        "cod": "689",
+        "uf":"Boqueirão do Piauí" 
+        },
+        {
+        "cod": "690",
+        "uf":"Brasileira" 
+        },
+        {
+        "cod": "691",
+        "uf":"Brejo do Piauí" 
+        },
+        {
+        "cod": "692",
+        "uf":"Buriti dos Lopes" 
+        },
+        {
+        "cod": "693",
+        "uf":"Buriti dos Montes" 
+        },
+        {
+        "cod": "694",
+        "uf":"Cabeceiras do Piauí" 
+        },
+        {
+        "cod": "695",
+        "uf":"Cajazeiras do Piauí" 
+        },
+        {
+        "cod": "696",
+        "uf":"Cajueiro da Praia" 
+        },
+        {
+        "cod": "697",
+        "uf":"Caldeirão Grande do Piauí" 
+        },
+        {
+        "cod": "698",
+        "uf":"Campinas do Piauí" 
+        },
+        {
+        "cod": "699",
+        "uf":"Campo Alegre do Fidalgo" 
+        },
+        {
+        "cod": "700",
+        "uf":"Campo Grande do Piauí" 
+        },
+        {
+        "cod": "701",
+        "uf":"Campo Largo do Piauí" 
+        },
+        {
+        "cod": "702",
+        "uf":"Campo Maior" 
+        },
+        {
+        "cod": "703",
+        "uf":"Canavieira" 
+        },
+        {
+        "cod": "704",
+        "uf":"Canto do Buriti" 
+        },
+        {
+        "cod": "705",
+        "uf":"Capitão de Campos" 
+        },
+        {
+        "cod": "706",
+        "uf":"Capitão Gervásio Oliveira" 
+        },
+        {
+        "cod": "707",
+        "uf":"Caracol" 
+        },
+        {
+        "cod": "708",
+        "uf":"Caraúbas do Piauí" 
+        },
+        {
+        "cod": "709",
+        "uf":"Caridade do Piauí" 
+        },
+        {
+        "cod": "710",
+        "uf":"Castelo do Piauí" 
+        },
+        {
+        "cod": "711",
+        "uf":"Caxingó" 
+        },
+        {
+        "cod": "712",
+        "uf":"Cocal" 
+        },
+        {
+        "cod": "713",
+        "uf":"Cocal de Telha" 
+        },
+        {
+        "cod": "714",
+        "uf":"Cocal dos Alves" 
+        },
+        {
+        "cod": "715",
+        "uf":"Coivaras" 
+        },
+        {
+        "cod": "716",
+        "uf":"Colônia do Gurguéia" 
+        },
+        {
+        "cod": "717",
+        "uf":"Colônia do Piauí" 
+        },
+        {
+        "cod": "718",
+        "uf":"Conceição do Canindé" 
+        },
+        {
+        "cod": "719",
+        "uf":"Coronel José Dias" 
+        },
+        {
+        "cod": "720",
+        "uf":"Corrente" 
+        },
+        {
+        "cod": "721",
+        "uf":"Cristalândia do Piauí" 
+        },
+        {
+        "cod": "722",
+        "uf":"Cristino Castro" 
+        },
+        {
+        "cod": "723",
+        "uf":"Curimatá" 
+        },
+        {
+        "cod": "724",
+        "uf":"Currais" 
+        },
+        {
+        "cod": "725",
+        "uf":"Curral Novo do Piauí" 
+        },
+        {
+        "cod": "726",
+        "uf":"Curralinhos" 
+        },
+        {
+        "cod": "727",
+        "uf":"Demerval Lobão" 
+        },
+        {
+        "cod": "728",
+        "uf":"Dirceu Arcoverde" 
+        },
+        {
+        "cod": "729",
+        "uf":"Dom Expedito Lopes" 
+        },
+        {
+        "cod": "730",
+        "uf":"Dom Inocêncio" 
+        },
+        {
+        "cod": "731",
+        "uf":"Domingos Mourão" 
+        },
+        {
+        "cod": "732",
+        "uf":"Elesbão Veloso" 
+        },
+        {
+        "cod": "733",
+        "uf":"Eliseu Martins" 
+        },
+        {
+        "cod": "734",
+        "uf":"Esperantina" 
+        },
+        {
+        "cod": "735",
+        "uf":"Fartura do Piauí" 
+        },
+        {
+        "cod": "736",
+        "uf":"Flores do Piauí" 
+        },
+        {
+        "cod": "737",
+        "uf":"Floresta do Piauí" 
+        },
+        {
+        "cod": "738",
+        "uf":"Floriano" 
+        },
+        {
+        "cod": "739",
+        "uf":"Francinópolis" 
+        },
+        {
+        "cod": "740",
+        "uf":"Francisco Ayres" 
+        },
+        {
+        "cod": "741",
+        "uf":"Francisco Macedo" 
+        },
+        {
+        "cod": "742",
+        "uf":"Francisco Santos" 
+        },
+        {
+        "cod": "743",
+        "uf":"Fronteiras" 
+        },
+        {
+        "cod": "744",
+        "uf":"Geminiano" 
+        },
+        {
+        "cod": "745",
+        "uf":"Gilbués" 
+        },
+        {
+        "cod": "746",
+        "uf":"Guadalupe" 
+        },
+        {
+        "cod": "747",
+        "uf":"Guaribas" 
+        },
+        {
+        "cod": "748",
+        "uf":"Hugo Napoleão" 
+        },
+        {
+        "cod": "749",
+        "uf":"Ilha Grande" 
+        },
+        {
+        "cod": "750",
+        "uf":"Inhuma" 
+        },
+        {
+        "cod": "751",
+        "uf":"Ipiranga do Piauí" 
+        },
+        {
+        "cod": "752",
+        "uf":"Isaías Coelho" 
+        },
+        {
+        "cod": "753",
+        "uf":"Itainópolis" 
+        },
+        {
+        "cod": "754",
+        "uf":"Itaueira" 
+        },
+        {
+        "cod": "755",
+        "uf":"Jacobina do Piauí" 
+        },
+        {
+        "cod": "756",
+        "uf":"Jaicós" 
+        },
+        {
+        "cod": "757",
+        "uf":"Jardim do Mulato" 
+        },
+        {
+        "cod": "758",
+        "uf":"Jatobá do Piauí" 
+        },
+        {
+        "cod": "759",
+        "uf":"Jerumenha" 
+        },
+        {
+        "cod": "760",
+        "uf":"João Costa" 
+        },
+        {
+        "cod": "761",
+        "uf":"Joaquim Pires" 
+        },
+        {
+        "cod": "762",
+        "uf":"Joca Marques" 
+        },
+        {
+        "cod": "763",
+        "uf":"José de Freitas" 
+        },
+        {
+        "cod": "764",
+        "uf":"Juazeiro do Piauí" 
+        },
+        {
+        "cod": "765",
+        "uf":"Júlio Borges" 
+        },
+        {
+        "cod": "766",
+        "uf":"Jurema" 
+        },
+        {
+        "cod": "767",
+        "uf":"Lagoa Alegre" 
+        },
+        {
+        "cod": "768",
+        "uf":"Lagoa de São Francisco" 
+        },
+        {
+        "cod": "769",
+        "uf":"Lagoa do Barro do Piauí" 
+        },
+        {
+        "cod": "770",
+        "uf":"Lagoa do Piauí" 
+        },
+        {
+        "cod": "771",
+        "uf":"Lagoa do Sítio" 
+        },
+        {
+        "cod": "772",
+        "uf":"Lagoinha do Piauí" 
+        },
+        {
+        "cod": "773",
+        "uf":"Landri Sales" 
+        },
+        {
+        "cod": "774",
+        "uf":"Luís Correia" 
+        },
+        {
+        "cod": "775",
+        "uf":"Luzilândia" 
+        },
+        {
+        "cod": "776",
+        "uf":"Madeiro" 
+        },
+        {
+        "cod": "777",
+        "uf":"Manoel Emídio" 
+        },
+        {
+        "cod": "778",
+        "uf":"Marcolândia" 
+        },
+        {
+        "cod": "779",
+        "uf":"Marcos Parente" 
+        },
+        {
+        "cod": "780",
+        "uf":"Massapê do Piauí" 
+        },
+        {
+        "cod": "781",
+        "uf":"Matias Olímpio" 
+        },
+        {
+        "cod": "782",
+        "uf":"Miguel Alves" 
+        },
+        {
+        "cod": "783",
+        "uf":"Miguel Leão" 
+        },
+        {
+        "cod": "784",
+        "uf":"Milton Brandão" 
+        },
+        {
+        "cod": "785",
+        "uf":"Monsenhor Gil" 
+        },
+        {
+        "cod": "786",
+        "uf":"Monsenhor Hipólito" 
+        },
+        {
+        "cod": "787",
+        "uf":"Monte Alegre do Piauí" 
+        },
+        {
+        "cod": "788",
+        "uf":"Morro Cabeça no Tempo" 
+        },
+        {
+        "cod": "789",
+        "uf":"Morro do Chapéu do Piauí" 
+        },
+        {
+        "cod": "790",
+        "uf":"Murici dos Portelas" 
+        },
+        {
+        "cod": "791",
+        "uf":"Nazaré do Piauí" 
+        },
+        {
+        "cod": "792",
+        "uf":"Nossa Senhora de Nazaré" 
+        },
+        {
+        "cod": "793",
+        "uf":"Nossa Senhora dos Remédios" 
+        },
+        {
+        "cod": "794",
+        "uf":"Nova Santa Rita" 
+        },
+        {
+        "cod": "795",
+        "uf":"Novo Oriente do Piauí" 
+        },
+        {
+        "cod": "796",
+        "uf":"Novo Santo Antônio" 
+        },
+        {
+        "cod": "797",
+        "uf":"Oeiras" 
+        },
+        {
+        "cod": "798",
+        "uf":"Olho d'Água do Piauí" 
+        },
+        {
+        "cod": "799",
+        "uf":"Padre Marcos" 
+        },
+        {
+        "cod": "800",
+        "uf":"Paes Landim" 
+        },
+        {
+        "cod": "801",
+        "uf":"Pajeú do Piauí" 
+        },
+        {
+        "cod": "802",
+        "uf":"Palmeira do Piauí" 
+        },
+        {
+        "cod": "803",
+        "uf":"Palmeirais" 
+        },
+        {
+        "cod": "804",
+        "uf":"Paquetá" 
+        },
+        {
+        "cod": "805",
+        "uf":"Parnaguá" 
+        },
+        {
+        "cod": "806",
+        "uf":"Parnaíba" 
+        },
+        {
+        "cod": "807",
+        "uf":"Passagem Franca do Piauí" 
+        },
+        {
+        "cod": "808",
+        "uf":"Patos do Piauí" 
+        },
+        {
+        "cod": "809",
+        "uf":"Pau d'Arco do Piauí" 
+        },
+        {
+        "cod": "810",
+        "uf":"Paulistana" 
+        },
+        {
+        "cod": "811",
+        "uf":"Pavussu" 
+        },
+        {
+        "cod": "812",
+        "uf":"Pedro II" 
+        },
+        {
+        "cod": "813",
+        "uf":"Pedro Laurentino" 
+        },
+        {
+        "cod": "814",
+        "uf":"Picos" 
+        },
+        {
+        "cod": "815",
+        "uf":"Pimenteiras" 
+        },
+        {
+        "cod": "816",
+        "uf":"Pio IX" 
+        },
+        {
+        "cod": "817",
+        "uf":"Piracuruca" 
+        },
+        {
+        "cod": "818",
+        "uf":"Piripiri" 
+        },
+        {
+        "cod": "819",
+        "uf":"Porto" 
+        },
+        {
+        "cod": "820",
+        "uf":"Porto Alegre do Piauí" 
+        },
+        {
+        "cod": "821",
+        "uf":"Prata do Piauí" 
+        },
+        {
+        "cod": "822",
+        "uf":"Queimada Nova" 
+        },
+        {
+        "cod": "823",
+        "uf":"Redenção do Gurguéia" 
+        },
+        {
+        "cod": "824",
+        "uf":"Regeneração" 
+        },
+        {
+        "cod": "825",
+        "uf":"Riacho Frio" 
+        },
+        {
+        "cod": "826",
+        "uf":"Ribeira do Piauí" 
+        },
+        {
+        "cod": "827",
+        "uf":"Ribeiro Gonçalves" 
+        },
+        {
+        "cod": "828",
+        "uf":"Rio Grande do Piauí" 
+        },
+        {
+        "cod": "829",
+        "uf":"Santa Cruz do Piauí" 
+        },
+        {
+        "cod": "830",
+        "uf":"Santa Cruz dos Milagres" 
+        },
+        {
+        "cod": "831",
+        "uf":"Santa Filomena" 
+        },
+        {
+        "cod": "832",
+        "uf":"Santa Luz" 
+        },
+        {
+        "cod": "833",
+        "uf":"Santa Rosa do Piauí" 
+        },
+        {
+        "cod": "834",
+        "uf":"Santana do Piauí" 
+        },
+        {
+        "cod": "835",
+        "uf":"Santo Antônio de Lisboa" 
+        },
+        {
+        "cod": "836",
+        "uf":"Santo Antônio dos Milagres" 
+        },
+        {
+        "cod": "837",
+        "uf":"Santo Inácio do Piauí" 
+        },
+        {
+        "cod": "838",
+        "uf":"São Braz do Piauí" 
+        },
+        {
+        "cod": "839",
+        "uf":"São Félix do Piauí" 
+        },
+        {
+        "cod": "840",
+        "uf":"São Francisco de Assis do Piauí" 
+        },
+        {
+        "cod": "841",
+        "uf":"São Francisco do Piauí" 
+        },
+        {
+        "cod": "842",
+        "uf":"São Gonçalo do Gurguéia" 
+        },
+        {
+        "cod": "843",
+        "uf":"São Gonçalo do Piauí" 
+        },
+        {
+        "cod": "844",
+        "uf":"São João da Canabrava" 
+        },
+        {
+        "cod": "845",
+        "uf":"São João da Fronteira" 
+        },
+        {
+        "cod": "846",
+        "uf":"São João da Serra" 
+        },
+        {
+        "cod": "847",
+        "uf":"São João da Varjota" 
+        },
+        {
+        "cod": "848",
+        "uf":"São João do Arraial" 
+        },
+        {
+        "cod": "849",
+        "uf":"São João do Piauí" 
+        },
+        {
+        "cod": "850",
+        "uf":"São José do Divino" 
+        },
+        {
+        "cod": "851",
+        "uf":"São José do Peixe" 
+        },
+        {
+        "cod": "852",
+        "uf":"São José do Piauí" 
+        },
+        {
+        "cod": "853",
+        "uf":"São Julião" 
+        },
+        {
+        "cod": "854",
+        "uf":"São Lourenço do Piauí" 
+        },
+        {
+        "cod": "855",
+        "uf":"São Luis do Piauí" 
+        },
+        {
+        "cod": "856",
+        "uf":"São Miguel da Baixa Grande" 
+        },
+        {
+        "cod": "857",
+        "uf":"São Miguel do Fidalgo" 
+        },
+        {
+        "cod": "858",
+        "uf":"São Miguel do Tapuio" 
+        },
+        {
+        "cod": "859",
+        "uf":"São Pedro do Piauí" 
+        },
+        {
+        "cod": "860",
+        "uf":"São Raimundo Nonato" 
+        },
+        {
+        "cod": "861",
+        "uf":"Sebastião Barros" 
+        },
+        {
+        "cod": "862",
+        "uf":"Sebastião Leal" 
+        },
+        {
+        "cod": "863",
+        "uf":"Sigefredo Pacheco" 
+        },
+        {
+        "cod": "864",
+        "uf":"Simões" 
+        },
+        {
+        "cod": "865",
+        "uf":"Simplício Mendes" 
+        },
+        {
+        "cod": "866",
+        "uf":"Socorro do Piauí" 
+        },
+        {
+        "cod": "867",
+        "uf":"Sussuapara" 
+        },
+        {
+        "cod": "868",
+        "uf":"Tamboril do Piauí" 
+        },
+        {
+        "cod": "869",
+        "uf":"Tanque do Piauí" 
+        },
+        {
+        "cod": "870",
+        "uf":"Teresina" 
+        },
+        {
+        "cod": "871",
+        "uf":"União" 
+        },
+        {
+        "cod": "872",
+        "uf":"Uruçuí" 
+        },
+        {
+        "cod": "873",
+        "uf":"Valença do Piauí" 
+        },
+        {
+        "cod": "874",
+        "uf":"Várzea Branca" 
+        },
+        {
+        "cod": "875",
+        "uf":"Várzea Grande" 
+        },
+        {
+        "cod": "876",
+        "uf":"Vera Mendes" 
+        },
+        {
+        "cod": "877",
+        "uf":"Vila Nova do Piauí" 
+        },
+        {
+        "cod": "878",
+        "uf":"Wall Ferraz"},
       ]
     },
     {
@@ -13790,98 +14455,373 @@
       "sigla": "RJ",
       "nome": "Rio de Janeiro",
       "cidades": [
-        "Angra dos Reis",
-        "Aperibé",
-        "Araruama",
-        "Areal",
-        "Armação de Búzios",
-        "Arraial do Cabo",
-        "Barra do Piraí",
-        "Barra Mansa",
-        "Belford Roxo",
-        "Bom Jardim",
-        "Bom Jesus do Itabapoana",
-        "Cabo Frio",
-        "Cachoeiras de Macacu",
-        "Cambuci",
-        "Campos dos Goytacazes",
-        "Cantagalo",
-        "Carapebus",
-        "Cardoso Moreira",
-        "Carmo",
-        "Casimiro de Abreu",
-        "Comendador Levy Gasparian",
-        "Conceição de Macabu",
-        "Cordeiro",
-        "Duas Barras",
-        "Duque de Caxias",
-        "Engenheiro Paulo de Frontin",
-        "Guapimirim",
-        "Iguaba Grande",
-        "Itaboraí",
-        "Itaguaí",
-        "Italva",
-        "Itaocara",
-        "Itaperuna",
-        "Itatiaia",
-        "Japeri",
-        "Laje do Muriaé",
-        "Macaé",
-        "Macuco",
-        "Magé",
-        "Mangaratiba",
-        "Maricá",
-        "Mendes",
-        "Mesquita",
-        "Miguel Pereira",
-        "Miracema",
-        "Natividade",
-        "Nilópolis",
-        "Niterói",
-        "Nova Friburgo",
-        "Nova Iguaçu",
-        "Paracambi",
-        "Paraíba do Sul",
-        "Parati",
-        "Paty do Alferes",
-        "Petrópolis",
-        "Pinheiral",
-        "Piraí",
-        "Porciúncula",
-        "Porto Real",
-        "Quatis",
-        "Queimados",
-        "Quissamã",
-        "Resende",
-        "Rio Bonito",
-        "Rio Claro",
-        "Rio das Flores",
-        "Rio das Ostras",
-        "Rio de Janeiro",
-        "Santa Maria Madalena",
-        "Santo Antônio de Pádua",
-        "São Fidélis",
-        "São Francisco de Itabapoana",
-        "São Gonçalo",
-        "São João da Barra",
-        "São João de Meriti",
-        "São José de Ubá",
-        "São José do Vale do Rio Preto",
-        "São Pedro da Aldeia",
-        "São Sebastião do Alto",
-        "Sapucaia",
-        "Saquarema",
-        "Seropédica",
-        "Silva Jardim",
-        "Sumidouro",
-        "Tanguá",
-        "Teresópolis",
-        "Trajano de Morais",
-        "Três Rios",
-        "Valença",
-        "Varre-Sai",
-        "Vassouras",
-        "Volta Redonda"
+        {
+        "cod": "3879",
+        "uf":"Angra dos Reis" 
+        },
+        {
+        "cod": "3880",
+        "uf":"Aperibé" 
+        },
+        {
+        "cod": "3881",
+        "uf":"Araruama" 
+        },
+        {
+        "cod": "3882",
+        "uf":"Areal" 
+        },
+        {
+        "cod": "3883",
+        "uf":"Armação de Búzios" 
+        },
+        {
+        "cod": "3884",
+        "uf":"Arraial do Cabo" 
+        },
+        {
+        "cod": "3885",
+        "uf":"Barra do Piraí" 
+        },
+        {
+        "cod": "3886",
+        "uf":"Barra Mansa" 
+        },
+        {
+        "cod": "3887",
+        "uf":"Belford Roxo" 
+        },
+        {
+        "cod": "3888",
+        "uf":"Bom Jardim" 
+        },
+        {
+        "cod": "3889",
+        "uf":"Bom Jesus do Itabapoana" 
+        },
+        {
+        "cod": "3890",
+        "uf":"Cabo Frio" 
+        },
+        {
+        "cod": "3891",
+        "uf":"Cachoeiras de Macacu" 
+        },
+        {
+        "cod": "3892",
+        "uf":"Cambuci" 
+        },
+        {
+        "cod": "3893",
+        "uf":"Campos dos Goytacazes" 
+        },
+        {
+        "cod": "3894",
+        "uf":"Cantagalo" 
+        },
+        {
+        "cod": "3895",
+        "uf":"Carapebus" 
+        },
+        {
+        "cod": "3896",
+        "uf":"Cardoso Moreira" 
+        },
+        {
+        "cod": "3897",
+        "uf":"Carmo" 
+        },
+        {
+        "cod": "3898",
+        "uf":"Casimiro de Abreu" 
+        },
+        {
+        "cod": "3899",
+        "uf":"Comendador Levy Gasparian" 
+        },
+        {
+        "cod": "3900",
+        "uf":"Conceição de Macabu" 
+        },
+        {
+        "cod": "3901",
+        "uf":"Cordeiro" 
+        },
+        {
+        "cod": "3902",
+        "uf":"Duas Barras" 
+        },
+        {
+        "cod": "3903",
+        "uf":"Duque de Caxias" 
+        },
+        {
+        "cod": "3904",
+        "uf":"Engenheiro Paulo de Frontin" 
+        },
+        {
+        "cod": "3905",
+        "uf":"Guapimirim" 
+        },
+        {
+        "cod": "3906",
+        "uf":"Iguaba Grande" 
+        },
+        {
+        "cod": "3907",
+        "uf":"Itaboraí" 
+        },
+        {
+        "cod": "3908",
+        "uf":"Itaguaí" 
+        },
+        {
+        "cod": "3909",
+        "uf":"Italva" 
+        },
+        {
+        "cod": "3910",
+        "uf":"Itaocara" 
+        },
+        {
+        "cod": "3911",
+        "uf":"Itaperuna" 
+        },
+        {
+        "cod": "3912",
+        "uf":"Itatiaia" 
+        },
+        {
+        "cod": "3913",
+        "uf":"Japeri" 
+        },
+        {
+        "cod": "3914",
+        "uf":"Laje do Muriaé" 
+        },
+        {
+        "cod": "3915",
+        "uf":"Macaé" 
+        },
+        {
+        "cod": "3916",
+        "uf":"Macuco" 
+        },
+        {
+        "cod": "3917",
+        "uf":"Magé" 
+        },
+        {
+        "cod": "3918",
+        "uf":"Mangaratiba" 
+        },
+        {
+        "cod": "3919",
+        "uf":"Maricá" 
+        },
+        {
+        "cod": "3920",
+        "uf":"Mendes" 
+        },
+        {
+        "cod": "3921",
+        "uf":"Mesquita" 
+        },
+        {
+        "cod": "3922",
+        "uf":"Miguel Pereira" 
+        },
+        {
+        "cod": "3923",
+        "uf":"Miracema" 
+        },
+        {
+        "cod": "3924",
+        "uf":"Natividade" 
+        },
+        {
+        "cod": "3925",
+        "uf":"Nilópolis" 
+        },
+        {
+        "cod": "3926",
+        "uf":"Niterói" 
+        },
+        {
+        "cod": "3927",
+        "uf":"Nova Friburgo" 
+        },
+        {
+        "cod": "3928",
+        "uf":"Nova Iguaçu" 
+        },
+        {
+        "cod": "3929",
+        "uf":"Paracambi" 
+        },
+        {
+        "cod": "3930",
+        "uf":"Paraíba do Sul" 
+        },
+        {
+        "cod": "3931",
+        "uf":"Parati" 
+        },
+        {
+        "cod": "3932",
+        "uf":"Paty do Alferes" 
+        },
+        {
+        "cod": "3933",
+        "uf":"Petrópolis" 
+        },
+        {
+        "cod": "3934",
+        "uf":"Pinheiral" 
+        },
+        {
+        "cod": "3935",
+        "uf":"Piraí" 
+        },
+        {
+        "cod": "3936",
+        "uf":"Porciúncula" 
+        },
+        {
+        "cod": "3937",
+        "uf":"Porto Real" 
+        },
+        {
+        "cod": "3938",
+        "uf":"Quatis" 
+        },
+        {
+        "cod": "3939",
+        "uf":"Queimados" 
+        },
+        {
+        "cod": "3940",
+        "uf":"Quissamã" 
+        },
+        {
+        "cod": "3941",
+        "uf":"Resende" 
+        },
+        {
+        "cod": "3942",
+        "uf":"Rio Bonito" 
+        },
+        {
+        "cod": "3943",
+        "uf":"Rio Claro" 
+        },
+        {
+        "cod": "3944",
+        "uf":"Rio das Flores" 
+        },
+        {
+        "cod": "3945",
+        "uf":"Rio das Ostras" 
+        },
+        {
+        "cod": "3946",
+        "uf":"Rio de Janeiro" 
+        },
+        {
+        "cod": "3947",
+        "uf":"Santa Maria Madalena" 
+        },
+        {
+        "cod": "3948",
+        "uf":"Santo Antônio de Pádua" 
+        },
+        {
+        "cod": "3949",
+        "uf":"São Fidélis" 
+        },
+        {
+        "cod": "3950",
+        "uf":"São Francisco de Itabapoana" 
+        },
+        {
+        "cod": "3951",
+        "uf":"São Gonçalo" 
+        },
+        {
+        "cod": "3952",
+        "uf":"São João da Barra" 
+        },
+        {
+        "cod": "3953",
+        "uf":"São João de Meriti" 
+        },
+        {
+        "cod": "3954",
+        "uf":"São José de Ubá" 
+        },
+        {
+        "cod": "3955",
+        "uf":"São José do Vale do Rio Preto" 
+        },
+        {
+        "cod": "3956",
+        "uf":"São Pedro da Aldeia" 
+        },
+        {
+        "cod": "3957",
+        "uf":"São Sebastião do Alto" 
+        },
+        {
+        "cod": "3958",
+        "uf":"Sapucaia" 
+        },
+        {
+        "cod": "3959",
+        "uf":"Saquarema" 
+        },
+        {
+        "cod": "3960",
+        "uf":"Seropédica" 
+        },
+        {
+        "cod": "3961",
+        "uf":"Silva Jardim" 
+        },
+        {
+        "cod": "3962",
+        "uf":"Sumidouro" 
+        },
+        {
+        "cod": "3963",
+        "uf":"Tanguá" 
+        },
+        {
+        "cod": "3964",
+        "uf":"Teresópolis" 
+        },
+        {
+        "cod": "3965",
+        "uf":"Trajano de Morais" 
+        },
+        {
+        "cod": "3966",
+        "uf":"Três Rios" 
+        },
+        {
+        "cod": "3967",
+        "uf":"Valença" 
+        },
+        {
+        "cod": "3968",
+        "uf":"Varre-Sai" 
+        },
+        {
+        "cod": "3969",
+        "uf":"Vassouras" 
+        },
+        {
+        "cod": "3970",
+        "uf":"Volta Redonda"},
       ]
     },
     {
@@ -13889,173 +14829,673 @@
       "sigla": "RN",
       "nome": "Rio Grande do Norte",
       "cidades": [
-        "Acari",
-        "Açu",
-        "Afonso Bezerra",
-        "Água Nova",
-        "Alexandria",
-        "Almino Afonso",
-        "Alto do Rodrigues",
-        "Angicos",
-        "Antônio Martins",
-        "Apodi",
-        "Areia Branca",
-        "Arês",
-        "Augusto Severo",
-        "Baía Formosa",
-        "Baraúna",
-        "Barcelona",
-        "Bento Fernandes",
-        "Bodó",
-        "Bom Jesus",
-        "Brejinho",
-        "Caiçara do Norte",
-        "Caiçara do Rio do Vento",
-        "Caicó",
-        "Campo Redondo",
-        "Canguaretama",
-        "Caraúbas",
-        "Carnaúba dos Dantas",
-        "Carnaubais",
-        "Ceará-Mirim",
-        "Cerro Corá",
-        "Coronel Ezequiel",
-        "Coronel João Pessoa",
-        "Cruzeta",
-        "Currais Novos",
-        "Doutor Severiano",
-        "Encanto",
-        "Equador",
-        "Espírito Santo",
-        "Extremoz",
-        "Felipe Guerra",
-        "Fernando Pedroza",
-        "Florânia",
-        "Francisco Dantas",
-        "Frutuoso Gomes",
-        "Galinhos",
-        "Goianinha",
-        "Governador Dix-Sept Rosado",
-        "Grossos",
-        "Guamaré",
-        "Ielmo Marinho",
-        "Ipanguaçu",
-        "Ipueira",
-        "Itajá",
-        "Itaú",
-        "Jaçanã",
-        "Jandaíra",
-        "Janduís",
-        "Januário Cicco",
-        "Japi",
-        "Jardim de Angicos",
-        "Jardim de Piranhas",
-        "Jardim do Seridó",
-        "João Câmara",
-        "João Dias",
-        "José da Penha",
-        "Jucurutu",
-        "Jundiá",
-        "Lagoa d'Anta",
-        "Lagoa de Pedras",
-        "Lagoa de Velhos",
-        "Lagoa Nova",
-        "Lagoa Salgada",
-        "Lajes",
-        "Lajes Pintadas",
-        "Lucrécia",
-        "Luís Gomes",
-        "Macaíba",
-        "Macau",
-        "Major Sales",
-        "Marcelino Vieira",
-        "Martins",
-        "Maxaranguape",
-        "Messias Targino",
-        "Montanhas",
-        "Monte Alegre",
-        "Monte das Gameleiras",
-        "Mossoró",
-        "Natal",
-        "Nísia Floresta",
-        "Nova Cruz",
-        "Olho-d'Água do Borges",
-        "Ouro Branco",
-        "Paraná",
-        "Paraú",
-        "Parazinho",
-        "Parelhas",
-        "Parnamirim",
-        "Passa e Fica",
-        "Passagem",
-        "Patu",
-        "Pau dos Ferros",
-        "Pedra Grande",
-        "Pedra Preta",
-        "Pedro Avelino",
-        "Pedro Velho",
-        "Pendências",
-        "Pilões",
-        "Poço Branco",
-        "Portalegre",
-        "Porto do Mangue",
-        "Presidente Juscelino",
-        "Pureza",
-        "Rafael Fernandes",
-        "Rafael Godeiro",
-        "Riacho da Cruz",
-        "Riacho de Santana",
-        "Riachuelo",
-        "Rio do Fogo",
-        "Rodolfo Fernandes",
-        "Ruy Barbosa",
-        "Santa Cruz",
-        "Santa Maria",
-        "Santana do Matos",
-        "Santana do Seridó",
-        "Santo Antônio",
-        "São Bento do Norte",
-        "São Bento do Trairí",
-        "São Fernando",
-        "São Francisco do Oeste",
-        "São Gonçalo do Amarante",
-        "São João do Sabugi",
-        "São José de Mipibu",
-        "São José do Campestre",
-        "São José do Seridó",
-        "São Miguel",
-        "São Miguel de Touros",
-        "São Paulo do Potengi",
-        "São Pedro",
-        "São Rafael",
-        "São Tomé",
-        "São Vicente",
-        "Senador Elói de Souza",
-        "Senador Georgino Avelino",
-        "Serra de São Bento",
-        "Serra do Mel",
-        "Serra Negra do Norte",
-        "Serrinha",
-        "Serrinha dos Pintos",
-        "Severiano Melo",
-        "Sítio Novo",
-        "Taboleiro Grande",
-        "Taipu",
-        "Tangará",
-        "Tenente Ananias",
-        "Tenente Laurentino Cruz",
-        "Tibau",
-        "Tibau do Sul",
-        "Timbaúba dos Batistas",
-        "Touros",
-        "Triunfo Potiguar",
-        "Umarizal",
-        "Upanema",
-        "Várzea",
-        "Venha-Ver",
-        "Vera Cruz",
-        "Viçosa",
-        "Vila Flor"
+        {
+        "cod": "4280",
+        "uf":"Acari" 
+        },
+        {
+        "cod": "4281",
+        "uf":"Açu" 
+        },
+        {
+        "cod": "4282",
+        "uf":"Afonso Bezerra" 
+        },
+        {
+        "cod": "4283",
+        "uf":"Água Nova" 
+        },
+        {
+        "cod": "4284",
+        "uf":"Alexandria" 
+        },
+        {
+        "cod": "4285",
+        "uf":"Almino Afonso" 
+        },
+        {
+        "cod": "4286",
+        "uf":"Alto do Rodrigues" 
+        },
+        {
+        "cod": "4287",
+        "uf":"Angicos" 
+        },
+        {
+        "cod": "4288",
+        "uf":"Antônio Martins" 
+        },
+        {
+        "cod": "4289",
+        "uf":"Apodi" 
+        },
+        {
+        "cod": "4290",
+        "uf":"Areia Branca" 
+        },
+        {
+        "cod": "4291",
+        "uf":"Arês" 
+        },
+        {
+        "cod": "4292",
+        "uf":"Augusto Severo" 
+        },
+        {
+        "cod": "4293",
+        "uf":"Baía Formosa" 
+        },
+        {
+        "cod": "4294",
+        "uf":"Baraúna" 
+        },
+        {
+        "cod": "4295",
+        "uf":"Barcelona" 
+        },
+        {
+        "cod": "4296",
+        "uf":"Bento Fernandes" 
+        },
+        {
+        "cod": "4297",
+        "uf":"Bodó" 
+        },
+        {
+        "cod": "4298",
+        "uf":"Bom Jesus" 
+        },
+        {
+        "cod": "4299",
+        "uf":"Brejinho" 
+        },
+        {
+        "cod": "4300",
+        "uf":"Caiçara do Norte" 
+        },
+        {
+        "cod": "4301",
+        "uf":"Caiçara do Rio do Vento" 
+        },
+        {
+        "cod": "4302",
+        "uf":"Caicó" 
+        },
+        {
+        "cod": "4303",
+        "uf":"Campo Redondo" 
+        },
+        {
+        "cod": "4304",
+        "uf":"Canguaretama" 
+        },
+        {
+        "cod": "4305",
+        "uf":"Caraúbas" 
+        },
+        {
+        "cod": "4306",
+        "uf":"Carnaúba dos Dantas" 
+        },
+        {
+        "cod": "4307",
+        "uf":"Carnaubais" 
+        },
+        {
+        "cod": "4308",
+        "uf":"Ceará-Mirim" 
+        },
+        {
+        "cod": "4309",
+        "uf":"Cerro Corá" 
+        },
+        {
+        "cod": "4310",
+        "uf":"Coronel Ezequiel" 
+        },
+        {
+        "cod": "4311",
+        "uf":"Coronel João Pessoa" 
+        },
+        {
+        "cod": "4312",
+        "uf":"Cruzeta" 
+        },
+        {
+        "cod": "4313",
+        "uf":"Currais Novos" 
+        },
+        {
+        "cod": "4314",
+        "uf":"Doutor Severiano" 
+        },
+        {
+        "cod": "4315",
+        "uf":"Encanto" 
+        },
+        {
+        "cod": "4316",
+        "uf":"Equador" 
+        },
+        {
+        "cod": "4317",
+        "uf":"Espírito Santo" 
+        },
+        {
+        "cod": "4318",
+        "uf":"Extremoz" 
+        },
+        {
+        "cod": "4319",
+        "uf":"Felipe Guerra" 
+        },
+        {
+        "cod": "4320",
+        "uf":"Fernando Pedroza" 
+        },
+        {
+        "cod": "4321",
+        "uf":"Florânia" 
+        },
+        {
+        "cod": "4322",
+        "uf":"Francisco Dantas" 
+        },
+        {
+        "cod": "4323",
+        "uf":"Frutuoso Gomes" 
+        },
+        {
+        "cod": "4324",
+        "uf":"Galinhos" 
+        },
+        {
+        "cod": "4325",
+        "uf":"Goianinha" 
+        },
+        {
+        "cod": "4326",
+        "uf":"Governador Dix-Sept Rosado" 
+        },
+        {
+        "cod": "4327",
+        "uf":"Grossos" 
+        },
+        {
+        "cod": "4328",
+        "uf":"Guamaré" 
+        },
+        {
+        "cod": "4329",
+        "uf":"Ielmo Marinho" 
+        },
+        {
+        "cod": "4330",
+        "uf":"Ipanguaçu" 
+        },
+        {
+        "cod": "4331",
+        "uf":"Ipueira" 
+        },
+        {
+        "cod": "4332",
+        "uf":"Itajá" 
+        },
+        {
+        "cod": "4333",
+        "uf":"Itaú" 
+        },
+        {
+        "cod": "4334",
+        "uf":"Jaçanã" 
+        },
+        {
+        "cod": "4335",
+        "uf":"Jandaíra" 
+        },
+        {
+        "cod": "4336",
+        "uf":"Janduís" 
+        },
+        {
+        "cod": "4337",
+        "uf":"Januário Cicco" 
+        },
+        {
+        "cod": "4338",
+        "uf":"Japi" 
+        },
+        {
+        "cod": "4339",
+        "uf":"Jardim de Angicos" 
+        },
+        {
+        "cod": "4340",
+        "uf":"Jardim de Piranhas" 
+        },
+        {
+        "cod": "4341",
+        "uf":"Jardim do Seridó" 
+        },
+        {
+        "cod": "4342",
+        "uf":"João Câmara" 
+        },
+        {
+        "cod": "4343",
+        "uf":"João Dias" 
+        },
+        {
+        "cod": "4344",
+        "uf":"José da Penha" 
+        },
+        {
+        "cod": "4345",
+        "uf":"Jucurutu" 
+        },
+        {
+        "cod": "4346",
+        "uf":"Jundiá" 
+        },
+        {
+        "cod": "4347",
+        "uf":"Lagoa d'Anta" 
+        },
+        {
+        "cod": "4348",
+        "uf":"Lagoa de Pedras" 
+        },
+        {
+        "cod": "4349",
+        "uf":"Lagoa de Velhos" 
+        },
+        {
+        "cod": "4350",
+        "uf":"Lagoa Nova" 
+        },
+        {
+        "cod": "4351",
+        "uf":"Lagoa Salgada" 
+        },
+        {
+        "cod": "4352",
+        "uf":"Lajes" 
+        },
+        {
+        "cod": "4353",
+        "uf":"Lajes Pintadas" 
+        },
+        {
+        "cod": "4354",
+        "uf":"Lucrécia" 
+        },
+        {
+        "cod": "4355",
+        "uf":"Luís Gomes" 
+        },
+        {
+        "cod": "4356",
+        "uf":"Macaíba" 
+        },
+        {
+        "cod": "4357",
+        "uf":"Macau" 
+        },
+        {
+        "cod": "4358",
+        "uf":"Major Sales" 
+        },
+        {
+        "cod": "4359",
+        "uf":"Marcelino Vieira" 
+        },
+        {
+        "cod": "4360",
+        "uf":"Martins" 
+        },
+        {
+        "cod": "4361",
+        "uf":"Maxaranguape" 
+        },
+        {
+        "cod": "4362",
+        "uf":"Messias Targino" 
+        },
+        {
+        "cod": "4363",
+        "uf":"Montanhas" 
+        },
+        {
+        "cod": "4364",
+        "uf":"Monte Alegre" 
+        },
+        {
+        "cod": "4365",
+        "uf":"Monte das Gameleiras" 
+        },
+        {
+        "cod": "4366",
+        "uf":"Mossoró" 
+        },
+        {
+        "cod": "4367",
+        "uf":"Natal" 
+        },
+        {
+        "cod": "4368",
+        "uf":"Nísia Floresta" 
+        },
+        {
+        "cod": "4369",
+        "uf":"Nova Cruz" 
+        },
+        {
+        "cod": "4370",
+        "uf":"Olho-d'Água do Borges" 
+        },
+        {
+        "cod": "4371",
+        "uf":"Ouro Branco" 
+        },
+        {
+        "cod": "4372",
+        "uf":"Paraná" 
+        },
+        {
+        "cod": "4373",
+        "uf":"Paraú" 
+        },
+        {
+        "cod": "4374",
+        "uf":"Parazinho" 
+        },
+        {
+        "cod": "4375",
+        "uf":"Parelhas" 
+        },
+        {
+        "cod": "4376",
+        "uf":"Parnamirim" 
+        },
+        {
+        "cod": "4377",
+        "uf":"Passa e Fica" 
+        },
+        {
+        "cod": "4378",
+        "uf":"Passagem" 
+        },
+        {
+        "cod": "4379",
+        "uf":"Patu" 
+        },
+        {
+        "cod": "4380",
+        "uf":"Pau dos Ferros" 
+        },
+        {
+        "cod": "4381",
+        "uf":"Pedra Grande" 
+        },
+        {
+        "cod": "4382",
+        "uf":"Pedra Preta" 
+        },
+        {
+        "cod": "4383",
+        "uf":"Pedro Avelino" 
+        },
+        {
+        "cod": "4384",
+        "uf":"Pedro Velho" 
+        },
+        {
+        "cod": "4385",
+        "uf":"Pendências" 
+        },
+        {
+        "cod": "4386",
+        "uf":"Pilões" 
+        },
+        {
+        "cod": "4387",
+        "uf":"Poço Branco" 
+        },
+        {
+        "cod": "4388",
+        "uf":"Portalegre" 
+        },
+        {
+        "cod": "4389",
+        "uf":"Porto do Mangue" 
+        },
+        {
+        "cod": "4390",
+        "uf":"Presidente Juscelino" 
+        },
+        {
+        "cod": "4391",
+        "uf":"Pureza" 
+        },
+        {
+        "cod": "4392",
+        "uf":"Rafael Fernandes" 
+        },
+        {
+        "cod": "4393",
+        "uf":"Rafael Godeiro" 
+        },
+        {
+        "cod": "4394",
+        "uf":"Riacho da Cruz" 
+        },
+        {
+        "cod": "4395",
+        "uf":"Riacho de Santana" 
+        },
+        {
+        "cod": "4396",
+        "uf":"Riachuelo" 
+        },
+        {
+        "cod": "4397",
+        "uf":"Rio do Fogo" 
+        },
+        {
+        "cod": "4398",
+        "uf":"Rodolfo Fernandes" 
+        },
+        {
+        "cod": "4399",
+        "uf":"Ruy Barbosa" 
+        },
+        {
+        "cod": "4400",
+        "uf":"Santa Cruz" 
+        },
+        {
+        "cod": "4401",
+        "uf":"Santa Maria" 
+        },
+        {
+        "cod": "4402",
+        "uf":"Santana do Matos" 
+        },
+        {
+        "cod": "4403",
+        "uf":"Santana do Seridó" 
+        },
+        {
+        "cod": "4404",
+        "uf":"Santo Antônio" 
+        },
+        {
+        "cod": "4405",
+        "uf":"São Bento do Norte" 
+        },
+        {
+        "cod": "4406",
+        "uf":"São Bento do Trairí" 
+        },
+        {
+        "cod": "4407",
+        "uf":"São Fernando" 
+        },
+        {
+        "cod": "4408",
+        "uf":"São Francisco do Oeste" 
+        },
+        {
+        "cod": "4409",
+        "uf":"São Gonçalo do Amarante" 
+        },
+        {
+        "cod": "4410",
+        "uf":"São João do Sabugi" 
+        },
+        {
+        "cod": "4411",
+        "uf":"São José de Mipibu" 
+        },
+        {
+        "cod": "4412",
+        "uf":"São José do Campestre" 
+        },
+        {
+        "cod": "4413",
+        "uf":"São José do Seridó" 
+        },
+        {
+        "cod": "4414",
+        "uf":"São Miguel" 
+        },
+        {
+        "cod": "4415",
+        "uf":"São Miguel de Touros" 
+        },
+        {
+        "cod": "4416",
+        "uf":"São Paulo do Potengi" 
+        },
+        {
+        "cod": "4417",
+        "uf":"São Pedro" 
+        },
+        {
+        "cod": "4418",
+        "uf":"São Rafael" 
+        },
+        {
+        "cod": "4419",
+        "uf":"São Tomé" 
+        },
+        {
+        "cod": "4420",
+        "uf":"São Vicente" 
+        },
+        {
+        "cod": "4421",
+        "uf":"Senador Elói de Souza" 
+        },
+        {
+        "cod": "4422",
+        "uf":"Senador Georgino Avelino" 
+        },
+        {
+        "cod": "4423",
+        "uf":"Serra de São Bento" 
+        },
+        {
+        "cod": "4424",
+        "uf":"Serra do Mel" 
+        },
+        {
+        "cod": "4425",
+        "uf":"Serra Negra do Norte" 
+        },
+        {
+        "cod": "4426",
+        "uf":"Serrinha" 
+        },
+        {
+        "cod": "4427",
+        "uf":"Serrinha dos Pintos" 
+        },
+        {
+        "cod": "4428",
+        "uf":"Severiano Melo" 
+        },
+        {
+        "cod": "4429",
+        "uf":"Sítio Novo" 
+        },
+        {
+        "cod": "4430",
+        "uf":"Taboleiro Grande" 
+        },
+        {
+        "cod": "4431",
+        "uf":"Taipu" 
+        },
+        {
+        "cod": "4432",
+        "uf":"Tangará" 
+        },
+        {
+        "cod": "4433",
+        "uf":"Tenente Ananias" 
+        },
+        {
+        "cod": "4434",
+        "uf":"Tenente Laurentino Cruz" 
+        },
+        {
+        "cod": "4435",
+        "uf":"Tibau" 
+        },
+        {
+        "cod": "4436",
+        "uf":"Tibau do Sul" 
+        },
+        {
+        "cod": "4437",
+        "uf":"Timbaúba dos Batistas" 
+        },
+        {
+        "cod": "4438",
+        "uf":"Touros" 
+        },
+        {
+        "cod": "4439",
+        "uf":"Triunfo Potiguar" 
+        },
+        {
+        "cod": "4440",
+        "uf":"Umarizal" 
+        },
+        {
+        "cod": "4441",
+        "uf":"Upanema" 
+        },
+        {
+        "cod": "4442",
+        "uf":"Várzea" 
+        },
+        {
+        "cod": "4443",
+        "uf":"Venha-Ver" 
+        },
+        {
+        "cod": "4444",
+        "uf":"Vera Cruz" 
+        },
+        {
+        "cod": "4445",
+        "uf":"Viçosa" 
+        },
+        {
+        "cod": "4446",
+        "uf":"Vila Flor"},
       ]
     },
     {
