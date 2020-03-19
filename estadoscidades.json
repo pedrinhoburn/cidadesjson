@@ -837,120 +837,461 @@
       "sigla": "BA",
       "nome": "Bahia",
       "cidades": [
-        "Abaíra",
-        "Abaré",
-        "Acajutiba",
-        "Adustina",
-        "Água Fria",
-        "Aiquara",
-        "Alagoinhas",
-        "Alcobaça",
-        "Almadina",
-        "Amargosa",
-        "Amélia Rodrigues",
-        "América Dourada",
-        "Anagé",
-        "Andaraí",
-        "Andorinha",
-        "Angical",
-        "Anguera",
-        "Antas",
-        "Antônio Cardoso",
-        "Antônio Gonçalves",
-        "Aporá",
-        "Apuarema",
-        "Araças",
-        "Aracatu",
-        "Araci",
-        "Aramari",
-        "Arataca",
-        "Aratuípe",
-        "Aurelino Leal",
-        "Baianópolis",
-        "Baixa Grande",
-        "Banzaê",
-        "Barra",
-        "Barra da Estiva",
-        "Barra do Choça",
-        "Barra do Mendes",
-        "Barra do Rocha",
-        "Barreiras",
-        "Barro Alto",
-        "Barrocas",
-        "Barro Preto",
-        "Belmonte",
-        "Belo Campo",
-        "Biritinga",
-        "Boa Nova",
-        "Boa Vista do Tupim",
-        "Bom Jesus da Lapa",
-        "Bom Jesus da Serra",
-        "Boninal",
-        "Bonito",
-        "Boquira",
-        "Botuporã",
-        "Brejões",
-        "Brejolândia",
-        "Brotas de Macaúbas",
-        "Brumado",
-        "Buerarema",
-        "Buritirama",
-        "Caatiba",
-        "Cabaceiras do Paraguaçu",
-        "Cachoeira",
-        "Caculé",
-        "Caém",
-        "Caetanos",
-        "Caetité",
-        "Cafarnaum",
-        "Cairu",
-        "Caldeirão Grande",
-        "Camacan",
-        "Camaçari",
-        "Camamu",
-        "Campo Alegre de Lourdes",
-        "Campo Formoso",
-        "Canápolis",
-        "Canarana",
-        "Canavieiras",
-        "Candeal",
-        "Candeias",
-        "Candiba",
-        "Cândido Sales",
-        "Cansanção",
-        "Canudos",
-        "Capela do Alto Alegre",
-        "Capim Grosso",
-        "Caraíbas",
-        "Caravelas",
-        "Cardeal da Silva",
-        "Carinhanha",
-        "Casa Nova",
-        "Castro Alves",
-        "Catolândia",
-        "Catu",
-        "Caturama",
-        "Central",
-        "Chorrochó",
-        "Cícero Dantas",
-        "Cipó",
-        "Coaraci",
-        "Cocos",
-        "Conceição da Feira",
-        "Conceição do Almeida",
-        "Conceição do Coité",
-        "Conceição do Jacuípe",
-        "Conde",
-        "Condeúba",
-        "Contendas do Sincorá",
-        "Coração de Maria",
-        "Cordeiros",
-        "Coribe",
-        "Coronel João Sá",
-        "Correntina",
-        "Cotegipe",
-        "Cravolândia",
-        "Crisópolis",
+        {
+        "cod": "4914",
+        "uf": "Abaíra"
+        },
+        {
+        "cod": "4914",
+        "uf": "Abaré"
+        },
+        {
+        "cod": "4914",
+        "uf": "Acajutiba"
+        },
+        {
+        "cod": "4914",
+        "uf": "Adustina"
+        },
+        {
+        "cod": "4914",
+        "uf": "Água Fria"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aiquara"
+        },
+        {
+        "cod": "4914",
+        "uf": "Alagoinhas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Alcobaça"
+        },
+        {
+        "cod": "4914",
+        "uf": "Almadina"
+        },
+        {
+        "cod": "4914",
+        "uf": "Amargosa"
+        },
+        {
+        "cod": "4914",
+        "uf": "Amélia Rodrigues"
+        },
+        {
+        "cod": "4914",
+        "uf": "América Dourada"
+        },
+        {
+        "cod": "4914",
+        "uf": "Anagé"
+        },
+        {
+        "cod": "4914",
+        "uf": "Andaraí"
+        },
+        {
+        "cod": "4914",
+        "uf": "Andorinha"
+        },
+        {
+        "cod": "4914",
+        "uf": "Angical"
+        },
+        {
+        "cod": "4914",
+        "uf": "Anguera"
+        },
+        {
+        "cod": "4914",
+        "uf": "Antas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Antônio Cardoso"
+        },
+        {
+        "cod": "4914",
+        "uf": "Antônio Gonçalves"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aporá"
+        },
+        {
+        "cod": "4914",
+        "uf": "Apuarema"
+        },
+        {
+        "cod": "4914",
+        "uf": "Araças"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aracatu"
+        },
+        {
+        "cod": "4914",
+        "uf": "Araci"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aramari"
+        },
+        {
+        "cod": "4914",
+        "uf": "Arataca"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aratuípe"
+        },
+        {
+        "cod": "4914",
+        "uf": "Aurelino Leal"
+        },
+        {
+        "cod": "4914",
+        "uf": "Baianópolis"
+        },
+        {
+        "cod": "4914",
+        "uf": "Baixa Grande"
+        },
+        {
+        "cod": "4914",
+        "uf": "Banzaê"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barra"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barra da Estiva"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barra do Choça"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barra do Mendes"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barra do Rocha"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barreiras"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barro Alto"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barrocas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Barro Preto"
+        },
+        {
+        "cod": "4914",
+        "uf": "Belmonte"
+        },
+        {
+        "cod": "4914",
+        "uf": "Belo Campo"
+        },
+        {
+        "cod": "4914",
+        "uf": "Biritinga"
+        },
+        {
+        "cod": "4914",
+        "uf": "Boa Nova"
+        },
+        {
+        "cod": "4914",
+        "uf": "Boa Vista do Tupim"
+        },
+        {
+        "cod": "4914",
+        "uf": "Bom Jesus da Lapa"
+        },
+        {
+        "cod": "4914",
+        "uf": "Bom Jesus da Serra"
+        },
+        {
+        "cod": "4914",
+        "uf": "Boninal"
+        },
+        {
+        "cod": "4914",
+        "uf": "Bonito"
+        },
+        {
+        "cod": "4914",
+        "uf": "Boquira"
+        },
+        {
+        "cod": "4914",
+        "uf": "Botuporã"
+        },
+        {
+        "cod": "4914",
+        "uf": "Brejões"
+        },
+        {
+        "cod": "4914",
+        "uf": "Brejolândia"
+        },
+        {
+        "cod": "4914",
+        "uf": "Brotas de Macaúbas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Brumado"
+        },
+        {
+        "cod": "4914",
+        "uf": "Buerarema"
+        },
+        {
+        "cod": "4914",
+        "uf": "Buritirama"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caatiba"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cabaceiras do Paraguaçu"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cachoeira"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caculé"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caém"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caetanos"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caetité"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cafarnaum"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cairu"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caldeirão Grande"
+        },
+        {
+        "cod": "4914",
+        "uf": "Camacan"
+        },
+        {
+        "cod": "4914",
+        "uf": "Camaçari"
+        },
+        {
+        "cod": "4914",
+        "uf": "Camamu"
+        },
+        {
+        "cod": "4914",
+        "uf": "Campo Alegre de Lourdes"
+        },
+        {
+        "cod": "4914",
+        "uf": "Campo Formoso"
+        },
+        {
+        "cod": "4914",
+        "uf": "Canápolis"
+        },
+        {
+        "cod": "4914",
+        "uf": "Canarana"
+        },
+        {
+        "cod": "4914",
+        "uf": "Canavieiras"
+        },
+        {
+        "cod": "4914",
+        "uf": "Candeal"
+        },
+        {
+        "cod": "4914",
+        "uf": "Candeias"
+        },
+        {
+        "cod": "4914",
+        "uf": "Candiba"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cândido Sales"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cansanção"
+        },
+        {
+        "cod": "4914",
+        "uf": "Canudos"
+        },
+        {
+        "cod": "4914",
+        "uf": "Capela do Alto Alegre"
+        },
+        {
+        "cod": "4914",
+        "uf": "Capim Grosso"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caraíbas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caravelas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cardeal da Silva"
+        },
+        {
+        "cod": "4914",
+        "uf": "Carinhanha"
+        },
+        {
+        "cod": "4914",
+        "uf": "Casa Nova"
+        },
+        {
+        "cod": "4914",
+        "uf": "Castro Alves"
+        },
+        {
+        "cod": "4914",
+        "uf": "Catolândia"
+        },
+        {
+        "cod": "4914",
+        "uf": "Catu"
+        },
+        {
+        "cod": "4914",
+        "uf": "Caturama"
+        },
+        {
+        "cod": "4914",
+        "uf": "Central"
+        },
+        {
+        "cod": "4914",
+        "uf": "Chorrochó"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cícero Dantas"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cipó"
+        },
+        {
+        "cod": "4914",
+        "uf": "Coaraci"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cocos"
+        },
+        {
+        "cod": "4914",
+        "uf": "Conceição da Feira"
+        },
+        {
+        "cod": "4914",
+        "uf": "Conceição do Almeida"
+        },
+        {
+        "cod": "4914",
+        "uf": "Conceição do Coité"
+        },
+        {
+        "cod": "4914",
+        "uf": "Conceição do Jacuípe"
+        },
+        {
+        "cod": "4914",
+        "uf": "Conde"
+        },
+        {
+        "cod": "4914",
+        "uf": "Condeúba"
+        },
+        {
+        "cod": "4914",
+        "uf": "Contendas do Sincorá"
+        },
+        {
+        "cod": "4914",
+        "uf": "Coração de Maria"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cordeiros"
+        },
+        {
+        "cod": "4914",
+        "uf": "Coribe"
+        },
+        {
+        "cod": "4914",
+        "uf": "Coronel João Sá"
+        },
+        {
+        "cod": "4914",
+        "uf": "Correntina"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cotegipe"
+        },
+        {
+        "cod": "4914",
+        "uf": "Cravolândia"
+        },
+        {
+        "cod": "4914",
+        "uf": "Crisópolis",
         "Cristópolis",
         "Cruz das Almas",
         "Curaçá",
