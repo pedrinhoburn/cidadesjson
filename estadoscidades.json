@@ -3260,85 +3260,318 @@
       "cod": "8",
       "sigla": "ES",
       "nome": "Espírito Santo",
-      "cidades": [
-        "Afonso Cláudio",
-        "Água Doce do Norte",
-        "Águia Branca",
-        "Alegre",
-        "Alfredo Chaves",
-        "Alto Rio Novo",
-        "Anchieta",
-        "Apiacá",
-        "Aracruz",
-        "Atilio Vivacqua",
-        "Baixo Guandu",
-        "Barra de São Francisco",
-        "Boa Esperança",
-        "Bom Jesus do Norte",
-        "Brejetuba",
-        "Cachoeiro de Itapemirim",
-        "Cariacica",
-        "Castelo",
-        "Colatina",
-        "Conceição da Barra",
-        "Conceição do Castelo",
-        "Divino de São Lourenço",
-        "Domingos Martins",
-        "Dores do Rio Preto",
-        "Ecoporanga",
-        "Fundão",
-        "Governador Lindenberg",
-        "Guaçuí",
-        "Guarapari",
-        "Ibatiba",
-        "Ibiraçu",
-        "Ibitirama",
-        "Iconha",
-        "Irupi",
-        "Itaguaçu",
-        "Itapemirim",
-        "Itarana",
-        "Iúna",
-        "Jaguaré",
-        "Jerônimo Monteiro",
-        "João Neiva",
-        "Laranja da Terra",
-        "Linhares",
-        "Mantenópolis",
-        "Marataizes",
-        "Marechal Floriano",
-        "Marilândia",
-        "Mimoso do Sul",
-        "Montanha",
-        "Mucurici",
-        "Muniz Freire",
-        "Muqui",
-        "Nova Venécia",
-        "Pancas",
-        "Pedro Canário",
-        "Pinheiros",
-        "Piúma",
-        "Ponto Belo",
-        "Presidente Kennedy",
-        "Rio Bananal",
-        "Rio Novo do Sul",
-        "Santa Leopoldina",
-        "Santa Maria de Jetibá",
-        "Santa Teresa",
-        "São Domingos do Norte",
-        "São Gabriel da Palha",
-        "São José do Calçado",
-        "São Mateus",
-        "São Roque do Canaã",
-        "Serra",
-        "Sooretama",
-        "Vargem Alta",
-        "Venda Nova do Imigrante",
-        "Viana",
-        "Vila Pavão",
-        "Vila Valério",
-        "Vila Velha",
-        "Vitória"
+      "cidades": [        
+        {
+        "cod": "3802",
+        "uf":"Afonso Cláudio" 
+        },
+        {
+        "cod": "3804",
+        "uf":"Água Doce do Norte" 
+        },
+        {
+        "cod": "3803",
+        "uf":"Águia Branca" 
+        },
+        {
+        "cod": "3805",
+        "uf":"Alegre" 
+        },
+        {
+        "cod": "3806",
+        "uf":"Alfredo Chaves" 
+        },
+        {
+        "cod": "3807",
+        "uf":"Alto Rio Novo" 
+        },
+        {
+        "cod": "3808",
+        "uf":"Anchieta" 
+        },
+        {
+        "cod": "3809",
+        "uf":"Apiacá" 
+        },
+        {
+        "cod": "3810",
+        "uf":"Aracruz" 
+        },
+        {
+        "cod": "3811",
+        "uf":"Atilio Vivacqua" 
+        },
+        {
+        "cod": "3812",
+        "uf":"Baixo Guandu" 
+        },
+        {
+        "cod": "3813",
+        "uf":"Barra de São Francisco" 
+        },
+        {
+        "cod": "3814",
+        "uf":"Boa Esperança" 
+        },
+        {
+        "cod": "3815",
+        "uf":"Bom Jesus do Norte" 
+        },
+        {
+        "cod": "3816",
+        "uf":"Brejetuba" 
+        },
+        {
+        "cod": "3817",
+        "uf":"Cachoeiro de Itapemirim" 
+        },
+        {
+        "cod": "3818",
+        "uf":"Cariacica" 
+        },
+        {
+        "cod": "3819",
+        "uf":"Castelo" 
+        },
+        {
+        "cod": "3820",
+        "uf":"Colatina" 
+        },
+        {
+        "cod": "3821",
+        "uf":"Conceição da Barra" 
+        },
+        {
+        "cod": "3822",
+        "uf":"Conceição do Castelo" 
+        },
+        {
+        "cod": "3823",
+        "uf":"Divino de São Lourenço" 
+        },
+        {
+        "cod": "3824",
+        "uf":"Domingos Martins" 
+        },
+        {
+        "cod": "3825",
+        "uf":"Dores do Rio Preto" 
+        },
+        {
+        "cod": "3826",
+        "uf":"Ecoporanga" 
+        },
+        {
+        "cod": "3827",
+        "uf":"Fundão" 
+        },
+        {
+        "cod": "3828",
+        "uf":"Governador Lindenberg" 
+        },
+        {
+        "cod": "3829",
+        "uf":"Guaçuí" 
+        },
+        {
+        "cod": "3830",
+        "uf":"Guarapari" 
+        },
+        {
+        "cod": "3831",
+        "uf":"Ibatiba" 
+        },
+        {
+        "cod": "3832",
+        "uf":"Ibiraçu" 
+        },
+        {
+        "cod": "3833",
+        "uf":"Ibitirama" 
+        },
+        {
+        "cod": "3834",
+        "uf":"Iconha" 
+        },
+        {
+        "cod": "3835",
+        "uf":"Irupi" 
+        },
+        {
+        "cod": "3836",
+        "uf":"Itaguaçu" 
+        },
+        {
+        "cod": "3837",
+        "uf":"Itapemirim" 
+        },
+        {
+        "cod": "3838",
+        "uf":"Itarana" 
+        },
+        {
+        "cod": "3839",
+        "uf":"Iúna" 
+        },
+        {
+        "cod": "3840",
+        "uf":"Jaguaré" 
+        },
+        {
+        "cod": "3841",
+        "uf":"Jerônimo Monteiro" 
+        },
+        {
+        "cod": "3842",
+        "uf":"João Neiva" 
+        },
+        {
+        "cod": "3843",
+        "uf":"Laranja da Terra" 
+        },
+        {
+        "cod": "3844",
+        "uf":"Linhares" 
+        },
+        {
+        "cod": "3845",
+        "uf":"Mantenópolis" 
+        },
+        {
+        "cod": "3846",
+        "uf":"Marataizes" 
+        },
+        {
+        "cod": "3847",
+        "uf":"Marechal Floriano" 
+        },
+        {
+        "cod": "3848",
+        "uf":"Marilândia" 
+        },
+        {
+        "cod": "3849",
+        "uf":"Mimoso do Sul" 
+        },
+        {
+        "cod": "3850",
+        "uf":"Montanha" 
+        },
+        {
+        "cod": "3851",
+        "uf":"Mucurici" 
+        },
+        {
+        "cod": "3852",
+        "uf":"Muniz Freire" 
+        },
+        {
+        "cod": "3853",
+        "uf":"Muqui" 
+        },
+        {
+        "cod": "3854",
+        "uf":"Nova Venécia" 
+        },
+        {
+        "cod": "3855",
+        "uf":"Pancas" 
+        },
+        {
+        "cod": "3856",
+        "uf":"Pedro Canário" 
+        },
+        {
+        "cod": "3857",
+        "uf":"Pinheiros" 
+        },
+        {
+        "cod": "3858",
+        "uf":"Piúma" 
+        },
+        {
+        "cod": "3859",
+        "uf":"Ponto Belo" 
+        },
+        {
+        "cod": "3860",
+        "uf":"Presidente Kennedy" 
+        },
+        {
+        "cod": "3861",
+        "uf":"Rio Bananal" 
+        },
+        {
+        "cod": "3862",
+        "uf":"Rio Novo do Sul" 
+        },
+        {
+        "cod": "3863",
+        "uf":"Santa Leopoldina" 
+        },
+        {
+        "cod": "3864",
+        "uf":"Santa Maria de Jetibá" 
+        },
+        {
+        "cod": "3865",
+        "uf":"Santa Teresa" 
+        },
+        {
+        "cod": "3866",
+        "uf":"São Domingos do Norte" 
+        },
+        {
+        "cod": "3867",
+        "uf":"São Gabriel da Palha" 
+        },
+        {
+        "cod": "3868",
+        "uf":"São José do Calçado" 
+        },
+        {
+        "cod": "3869",
+        "uf":"São Mateus" 
+        },
+        {
+        "cod": "3870",
+        "uf":"São Roque do Canaã" 
+        },
+        {
+        "cod": "3871",
+        "uf":"Serra" 
+        },
+        {
+        "cod": "3872",
+        "uf":"Sooretama" 
+        },
+        {
+        "cod": "3873",
+        "uf":"Vargem Alta" 
+        },
+        {
+        "cod": "3874",
+        "uf":"Venda Nova do Imigrante" 
+        },
+        {
+        "cod": "3875",
+        "uf":"Viana" 
+        },
+        {
+        "cod": "3876",
+        "uf":"Vila Pavão" 
+        },
+        {
+        "cod": "3877",
+        "uf":"Vila Valério" 
+        },
+        {
+        "cod": "3878",
+        "uf":"Vila Velha" 
+        },
+        {
+        "cod": "3879",
+        "uf":"Vitória"},
       ]
     },
     {
