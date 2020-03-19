@@ -838,763 +838,1672 @@
       "nome": "Bahia",
       "cidades": [
         {
-        "cod": "4914",
-        "uf": "Abaíra"
+        "cod": "5031",
+        "uf":"Abaíra" 
         },
         {
-        "cod": "4914",
-        "uf": "Abaré"
+        "cod": "5032",
+        "uf":"Abaré" 
         },
         {
-        "cod": "4914",
-        "uf": "Acajutiba"
+        "cod": "5033",
+        "uf":"Acajutiba" 
         },
         {
-        "cod": "4914",
-        "uf": "Adustina"
+        "cod": "5034",
+        "uf":"Adustina" 
         },
         {
-        "cod": "4914",
-        "uf": "Água Fria"
+        "cod": "5035",
+        "uf":"Água Fria" 
         },
         {
-        "cod": "4914",
-        "uf": "Aiquara"
+        "cod": "5036",
+        "uf":"Aiquara" 
         },
         {
-        "cod": "4914",
-        "uf": "Alagoinhas"
+        "cod": "5037",
+        "uf":"Alagoinhas" 
         },
         {
-        "cod": "4914",
-        "uf": "Alcobaça"
+        "cod": "5038",
+        "uf":"Alcobaça" 
         },
         {
-        "cod": "4914",
-        "uf": "Almadina"
+        "cod": "5039",
+        "uf":"Almadina" 
         },
         {
-        "cod": "4914",
-        "uf": "Amargosa"
+        "cod": "5040",
+        "uf":"Amargosa" 
         },
         {
-        "cod": "4914",
-        "uf": "Amélia Rodrigues"
+        "cod": "5041",
+        "uf":"Amélia Rodrigues" 
         },
         {
-        "cod": "4914",
-        "uf": "América Dourada"
+        "cod": "5042",
+        "uf":"América Dourada" 
         },
         {
-        "cod": "4914",
-        "uf": "Anagé"
+        "cod": "5043",
+        "uf":"Anagé" 
         },
         {
-        "cod": "4914",
-        "uf": "Andaraí"
+        "cod": "5044",
+        "uf":"Andaraí" 
         },
         {
-        "cod": "4914",
-        "uf": "Andorinha"
+        "cod": "5045",
+        "uf":"Andorinha" 
         },
         {
-        "cod": "4914",
-        "uf": "Angical"
+        "cod": "5046",
+        "uf":"Angical" 
         },
         {
-        "cod": "4914",
-        "uf": "Anguera"
+        "cod": "5047",
+        "uf":"Anguera" 
         },
         {
-        "cod": "4914",
-        "uf": "Antas"
+        "cod": "5048",
+        "uf":"Antas" 
         },
         {
-        "cod": "4914",
-        "uf": "Antônio Cardoso"
+        "cod": "5049",
+        "uf":"Antônio Cardoso" 
         },
         {
-        "cod": "4914",
-        "uf": "Antônio Gonçalves"
+        "cod": "5050",
+        "uf":"Antônio Gonçalves" 
         },
         {
-        "cod": "4914",
-        "uf": "Aporá"
+        "cod": "5051",
+        "uf":"Aporá" 
         },
         {
-        "cod": "4914",
-        "uf": "Apuarema"
+        "cod": "5052",
+        "uf":"Apuarema" 
         },
         {
-        "cod": "4914",
-        "uf": "Araças"
+        "cod": "5053",
+        "uf":"Araças" 
         },
         {
-        "cod": "4914",
-        "uf": "Aracatu"
+        "cod": "5054",
+        "uf":"Aracatu" 
         },
         {
-        "cod": "4914",
-        "uf": "Araci"
+        "cod": "5055",
+        "uf":"Araci" 
         },
         {
-        "cod": "4914",
-        "uf": "Aramari"
+        "cod": "5056",
+        "uf":"Aramari" 
         },
         {
-        "cod": "4914",
-        "uf": "Arataca"
+        "cod": "5057",
+        "uf":"Arataca" 
         },
         {
-        "cod": "4914",
-        "uf": "Aratuípe"
+        "cod": "5058",
+        "uf":"Aratuípe" 
         },
         {
-        "cod": "4914",
-        "uf": "Aurelino Leal"
+        "cod": "5059",
+        "uf":"Aurelino Leal" 
         },
         {
-        "cod": "4914",
-        "uf": "Baianópolis"
+        "cod": "5060",
+        "uf":"Baianópolis" 
         },
         {
-        "cod": "4914",
-        "uf": "Baixa Grande"
+        "cod": "5061",
+        "uf":"Baixa Grande" 
         },
         {
-        "cod": "4914",
-        "uf": "Banzaê"
+        "cod": "5062",
+        "uf":"Banzaê" 
         },
         {
-        "cod": "4914",
-        "uf": "Barra"
+        "cod": "5063",
+        "uf":"Barra" 
         },
         {
-        "cod": "4914",
-        "uf": "Barra da Estiva"
+        "cod": "5064",
+        "uf":"Barra da Estiva" 
         },
         {
-        "cod": "4914",
-        "uf": "Barra do Choça"
+        "cod": "5065",
+        "uf":"Barra do Choça" 
         },
         {
-        "cod": "4914",
-        "uf": "Barra do Mendes"
+        "cod": "5066",
+        "uf":"Barra do Mendes" 
         },
         {
-        "cod": "4914",
-        "uf": "Barra do Rocha"
+        "cod": "5067",
+        "uf":"Barra do Rocha" 
         },
         {
-        "cod": "4914",
-        "uf": "Barreiras"
+        "cod": "5068",
+        "uf":"Barreiras" 
         },
         {
-        "cod": "4914",
-        "uf": "Barro Alto"
+        "cod": "5069",
+        "uf":"Barro Alto" 
         },
         {
-        "cod": "4914",
-        "uf": "Barrocas"
+        "cod": "5070",
+        "uf":"Barrocas" 
         },
         {
-        "cod": "4914",
-        "uf": "Barro Preto"
+        "cod": "5071",
+        "uf":"Barro Preto" 
         },
         {
-        "cod": "4914",
-        "uf": "Belmonte"
+        "cod": "5072",
+        "uf":"Belmonte" 
         },
         {
-        "cod": "4914",
-        "uf": "Belo Campo"
+        "cod": "5073",
+        "uf":"Belo Campo" 
         },
         {
-        "cod": "4914",
-        "uf": "Biritinga"
+        "cod": "5074",
+        "uf":"Biritinga" 
         },
         {
-        "cod": "4914",
-        "uf": "Boa Nova"
+        "cod": "5075",
+        "uf":"Boa Nova" 
         },
         {
-        "cod": "4914",
-        "uf": "Boa Vista do Tupim"
+        "cod": "5076",
+        "uf":"Boa Vista do Tupim" 
         },
         {
-        "cod": "4914",
-        "uf": "Bom Jesus da Lapa"
+        "cod": "5077",
+        "uf":"Bom Jesus da Lapa" 
         },
         {
-        "cod": "4914",
-        "uf": "Bom Jesus da Serra"
+        "cod": "5078",
+        "uf":"Bom Jesus da Serra" 
         },
         {
-        "cod": "4914",
-        "uf": "Boninal"
+        "cod": "5079",
+        "uf":"Boninal" 
         },
         {
-        "cod": "4914",
-        "uf": "Bonito"
+        "cod": "5080",
+        "uf":"Bonito" 
         },
         {
-        "cod": "4914",
-        "uf": "Boquira"
+        "cod": "5081",
+        "uf":"Boquira" 
         },
         {
-        "cod": "4914",
-        "uf": "Botuporã"
+        "cod": "5082",
+        "uf":"Botuporã" 
         },
         {
-        "cod": "4914",
-        "uf": "Brejões"
+        "cod": "5083",
+        "uf":"Brejões" 
         },
         {
-        "cod": "4914",
-        "uf": "Brejolândia"
+        "cod": "5084",
+        "uf":"Brejolândia" 
         },
         {
-        "cod": "4914",
-        "uf": "Brotas de Macaúbas"
+        "cod": "5085",
+        "uf":"Brotas de Macaúbas" 
         },
         {
-        "cod": "4914",
-        "uf": "Brumado"
+        "cod": "5086",
+        "uf":"Brumado" 
         },
         {
-        "cod": "4914",
-        "uf": "Buerarema"
+        "cod": "5087",
+        "uf":"Buerarema" 
         },
         {
-        "cod": "4914",
-        "uf": "Buritirama"
+        "cod": "5088",
+        "uf":"Buritirama" 
         },
         {
-        "cod": "4914",
-        "uf": "Caatiba"
+        "cod": "5089",
+        "uf":"Caatiba" 
         },
         {
-        "cod": "4914",
-        "uf": "Cabaceiras do Paraguaçu"
+        "cod": "5090",
+        "uf":"Cabaceiras do Paraguaçu" 
         },
         {
-        "cod": "4914",
-        "uf": "Cachoeira"
+        "cod": "5091",
+        "uf":"Cachoeira" 
         },
         {
-        "cod": "4914",
-        "uf": "Caculé"
+        "cod": "5092",
+        "uf":"Caculé" 
         },
         {
-        "cod": "4914",
-        "uf": "Caém"
+        "cod": "5093",
+        "uf":"Caém" 
         },
         {
-        "cod": "4914",
-        "uf": "Caetanos"
+        "cod": "5094",
+        "uf":"Caetanos" 
         },
         {
-        "cod": "4914",
-        "uf": "Caetité"
+        "cod": "5095",
+        "uf":"Caetité" 
         },
         {
-        "cod": "4914",
-        "uf": "Cafarnaum"
+        "cod": "5096",
+        "uf":"Cafarnaum" 
         },
         {
-        "cod": "4914",
-        "uf": "Cairu"
+        "cod": "5097",
+        "uf":"Cairu" 
         },
         {
-        "cod": "4914",
-        "uf": "Caldeirão Grande"
+        "cod": "5098",
+        "uf":"Caldeirão Grande" 
         },
         {
-        "cod": "4914",
-        "uf": "Camacan"
+        "cod": "5099",
+        "uf":"Camacan" 
         },
         {
-        "cod": "4914",
-        "uf": "Camaçari"
+        "cod": "5100",
+        "uf":"Camaçari" 
         },
         {
-        "cod": "4914",
-        "uf": "Camamu"
+        "cod": "5101",
+        "uf":"Camamu" 
         },
         {
-        "cod": "4914",
-        "uf": "Campo Alegre de Lourdes"
+        "cod": "5102",
+        "uf":"Campo Alegre de Lourdes" 
         },
         {
-        "cod": "4914",
-        "uf": "Campo Formoso"
+        "cod": "5103",
+        "uf":"Campo Formoso" 
         },
         {
-        "cod": "4914",
-        "uf": "Canápolis"
+        "cod": "5104",
+        "uf":"Canápolis" 
         },
         {
-        "cod": "4914",
-        "uf": "Canarana"
+        "cod": "5105",
+        "uf":"Canarana" 
         },
         {
-        "cod": "4914",
-        "uf": "Canavieiras"
+        "cod": "5106",
+        "uf":"Canavieiras" 
         },
         {
-        "cod": "4914",
-        "uf": "Candeal"
+        "cod": "5107",
+        "uf":"Candeal" 
         },
         {
-        "cod": "4914",
-        "uf": "Candeias"
+        "cod": "5108",
+        "uf":"Candeias" 
         },
         {
-        "cod": "4914",
-        "uf": "Candiba"
+        "cod": "5109",
+        "uf":"Candiba" 
         },
         {
-        "cod": "4914",
-        "uf": "Cândido Sales"
+        "cod": "5110",
+        "uf":"Cândido Sales" 
         },
         {
-        "cod": "4914",
-        "uf": "Cansanção"
+        "cod": "5111",
+        "uf":"Cansanção" 
         },
         {
-        "cod": "4914",
-        "uf": "Canudos"
+        "cod": "5112",
+        "uf":"Canudos" 
         },
         {
-        "cod": "4914",
-        "uf": "Capela do Alto Alegre"
+        "cod": "5113",
+        "uf":"Capela do Alto Alegre" 
         },
         {
-        "cod": "4914",
-        "uf": "Capim Grosso"
+        "cod": "5114",
+        "uf":"Capim Grosso" 
         },
         {
-        "cod": "4914",
-        "uf": "Caraíbas"
+        "cod": "5115",
+        "uf":"Caraíbas" 
         },
         {
-        "cod": "4914",
-        "uf": "Caravelas"
+        "cod": "5116",
+        "uf":"Caravelas" 
         },
         {
-        "cod": "4914",
-        "uf": "Cardeal da Silva"
+        "cod": "5117",
+        "uf":"Cardeal da Silva" 
         },
         {
-        "cod": "4914",
-        "uf": "Carinhanha"
+        "cod": "5118",
+        "uf":"Carinhanha" 
         },
         {
-        "cod": "4914",
-        "uf": "Casa Nova"
+        "cod": "5119",
+        "uf":"Casa Nova" 
         },
         {
-        "cod": "4914",
-        "uf": "Castro Alves"
+        "cod": "5120",
+        "uf":"Castro Alves" 
         },
         {
-        "cod": "4914",
-        "uf": "Catolândia"
+        "cod": "5121",
+        "uf":"Catolândia" 
         },
         {
-        "cod": "4914",
-        "uf": "Catu"
+        "cod": "5122",
+        "uf":"Catu" 
         },
         {
-        "cod": "4914",
-        "uf": "Caturama"
+        "cod": "5123",
+        "uf":"Caturama" 
         },
         {
-        "cod": "4914",
-        "uf": "Central"
+        "cod": "5124",
+        "uf":"Central" 
         },
         {
-        "cod": "4914",
-        "uf": "Chorrochó"
+        "cod": "5125",
+        "uf":"Chorrochó" 
         },
         {
-        "cod": "4914",
-        "uf": "Cícero Dantas"
+        "cod": "5126",
+        "uf":"Cícero Dantas" 
         },
         {
-        "cod": "4914",
-        "uf": "Cipó"
+        "cod": "5127",
+        "uf":"Cipó" 
         },
         {
-        "cod": "4914",
-        "uf": "Coaraci"
+        "cod": "5128",
+        "uf":"Coaraci" 
         },
         {
-        "cod": "4914",
-        "uf": "Cocos"
+        "cod": "5129",
+        "uf":"Cocos" 
         },
         {
-        "cod": "4914",
-        "uf": "Conceição da Feira"
+        "cod": "5130",
+        "uf":"Conceição da Feira" 
         },
         {
-        "cod": "4914",
-        "uf": "Conceição do Almeida"
+        "cod": "5131",
+        "uf":"Conceição do Almeida" 
         },
         {
-        "cod": "4914",
-        "uf": "Conceição do Coité"
+        "cod": "5132",
+        "uf":"Conceição do Coité" 
         },
         {
-        "cod": "4914",
-        "uf": "Conceição do Jacuípe"
+        "cod": "5133",
+        "uf":"Conceição do Jacuípe" 
         },
         {
-        "cod": "4914",
-        "uf": "Conde"
+        "cod": "5134",
+        "uf":"Conde" 
         },
         {
-        "cod": "4914",
-        "uf": "Condeúba"
+        "cod": "5135",
+        "uf":"Condeúba" 
         },
         {
-        "cod": "4914",
-        "uf": "Contendas do Sincorá"
+        "cod": "5136",
+        "uf":"Contendas do Sincorá" 
         },
         {
-        "cod": "4914",
-        "uf": "Coração de Maria"
+        "cod": "5137",
+        "uf":"Coração de Maria" 
         },
         {
-        "cod": "4914",
-        "uf": "Cordeiros"
+        "cod": "5138",
+        "uf":"Cordeiros" 
         },
         {
-        "cod": "4914",
-        "uf": "Coribe"
+        "cod": "5139",
+        "uf":"Coribe" 
         },
         {
-        "cod": "4914",
-        "uf": "Coronel João Sá"
+        "cod": "5140",
+        "uf":"Coronel João Sá" 
         },
         {
-        "cod": "4914",
-        "uf": "Correntina"
+        "cod": "5141",
+        "uf":"Correntina" 
         },
         {
-        "cod": "4914",
-        "uf": "Cotegipe"
+        "cod": "5142",
+        "uf":"Cotegipe" 
         },
         {
-        "cod": "4914",
-        "uf": "Cravolândia"
+        "cod": "5143",
+        "uf":"Cravolândia" 
         },
         {
-        "cod": "4914",
-        "uf": "Crisópolis",
-        "Cristópolis",
-        "Cruz das Almas",
-        "Curaçá",
-        "Dário Meira",
-        "Dias d'Ávila",
-        "Dom Basílio",
-        "Dom Macedo Costa",
-        "Elísio Medrado",
-        "Encruzilhada",
-        "Entre Rios",
-        "Érico Cardoso",
-        "Esplanada",
-        "Euclides da Cunha",
-        "Eunápolis",
-        "Fátima",
-        "Feira da Mata",
-        "Feira de Santana",
-        "Filadélfia",
-        "Firmino Alves",
-        "Floresta Azul",
-        "Formosa do Rio Preto",
-        "Gandu",
-        "Gavião",
-        "Gentio do Ouro",
-        "Glória",
-        "Gongogi",
-        "Governador Mangabeira",
-        "Guajeru",
-        "Guanambi",
-        "Guaratinga",
-        "Heliópolis",
-        "Iaçu",
-        "Ibiassucê",
-        "Ibicaraí",
-        "Ibicoara",
-        "Ibicuí",
-        "Ibipeba",
-        "Ibipitanga",
-        "Ibiquera",
-        "Ibirapitanga",
-        "Ibirapuã",
-        "Ibirataia",
-        "Ibitiara",
-        "Ibititá",
-        "Ibotirama",
-        "Ichu",
-        "Igaporã",
-        "Igrapiúna",
-        "Iguaí",
-        "Ilhéus",
-        "Inhambupe",
-        "Ipecaetá",
-        "Ipiaú",
-        "Ipirá",
-        "Ipupiara",
-        "Irajuba",
-        "Iramaia",
-        "Iraquara",
-        "Irará",
-        "Irecê",
-        "Itabela",
-        "Itaberaba",
-        "Itabuna",
-        "Itacaré",
-        "Itaeté",
-        "Itagi",
-        "Itagibá",
-        "Itagimirim",
-        "Itaguaçu da Bahia",
-        "Itaju do Colônia",
-        "Itajuípe",
-        "Itamaraju",
-        "Itamari",
-        "Itambé",
-        "Itanagra",
-        "Itanhém",
-        "Itaparica",
-        "Itapé",
-        "Itapebi",
-        "Itapetinga",
-        "Itapicuru",
-        "Itapitanga",
-        "Itaquara",
-        "Itarantim",
-        "Itatim",
-        "Itiruçu",
-        "Itiúba",
-        "Itororó",
-        "Ituaçu",
-        "Ituberá",
-        "Iuiú",
-        "Jaborandi",
-        "Jacaraci",
-        "Jacobina",
-        "Jaguaquara",
-        "Jaguarari",
-        "Jaguaripe",
-        "Jandaíra",
-        "Jequié",
-        "Jeremoabo",
-        "Jiquiriçá",
-        "Jitaúna",
-        "João Dourado",
-        "Juazeiro",
-        "Jucuruçu",
-        "Jussara",
-        "Jussari",
-        "Jussiape",
-        "Lafaiete Coutinho",
-        "Lagoa Real",
-        "Laje",
-        "Lajedão",
-        "Lajedinho",
-        "Lajedo do Tabocal",
-        "Lamarão",
-        "Lapão",
-        "Lauro de Freitas",
-        "Lençóis",
-        "Licínio de Almeida",
-        "Livramento de Nossa Senhora",
-        "Luís Eduardo Magalhães",
-        "Macajuba",
-        "Macarani",
-        "Macaúbas",
-        "Macururé",
-        "Madre de Deus",
-        "Maetinga",
-        "Maiquinique",
-        "Mairi",
-        "Malhada",
-        "Malhada de Pedras",
-        "Manoel Vitorino",
-        "Mansidão",
-        "Maracás",
-        "Maragogipe",
-        "Maraú",
-        "Marcionílio Souza",
-        "Mascote",
-        "Mata de São João",
-        "Matina",
-        "Medeiros Neto",
-        "Miguel Calmon",
-        "Milagres",
-        "Mirangaba",
-        "Mirante",
-        "Monte Santo",
-        "Morpará",
-        "Morro do Chapéu",
-        "Mortugaba",
-        "Mucugê",
-        "Mucuri",
-        "Mulungu do Morro",
-        "Mundo Novo",
-        "Muniz Ferreira",
-        "Muquém de São Francisco",
-        "Muritiba",
-        "Mutuípe",
-        "Nazaré",
-        "Nilo Peçanha",
-        "Nordestina",
-        "Nova Canaã",
-        "Nova Fátima",
-        "Nova Ibiá",
-        "Nova Itarana",
-        "Nova Redenção",
-        "Nova Soure",
-        "Nova Viçosa",
-        "Novo Horizonte",
-        "Novo Triunfo",
-        "Olindina",
-        "Oliveira dos Brejinhos",
-        "Ouriçangas",
-        "Ourolândia",
-        "Palmas de Monte Alto",
-        "Palmeiras",
-        "Paramirim",
-        "Paratinga",
-        "Paripiranga",
-        "Pau Brasil",
-        "Paulo Afonso",
-        "Pé de Serra",
-        "Pedrão",
-        "Pedro Alexandre",
-        "Piatã",
-        "Pilão Arcado",
-        "Pindaí",
-        "Pindobaçu",
-        "Pintadas",
-        "Piraí do Norte",
-        "Piripá",
-        "Piritiba",
-        "Planaltino",
-        "Planalto",
-        "Poções",
-        "Pojuca",
-        "Ponto Novo",
-        "Porto Seguro",
-        "Potiraguá",
-        "Prado",
-        "Presidente Dutra",
-        "Presidente Jânio Quadros",
-        "Presidente Tancredo Neves",
-        "Queimadas",
-        "Quijingue",
-        "Quixabeira",
-        "Rafael Jambeiro",
-        "Remanso",
-        "Retirolândia",
-        "Riachão das Neves",
-        "Riachão do Jacuípe",
-        "Riacho de Santana",
-        "Ribeira do Amparo",
-        "Ribeira do Pombal",
-        "Ribeirão do Largo",
-        "Rio de Contas",
-        "Rio do Antônio",
-        "Rio do Pires",
-        "Rio Real",
-        "Rodelas",
-        "Ruy Barbosa",
-        "Salinas da Margarida",
-        "Salvador",
-        "Santa Bárbara",
-        "Santa Brígida",
-        "Santa Cruz Cabrália",
-        "Santa Cruz da Vitória",
-        "Santa Inês",
-        "Santa Luzia",
-        "Santa Maria da Vitória",
-        "Santa Rita de Cássia",
-        "Santa Teresinha",
-        "Santaluz",
-        "Santana",
-        "Santanópolis",
-        "Santo Amaro",
-        "Santo Antônio de Jesus",
-        "Santo Estêvão",
-        "São Desidério",
-        "São Domingos",
-        "São Felipe",
-        "São Félix",
-        "São Félix do Coribe",
-        "São Francisco do Conde",
-        "São Gabriel",
-        "São Gonçalo dos Campos",
-        "São José da Vitória",
-        "São José do Jacuípe",
-        "São Miguel das Matas",
-        "São Sebastião do Passé",
-        "Sapeaçu",
-        "Sátiro Dias",
-        "Saubara",
-        "Saúde",
-        "Seabra",
-        "Sebastião Laranjeiras",
-        "Senhor do Bonfim",
-        "Sento Sé",
-        "Serra do Ramalho",
-        "Serra Dourada",
-        "Serra Preta",
-        "Serrinha",
-        "Serrolândia",
-        "Simões Filho",
-        "Sítio do Mato",
-        "Sítio do Quinto",
-        "Sobradinho",
-        "Souto Soares",
-        "Tabocas do Brejo Velho",
-        "Tanhaçu",
-        "Tanque Novo",
-        "Tanquinho",
-        "Taperoá",
-        "Tapiramutá",
-        "Teixeira de Freitas",
-        "Teodoro Sampaio",
-        "Teofilândia",
-        "Teolândia",
-        "Terra Nova",
-        "Tremedal",
-        "Tucano",
-        "Uauá",
-        "Ubaíra",
-        "Ubaitaba",
-        "Ubatã",
-        "Uibaí",
-        "Umburanas",
-        "Una",
-        "Urandi",
-        "Uruçuca",
-        "Utinga",
-        "Valença",
-        "Valente",
-        "Várzea da Roça",
-        "Várzea do Poço",
-        "Várzea Nova",
-        "Varzedo",
-        "Vera Cruz",
-        "Vereda",
-        "Vitória da Conquista",
-        "Wagner",
-        "Wanderley",
-        "Wenceslau Guimarães",
-        "Xique-Xique"
+        "cod": "5144",
+        "uf":"Crisópolis" 
+        },
+        {
+        "cod": "5145",
+        "uf":"Cristópolis" 
+        },
+        {
+        "cod": "5146",
+        "uf":"Cruz das Almas" 
+        },
+        {
+        "cod": "5147",
+        "uf":"Curaçá" 
+        },
+        {
+        "cod": "5148",
+        "uf":"Dário Meira" 
+        },
+        {
+        "cod": "5149",
+        "uf":"Dias d'Ávila" 
+        },
+        {
+        "cod": "5150",
+        "uf":"Dom Basílio" 
+        },
+        {
+        "cod": "5151",
+        "uf":"Dom Macedo Costa" 
+        },
+        {
+        "cod": "5152",
+        "uf":"Elísio Medrado" 
+        },
+        {
+        "cod": "5153",
+        "uf":"Encruzilhada" 
+        },
+        {
+        "cod": "5154",
+        "uf":"Entre Rios" 
+        },
+        {
+        "cod": "5155",
+        "uf":"Érico Cardoso" 
+        },
+        {
+        "cod": "5156",
+        "uf":"Esplanada" 
+        },
+        {
+        "cod": "5157",
+        "uf":"Euclides da Cunha" 
+        },
+        {
+        "cod": "5158",
+        "uf":"Eunápolis" 
+        },
+        {
+        "cod": "5159",
+        "uf":"Fátima" 
+        },
+        {
+        "cod": "5160",
+        "uf":"Feira da Mata" 
+        },
+        {
+        "cod": "5161",
+        "uf":"Feira de Santana" 
+        },
+        {
+        "cod": "5162",
+        "uf":"Filadélfia" 
+        },
+        {
+        "cod": "5163",
+        "uf":"Firmino Alves" 
+        },
+        {
+        "cod": "5164",
+        "uf":"Floresta Azul" 
+        },
+        {
+        "cod": "5165",
+        "uf":"Formosa do Rio Preto" 
+        },
+        {
+        "cod": "5166",
+        "uf":"Gandu" 
+        },
+        {
+        "cod": "5167",
+        "uf":"Gavião" 
+        },
+        {
+        "cod": "5168",
+        "uf":"Gentio do Ouro" 
+        },
+        {
+        "cod": "5169",
+        "uf":"Glória" 
+        },
+        {
+        "cod": "5170",
+        "uf":"Gongogi" 
+        },
+        {
+        "cod": "5171",
+        "uf":"Governador Mangabeira" 
+        },
+        {
+        "cod": "5172",
+        "uf":"Guajeru" 
+        },
+        {
+        "cod": "5173",
+        "uf":"Guanambi" 
+        },
+        {
+        "cod": "5174",
+        "uf":"Guaratinga" 
+        },
+        {
+        "cod": "5175",
+        "uf":"Heliópolis" 
+        },
+        {
+        "cod": "5176",
+        "uf":"Iaçu" 
+        },
+        {
+        "cod": "5177",
+        "uf":"Ibiassucê" 
+        },
+        {
+        "cod": "5178",
+        "uf":"Ibicaraí" 
+        },
+        {
+        "cod": "5179",
+        "uf":"Ibicoara" 
+        },
+        {
+        "cod": "5180",
+        "uf":"Ibicuí" 
+        },
+        {
+        "cod": "5181",
+        "uf":"Ibipeba" 
+        },
+        {
+        "cod": "5182",
+        "uf":"Ibipitanga" 
+        },
+        {
+        "cod": "5183",
+        "uf":"Ibiquera" 
+        },
+        {
+        "cod": "5184",
+        "uf":"Ibirapitanga" 
+        },
+        {
+        "cod": "5185",
+        "uf":"Ibirapuã" 
+        },
+        {
+        "cod": "5186",
+        "uf":"Ibirataia" 
+        },
+        {
+        "cod": "5187",
+        "uf":"Ibitiara" 
+        },
+        {
+        "cod": "5188",
+        "uf":"Ibititá" 
+        },
+        {
+        "cod": "5189",
+        "uf":"Ibotirama" 
+        },
+        {
+        "cod": "5190",
+        "uf":"Ichu" 
+        },
+        {
+        "cod": "5191",
+        "uf":"Igaporã" 
+        },
+        {
+        "cod": "5192",
+        "uf":"Igrapiúna" 
+        },
+        {
+        "cod": "5193",
+        "uf":"Iguaí" 
+        },
+        {
+        "cod": "5194",
+        "uf":"Ilhéus" 
+        },
+        {
+        "cod": "5195",
+        "uf":"Inhambupe" 
+        },
+        {
+        "cod": "5196",
+        "uf":"Ipecaetá" 
+        },
+        {
+        "cod": "5197",
+        "uf":"Ipiaú" 
+        },
+        {
+        "cod": "5198",
+        "uf":"Ipirá" 
+        },
+        {
+        "cod": "5199",
+        "uf":"Ipupiara" 
+        },
+        {
+        "cod": "5200",
+        "uf":"Irajuba" 
+        },
+        {
+        "cod": "5201",
+        "uf":"Iramaia" 
+        },
+        {
+        "cod": "5202",
+        "uf":"Iraquara" 
+        },
+        {
+        "cod": "5203",
+        "uf":"Irará" 
+        },
+        {
+        "cod": "5204",
+        "uf":"Irecê" 
+        },
+        {
+        "cod": "5205",
+        "uf":"Itabela" 
+        },
+        {
+        "cod": "5206",
+        "uf":"Itaberaba" 
+        },
+        {
+        "cod": "5207",
+        "uf":"Itabuna" 
+        },
+        {
+        "cod": "5208",
+        "uf":"Itacaré" 
+        },
+        {
+        "cod": "5209",
+        "uf":"Itaeté" 
+        },
+        {
+        "cod": "5210",
+        "uf":"Itagi" 
+        },
+        {
+        "cod": "5211",
+        "uf":"Itagibá" 
+        },
+        {
+        "cod": "5212",
+        "uf":"Itagimirim" 
+        },
+        {
+        "cod": "5213",
+        "uf":"Itaguaçu da Bahia" 
+        },
+        {
+        "cod": "5214",
+        "uf":"Itaju do Colônia" 
+        },
+        {
+        "cod": "5215",
+        "uf":"Itajuípe" 
+        },
+        {
+        "cod": "5216",
+        "uf":"Itamaraju" 
+        },
+        {
+        "cod": "5217",
+        "uf":"Itamari" 
+        },
+        {
+        "cod": "5218",
+        "uf":"Itambé" 
+        },
+        {
+        "cod": "5219",
+        "uf":"Itanagra" 
+        },
+        {
+        "cod": "5220",
+        "uf":"Itanhém" 
+        },
+        {
+        "cod": "5221",
+        "uf":"Itaparica" 
+        },
+        {
+        "cod": "5222",
+        "uf":"Itapé" 
+        },
+        {
+        "cod": "5223",
+        "uf":"Itapebi" 
+        },
+        {
+        "cod": "5224",
+        "uf":"Itapetinga" 
+        },
+        {
+        "cod": "5225",
+        "uf":"Itapicuru" 
+        },
+        {
+        "cod": "5226",
+        "uf":"Itapitanga" 
+        },
+        {
+        "cod": "5227",
+        "uf":"Itaquara" 
+        },
+        {
+        "cod": "5228",
+        "uf":"Itarantim" 
+        },
+        {
+        "cod": "5229",
+        "uf":"Itatim" 
+        },
+        {
+        "cod": "5230",
+        "uf":"Itiruçu" 
+        },
+        {
+        "cod": "5231",
+        "uf":"Itiúba" 
+        },
+        {
+        "cod": "5232",
+        "uf":"Itororó" 
+        },
+        {
+        "cod": "5233",
+        "uf":"Ituaçu" 
+        },
+        {
+        "cod": "5234",
+        "uf":"Ituberá" 
+        },
+        {
+        "cod": "5235",
+        "uf":"Iuiú" 
+        },
+        {
+        "cod": "5236",
+        "uf":"Jaborandi" 
+        },
+        {
+        "cod": "5237",
+        "uf":"Jacaraci" 
+        },
+        {
+        "cod": "5238",
+        "uf":"Jacobina" 
+        },
+        {
+        "cod": "5239",
+        "uf":"Jaguaquara" 
+        },
+        {
+        "cod": "5240",
+        "uf":"Jaguarari" 
+        },
+        {
+        "cod": "5241",
+        "uf":"Jaguaripe" 
+        },
+        {
+        "cod": "5242",
+        "uf":"Jandaíra" 
+        },
+        {
+        "cod": "5243",
+        "uf":"Jequié" 
+        },
+        {
+        "cod": "5244",
+        "uf":"Jeremoabo" 
+        },
+        {
+        "cod": "5245",
+        "uf":"Jiquiriçá" 
+        },
+        {
+        "cod": "5246",
+        "uf":"Jitaúna" 
+        },
+        {
+        "cod": "5247",
+        "uf":"João Dourado" 
+        },
+        {
+        "cod": "5248",
+        "uf":"Juazeiro" 
+        },
+        {
+        "cod": "5249",
+        "uf":"Jucuruçu" 
+        },
+        {
+        "cod": "5250",
+        "uf":"Jussara" 
+        },
+        {
+        "cod": "5251",
+        "uf":"Jussari" 
+        },
+        {
+        "cod": "5252",
+        "uf":"Jussiape" 
+        },
+        {
+        "cod": "5253",
+        "uf":"Lafaiete Coutinho" 
+        },
+        {
+        "cod": "5254",
+        "uf":"Lagoa Real" 
+        },
+        {
+        "cod": "5255",
+        "uf":"Laje" 
+        },
+        {
+        "cod": "5256",
+        "uf":"Lajedão" 
+        },
+        {
+        "cod": "5257",
+        "uf":"Lajedinho" 
+        },
+        {
+        "cod": "5258",
+        "uf":"Lajedo do Tabocal" 
+        },
+        {
+        "cod": "5259",
+        "uf":"Lamarão" 
+        },
+        {
+        "cod": "5260",
+        "uf":"Lapão" 
+        },
+        {
+        "cod": "5261",
+        "uf":"Lauro de Freitas" 
+        },
+        {
+        "cod": "5262",
+        "uf":"Lençóis" 
+        },
+        {
+        "cod": "5263",
+        "uf":"Licínio de Almeida" 
+        },
+        {
+        "cod": "5264",
+        "uf":"Livramento de Nossa Senhora" 
+        },
+        {
+        "cod": "5265",
+        "uf":"Luís Eduardo Magalhães" 
+        },
+        {
+        "cod": "5266",
+        "uf":"Macajuba" 
+        },
+        {
+        "cod": "5267",
+        "uf":"Macarani" 
+        },
+        {
+        "cod": "5268",
+        "uf":"Macaúbas" 
+        },
+        {
+        "cod": "5269",
+        "uf":"Macururé" 
+        },
+        {
+        "cod": "5270",
+        "uf":"Madre de Deus" 
+        },
+        {
+        "cod": "5271",
+        "uf":"Maetinga" 
+        },
+        {
+        "cod": "5272",
+        "uf":"Maiquinique" 
+        },
+        {
+        "cod": "5273",
+        "uf":"Mairi" 
+        },
+        {
+        "cod": "5274",
+        "uf":"Malhada" 
+        },
+        {
+        "cod": "5275",
+        "uf":"Malhada de Pedras" 
+        },
+        {
+        "cod": "5276",
+        "uf":"Manoel Vitorino" 
+        },
+        {
+        "cod": "5277",
+        "uf":"Mansidão" 
+        },
+        {
+        "cod": "5278",
+        "uf":"Maracás" 
+        },
+        {
+        "cod": "5279",
+        "uf":"Maragogipe" 
+        },
+        {
+        "cod": "5280",
+        "uf":"Maraú" 
+        },
+        {
+        "cod": "5281",
+        "uf":"Marcionílio Souza" 
+        },
+        {
+        "cod": "5282",
+        "uf":"Mascote" 
+        },
+        {
+        "cod": "5283",
+        "uf":"Mata de São João" 
+        },
+        {
+        "cod": "5284",
+        "uf":"Matina" 
+        },
+        {
+        "cod": "5285",
+        "uf":"Medeiros Neto" 
+        },
+        {
+        "cod": "5286",
+        "uf":"Miguel Calmon" 
+        },
+        {
+        "cod": "5287",
+        "uf":"Milagres" 
+        },
+        {
+        "cod": "5288",
+        "uf":"Mirangaba" 
+        },
+        {
+        "cod": "5289",
+        "uf":"Mirante" 
+        },
+        {
+        "cod": "5290",
+        "uf":"Monte Santo" 
+        },
+        {
+        "cod": "5291",
+        "uf":"Morpará" 
+        },
+        {
+        "cod": "5292",
+        "uf":"Morro do Chapéu" 
+        },
+        {
+        "cod": "5293",
+        "uf":"Mortugaba" 
+        },
+        {
+        "cod": "5294",
+        "uf":"Mucugê" 
+        },
+        {
+        "cod": "5295",
+        "uf":"Mucuri" 
+        },
+        {
+        "cod": "5296",
+        "uf":"Mulungu do Morro" 
+        },
+        {
+        "cod": "5297",
+        "uf":"Mundo Novo" 
+        },
+        {
+        "cod": "5298",
+        "uf":"Muniz Ferreira" 
+        },
+        {
+        "cod": "5299",
+        "uf":"Muquém de São Francisco" 
+        },
+        {
+        "cod": "5300",
+        "uf":"Muritiba" 
+        },
+        {
+        "cod": "5301",
+        "uf":"Mutuípe" 
+        },
+        {
+        "cod": "5302",
+        "uf":"Nazaré" 
+        },
+        {
+        "cod": "5303",
+        "uf":"Nilo Peçanha" 
+        },
+        {
+        "cod": "5304",
+        "uf":"Nordestina" 
+        },
+        {
+        "cod": "5305",
+        "uf":"Nova Canaã" 
+        },
+        {
+        "cod": "5306",
+        "uf":"Nova Fátima" 
+        },
+        {
+        "cod": "5307",
+        "uf":"Nova Ibiá" 
+        },
+        {
+        "cod": "5308",
+        "uf":"Nova Itarana" 
+        },
+        {
+        "cod": "5309",
+        "uf":"Nova Redenção" 
+        },
+        {
+        "cod": "5310",
+        "uf":"Nova Soure" 
+        },
+        {
+        "cod": "5311",
+        "uf":"Nova Viçosa" 
+        },
+        {
+        "cod": "5312",
+        "uf":"Novo Horizonte" 
+        },
+        {
+        "cod": "5313",
+        "uf":"Novo Triunfo" 
+        },
+        {
+        "cod": "5314",
+        "uf":"Olindina" 
+        },
+        {
+        "cod": "5315",
+        "uf":"Oliveira dos Brejinhos" 
+        },
+        {
+        "cod": "5316",
+        "uf":"Ouriçangas" 
+        },
+        {
+        "cod": "5317",
+        "uf":"Ourolândia" 
+        },
+        {
+        "cod": "5318",
+        "uf":"Palmas de Monte Alto" 
+        },
+        {
+        "cod": "5319",
+        "uf":"Palmeiras" 
+        },
+        {
+        "cod": "5320",
+        "uf":"Paramirim" 
+        },
+        {
+        "cod": "5321",
+        "uf":"Paratinga" 
+        },
+        {
+        "cod": "5322",
+        "uf":"Paripiranga" 
+        },
+        {
+        "cod": "5323",
+        "uf":"Pau Brasil" 
+        },
+        {
+        "cod": "5324",
+        "uf":"Paulo Afonso" 
+        },
+        {
+        "cod": "5325",
+        "uf":"Pé de Serra" 
+        },
+        {
+        "cod": "5326",
+        "uf":"Pedrão" 
+        },
+        {
+        "cod": "5327",
+        "uf":"Pedro Alexandre" 
+        },
+        {
+        "cod": "5328",
+        "uf":"Piatã" 
+        },
+        {
+        "cod": "5329",
+        "uf":"Pilão Arcado" 
+        },
+        {
+        "cod": "5330",
+        "uf":"Pindaí" 
+        },
+        {
+        "cod": "5331",
+        "uf":"Pindobaçu" 
+        },
+        {
+        "cod": "5332",
+        "uf":"Pintadas" 
+        },
+        {
+        "cod": "5333",
+        "uf":"Piraí do Norte" 
+        },
+        {
+        "cod": "5334",
+        "uf":"Piripá" 
+        },
+        {
+        "cod": "5335",
+        "uf":"Piritiba" 
+        },
+        {
+        "cod": "5336",
+        "uf":"Planaltino" 
+        },
+        {
+        "cod": "5337",
+        "uf":"Planalto" 
+        },
+        {
+        "cod": "5338",
+        "uf":"Poções" 
+        },
+        {
+        "cod": "5339",
+        "uf":"Pojuca" 
+        },
+        {
+        "cod": "5340",
+        "uf":"Ponto Novo" 
+        },
+        {
+        "cod": "5341",
+        "uf":"Porto Seguro" 
+        },
+        {
+        "cod": "5342",
+        "uf":"Potiraguá" 
+        },
+        {
+        "cod": "5343",
+        "uf":"Prado" 
+        },
+        {
+        "cod": "5344",
+        "uf":"Presidente Dutra" 
+        },
+        {
+        "cod": "5345",
+        "uf":"Presidente Jânio Quadros" 
+        },
+        {
+        "cod": "5346",
+        "uf":"Presidente Tancredo Neves" 
+        },
+        {
+        "cod": "5347",
+        "uf":"Queimadas" 
+        },
+        {
+        "cod": "5348",
+        "uf":"Quijingue" 
+        },
+        {
+        "cod": "5349",
+        "uf":"Quixabeira" 
+        },
+        {
+        "cod": "5350",
+        "uf":"Rafael Jambeiro" 
+        },
+        {
+        "cod": "5351",
+        "uf":"Remanso" 
+        },
+        {
+        "cod": "5352",
+        "uf":"Retirolândia" 
+        },
+        {
+        "cod": "5353",
+        "uf":"Riachão das Neves" 
+        },
+        {
+        "cod": "5354",
+        "uf":"Riachão do Jacuípe" 
+        },
+        {
+        "cod": "5355",
+        "uf":"Riacho de Santana" 
+        },
+        {
+        "cod": "5356",
+        "uf":"Ribeira do Amparo" 
+        },
+        {
+        "cod": "5357",
+        "uf":"Ribeira do Pombal" 
+        },
+        {
+        "cod": "5358",
+        "uf":"Ribeirão do Largo" 
+        },
+        {
+        "cod": "5359",
+        "uf":"Rio de Contas" 
+        },
+        {
+        "cod": "5360",
+        "uf":"Rio do Antônio" 
+        },
+        {
+        "cod": "5361",
+        "uf":"Rio do Pires" 
+        },
+        {
+        "cod": "5362",
+        "uf":"Rio Real" 
+        },
+        {
+        "cod": "5363",
+        "uf":"Rodelas" 
+        },
+        {
+        "cod": "5364",
+        "uf":"Ruy Barbosa" 
+        },
+        {
+        "cod": "5365",
+        "uf":"Salinas da Margarida" 
+        },
+        {
+        "cod": "5366",
+        "uf":"Salvador" 
+        },
+        {
+        "cod": "5367",
+        "uf":"Santa Bárbara" 
+        },
+        {
+        "cod": "5368",
+        "uf":"Santa Brígida" 
+        },
+        {
+        "cod": "5369",
+        "uf":"Santa Cruz Cabrália" 
+        },
+        {
+        "cod": "5370",
+        "uf":"Santa Cruz da Vitória" 
+        },
+        {
+        "cod": "5371",
+        "uf":"Santa Inês" 
+        },
+        {
+        "cod": "5372",
+        "uf":"Santa Luzia" 
+        },
+        {
+        "cod": "5373",
+        "uf":"Santa Maria da Vitória" 
+        },
+        {
+        "cod": "5374",
+        "uf":"Santa Rita de Cássia" 
+        },
+        {
+        "cod": "5375",
+        "uf":"Santa Teresinha" 
+        },
+        {
+        "cod": "5376",
+        "uf":"Santaluz" 
+        },
+        {
+        "cod": "5377",
+        "uf":"Santana" 
+        },
+        {
+        "cod": "5378",
+        "uf":"Santanópolis" 
+        },
+        {
+        "cod": "5379",
+        "uf":"Santo Amaro" 
+        },
+        {
+        "cod": "5380",
+        "uf":"Santo Antônio de Jesus" 
+        },
+        {
+        "cod": "5381",
+        "uf":"Santo Estêvão" 
+        },
+        {
+        "cod": "5382",
+        "uf":"São Desidério" 
+        },
+        {
+        "cod": "5383",
+        "uf":"São Domingos" 
+        },
+        {
+        "cod": "5384",
+        "uf":"São Felipe" 
+        },
+        {
+        "cod": "5385",
+        "uf":"São Félix" 
+        },
+        {
+        "cod": "5386",
+        "uf":"São Félix do Coribe" 
+        },
+        {
+        "cod": "5387",
+        "uf":"São Francisco do Conde" 
+        },
+        {
+        "cod": "5388",
+        "uf":"São Gabriel" 
+        },
+        {
+        "cod": "5389",
+        "uf":"São Gonçalo dos Campos" 
+        },
+        {
+        "cod": "5390",
+        "uf":"São José da Vitória" 
+        },
+        {
+        "cod": "5391",
+        "uf":"São José do Jacuípe" 
+        },
+        {
+        "cod": "5392",
+        "uf":"São Miguel das Matas" 
+        },
+        {
+        "cod": "5393",
+        "uf":"São Sebastião do Passé" 
+        },
+        {
+        "cod": "5394",
+        "uf":"Sapeaçu" 
+        },
+        {
+        "cod": "5395",
+        "uf":"Sátiro Dias" 
+        },
+        {
+        "cod": "5396",
+        "uf":"Saubara" 
+        },
+        {
+        "cod": "5397",
+        "uf":"Saúde" 
+        },
+        {
+        "cod": "5398",
+        "uf":"Seabra" 
+        },
+        {
+        "cod": "5399",
+        "uf":"Sebastião Laranjeiras" 
+        },
+        {
+        "cod": "5400",
+        "uf":"Senhor do Bonfim" 
+        },
+        {
+        "cod": "5401",
+        "uf":"Sento Sé" 
+        },
+        {
+        "cod": "5402",
+        "uf":"Serra do Ramalho" 
+        },
+        {
+        "cod": "5403",
+        "uf":"Serra Dourada" 
+        },
+        {
+        "cod": "5404",
+        "uf":"Serra Preta" 
+        },
+        {
+        "cod": "5405",
+        "uf":"Serrinha" 
+        },
+        {
+        "cod": "5406",
+        "uf":"Serrolândia" 
+        },
+        {
+        "cod": "5407",
+        "uf":"Simões Filho" 
+        },
+        {
+        "cod": "5408",
+        "uf":"Sítio do Mato" 
+        },
+        {
+        "cod": "5409",
+        "uf":"Sítio do Quinto" 
+        },
+        {
+        "cod": "5410",
+        "uf":"Sobradinho" 
+        },
+        {
+        "cod": "5411",
+        "uf":"Souto Soares" 
+        },
+        {
+        "cod": "5412",
+        "uf":"Tabocas do Brejo Velho" 
+        },
+        {
+        "cod": "5413",
+        "uf":"Tanhaçu" 
+        },
+        {
+        "cod": "5414",
+        "uf":"Tanque Novo" 
+        },
+        {
+        "cod": "5415",
+        "uf":"Tanquinho" 
+        },
+        {
+        "cod": "5416",
+        "uf":"Taperoá" 
+        },
+        {
+        "cod": "5417",
+        "uf":"Tapiramutá" 
+        },
+        {
+        "cod": "5418",
+        "uf":"Teixeira de Freitas" 
+        },
+        {
+        "cod": "5419",
+        "uf":"Teodoro Sampaio" 
+        },
+        {
+        "cod": "5420",
+        "uf":"Teofilândia" 
+        },
+        {
+        "cod": "5421",
+        "uf":"Teolândia" 
+        },
+        {
+        "cod": "5422",
+        "uf":"Terra Nova" 
+        },
+        {
+        "cod": "5423",
+        "uf":"Tremedal" 
+        },
+        {
+        "cod": "5424",
+        "uf":"Tucano" 
+        },
+        {
+        "cod": "5425",
+        "uf":"Uauá" 
+        },
+        {
+        "cod": "5426",
+        "uf":"Ubaíra" 
+        },
+        {
+        "cod": "5427",
+        "uf":"Ubaitaba" 
+        },
+        {
+        "cod": "5428",
+        "uf":"Ubatã" 
+        },
+        {
+        "cod": "5429",
+        "uf":"Uibaí" 
+        },
+        {
+        "cod": "5430",
+        "uf":"Umburanas" 
+        },
+        {
+        "cod": "5431",
+        "uf":"Una" 
+        },
+        {
+        "cod": "5432",
+        "uf":"Urandi" 
+        },
+        {
+        "cod": "5433",
+        "uf":"Uruçuca" 
+        },
+        {
+        "cod": "5434",
+        "uf":"Utinga" 
+        },
+        {
+        "cod": "5435",
+        "uf":"Valença" 
+        },
+        {
+        "cod": "5436",
+        "uf":"Valente" 
+        },
+        {
+        "cod": "5437",
+        "uf":"Várzea da Roça" 
+        },
+        {
+        "cod": "5438",
+        "uf":"Várzea do Poço" 
+        },
+        {
+        "cod": "5439",
+        "uf":"Várzea Nova" 
+        },
+        {
+        "cod": "5440",
+        "uf":"Varzedo" 
+        },
+        {
+        "cod": "5441",
+        "uf":"Vera Cruz" 
+        },
+        {
+        "cod": "5442",
+        "uf":"Vereda" 
+        },
+        {
+        "cod": "5443",
+        "uf":"Vitória da Conquista" 
+        },
+        {
+        "cod": "5444",
+        "uf":"Wagner" 
+        },
+        {
+        "cod": "5445",
+        "uf":"Wanderley" 
+        },
+        {
+        "cod": "5446",
+        "uf":"Wenceslau Guimarães" 
+        },
+        {
+        "cod": "5447",
+        "uf":"Xique-Xique"},
       ]
     },
     {
