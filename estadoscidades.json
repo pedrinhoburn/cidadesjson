@@ -3579,252 +3579,989 @@
       "sigla": "GO",
       "nome": "Goiás",
       "cidades": [
-        "Abadia de Goiás",
-        "Abadiânia",
-        "Acreúna",
-        "Adelândia",
-        "Água Fria de Goiás",
-        "Água Limpa",
-        "Águas Lindas de Goiás",
-        "Alexânia",
-        "Aloândia",
-        "Alto Horizonte",
-        "Alto Paraíso de Goiás",
-        "Alvorada do Norte",
-        "Amaralina",
-        "Americano do Brasil",
-        "Amorinópolis",
-        "Anápolis",
-        "Anhanguera",
-        "Anicuns",
-        "Aparecida de Goiânia",
-        "Aparecida do Rio Doce",
-        "Aporé",
-        "Araçu",
-        "Aragarças",
-        "Aragoiânia",
-        "Araguapaz",
-        "Arenópolis",
-        "Aruanã",
-        "Aurilândia",
-        "Avelinópolis",
-        "Baliza",
-        "Barro Alto",
-        "Bela Vista de Goiás",
-        "Bom Jardim de Goiás",
-        "Bom Jesus de Goiás",
-        "Bonfinópolis",
-        "Bonópolis",
-        "Brazabrantes",
-        "Britânia",
-        "Buriti Alegre",
-        "Buriti de Goiás",
-        "Buritinópolis",
-        "Cabeceiras",
-        "Cachoeira Alta",
-        "Cachoeira de Goiás",
-        "Cachoeira Dourada",
-        "Caçu",
-        "Caiapônia",
-        "Caldas Novas",
-        "Caldazinha",
-        "Campestre de Goiás",
-        "Campinaçu",
-        "Campinorte",
-        "Campo Alegre de Goiás",
-        "Campos Limpo de Goiás",
-        "Campos Belos",
-        "Campos Verdes",
-        "Carmo do Rio Verde",
-        "Castelândia",
-        "Catalão",
-        "Caturaí",
-        "Cavalcante",
-        "Ceres",
-        "Cezarina",
-        "Chapadão do Céu",
-        "Cidade Ocidental",
-        "Cocalzinho de Goiás",
-        "Colinas do Sul",
-        "Córrego do Ouro",
-        "Corumbá de Goiás",
-        "Corumbaíba",
-        "Cristalina",
-        "Cristianópolis",
-        "Crixás",
-        "Cromínia",
-        "Cumari",
-        "Damianópolis",
-        "Damolândia",
-        "Davinópolis",
-        "Diorama",
-        "Divinópolis de Goiás",
-        "Doverlândia",
-        "Edealina",
-        "Edéia",
-        "Estrela do Norte",
-        "Faina",
-        "Fazenda Nova",
-        "Firminópolis",
-        "Flores de Goiás",
-        "Formosa",
-        "Formoso",
-        "Gameleira de Goiás",
-        "Goianápolis",
-        "Goiandira",
-        "Goianésia",
-        "Goiânia",
-        "Goianira",
-        "Goiás",
-        "Goiatuba",
-        "Gouvelândia",
-        "Guapó",
-        "Guaraíta",
-        "Guarani de Goiás",
-        "Guarinos",
-        "Heitoraí",
-        "Hidrolândia",
-        "Hidrolina",
-        "Iaciara",
-        "Inaciolândia",
-        "Indiara",
-        "Inhumas",
-        "Ipameri",
-        "Ipiranga de Goiás",
-        "Iporá",
-        "Israelândia",
-        "Itaberaí",
-        "Itaguari",
-        "Itaguaru",
-        "Itajá",
-        "Itapaci",
-        "Itapirapuã",
-        "Itapuranga",
-        "Itarumã",
-        "Itauçu",
-        "Itumbiara",
-        "Ivolândia",
-        "Jandaia",
-        "Jaraguá",
-        "Jataí",
-        "Jaupaci",
-        "Jesúpolis",
-        "Joviânia",
-        "Jussara",
-        "Lagoa Santa",
-        "Leopoldo de Bulhões",
-        "Luziânia",
-        "Mairipotaba",
-        "Mambaí",
-        "Mara Rosa",
-        "Marzagão",
-        "Matrinchã",
-        "Maurilândia",
-        "Mimoso de Goiás",
-        "Minaçu",
-        "Mineiros",
-        "Moiporá",
-        "Monte Alegre de Goiás",
-        "Montes Claros de Goiás",
-        "Montividiu",
-        "Montividiu do Norte",
-        "Morrinhos",
-        "Morro Agudo de Goiás",
-        "Mossâmedes",
-        "Mozarlândia",
-        "Mundo Novo",
-        "Mutunópolis",
-        "Nazário",
-        "Nerópolis",
-        "Niquelândia",
-        "Nova América",
-        "Nova Aurora",
-        "Nova Crixás",
-        "Nova Glória",
-        "Nova Iguaçu de Goiás",
-        "Nova Roma",
-        "Nova Veneza",
-        "Novo Brasil",
-        "Novo Gama",
-        "Novo Planalto",
-        "Orizona",
-        "Ouro Verde de Goiás",
-        "Ouvidor",
-        "Padre Bernardo",
-        "Palestina de Goiás",
-        "Palmeiras de Goiás",
-        "Palmelo",
-        "Palminópolis",
-        "Panamá",
-        "Paranaiguara",
-        "Paraúna",
-        "Perolândia",
-        "Petrolina de Goiás",
-        "Pilar de Goiás",
-        "Piracanjuba",
-        "Piranhas",
-        "Pirenópolis",
-        "Pires do Rio",
-        "Planaltina",
-        "Pontalina",
-        "Porangatu",
-        "Porteirão",
-        "Portelândia",
-        "Posse",
-        "Professor Jamil",
-        "Quirinópolis",
-        "Rialma",
-        "Rianápolis",
-        "Rio Quente",
-        "Rio Verde",
-        "Rubiataba",
-        "Sanclerlândia",
-        "Santa Bárbara de Goiás",
-        "Santa Cruz de Goiás",
-        "Santa Fé de Goiás",
-        "Santa Helena de Goiás",
-        "Santa Isabel",
-        "Santa Rita do Araguaia",
-        "Santa Rita do Novo Destino",
-        "Santa Rosa de Goiás",
-        "Santa Tereza de Goiás",
-        "Santa Terezinha de Goiás",
-        "Santo Antônio da Barra",
-        "Santo Antônio de Goiás",
-        "Santo Antônio do Descoberto",
-        "São Domingos",
-        "São Francisco de Goiás",
-        "São João d'Aliança",
-        "São João da Paraúna",
-        "São Luís de Montes Belos",
-        "São Luíz do Norte",
-        "São Miguel do Araguaia",
-        "São Miguel do Passa Quatro",
-        "São Patrício",
-        "São Simão",
-        "Senador Canedo",
-        "Serranópolis",
-        "Silvânia",
-        "Simolândia",
-        "Sítio d'Abadia",
-        "Taquaral de Goiás",
-        "Teresina de Goiás",
-        "Terezópolis de Goiás",
-        "Três Ranchos",
-        "Trindade",
-        "Trombas",
-        "Turvânia",
-        "Turvelândia",
-        "Uirapuru",
-        "Uruaçu",
-        "Uruana",
-        "Urutaí",
-        "Valparaíso de Goiás",
-        "Varjão",
-        "Vianópolis",
-        "Vicentinópolis",
-        "Vila Boa",
-        "Vila Propício"
+        {
+        "cod": "1702",
+        "uf":"Abadia de Goiás" 
+        },
+        {
+        "cod": "1703",
+        "uf":"Abadiânia" 
+        },
+        {
+        "cod": "1704",
+        "uf":"Acreúna" 
+        },
+        {
+        "cod": "1705",
+        "uf":"Adelândia" 
+        },
+        {
+        "cod": "1706",
+        "uf":"Água Fria de Goiás" 
+        },
+        {
+        "cod": "1707",
+        "uf":"Água Limpa" 
+        },
+        {
+        "cod": "1708",
+        "uf":"Águas Lindas de Goiás" 
+        },
+        {
+        "cod": "1709",
+        "uf":"Alexânia" 
+        },
+        {
+        "cod": "1710",
+        "uf":"Aloândia" 
+        },
+        {
+        "cod": "1711",
+        "uf":"Alto Horizonte" 
+        },
+        {
+        "cod": "1712",
+        "uf":"Alto Paraíso de Goiás" 
+        },
+        {
+        "cod": "1713",
+        "uf":"Alvorada do Norte" 
+        },
+        {
+        "cod": "1714",
+        "uf":"Amaralina" 
+        },
+        {
+        "cod": "1715",
+        "uf":"Americano do Brasil" 
+        },
+        {
+        "cod": "1716",
+        "uf":"Amorinópolis" 
+        },
+        {
+        "cod": "1717",
+        "uf":"Anápolis" 
+        },
+        {
+        "cod": "1718",
+        "uf":"Anhanguera" 
+        },
+        {
+        "cod": "1719",
+        "uf":"Anicuns" 
+        },
+        {
+        "cod": "1720",
+        "uf":"Aparecida de Goiânia" 
+        },
+        {
+        "cod": "1721",
+        "uf":"Aparecida do Rio Doce" 
+        },
+        {
+        "cod": "1722",
+        "uf":"Aporé" 
+        },
+        {
+        "cod": "1723",
+        "uf":"Araçu" 
+        },
+        {
+        "cod": "1724",
+        "uf":"Aragarças" 
+        },
+        {
+        "cod": "1725",
+        "uf":"Aragoiânia" 
+        },
+        {
+        "cod": "1726",
+        "uf":"Araguapaz" 
+        },
+        {
+        "cod": "1727",
+        "uf":"Arenópolis" 
+        },
+        {
+        "cod": "1728",
+        "uf":"Aruanã" 
+        },
+        {
+        "cod": "1729",
+        "uf":"Aurilândia" 
+        },
+        {
+        "cod": "1730",
+        "uf":"Avelinópolis" 
+        },
+        {
+        "cod": "1731",
+        "uf":"Baliza" 
+        },
+        {
+        "cod": "1732",
+        "uf":"Barro Alto" 
+        },
+        {
+        "cod": "1733",
+        "uf":"Bela Vista de Goiás" 
+        },
+        {
+        "cod": "1734",
+        "uf":"Bom Jardim de Goiás" 
+        },
+        {
+        "cod": "1735",
+        "uf":"Bom Jesus de Goiás" 
+        },
+        {
+        "cod": "1736",
+        "uf":"Bonfinópolis" 
+        },
+        {
+        "cod": "1737",
+        "uf":"Bonópolis" 
+        },
+        {
+        "cod": "1738",
+        "uf":"Brazabrantes" 
+        },
+        {
+        "cod": "1739",
+        "uf":"Britânia" 
+        },
+        {
+        "cod": "1740",
+        "uf":"Buriti Alegre" 
+        },
+        {
+        "cod": "1741",
+        "uf":"Buriti de Goiás" 
+        },
+        {
+        "cod": "1742",
+        "uf":"Buritinópolis" 
+        },
+        {
+        "cod": "1743",
+        "uf":"Cabeceiras" 
+        },
+        {
+        "cod": "1744",
+        "uf":"Cachoeira Alta" 
+        },
+        {
+        "cod": "1745",
+        "uf":"Cachoeira de Goiás" 
+        },
+        {
+        "cod": "1746",
+        "uf":"Cachoeira Dourada" 
+        },
+        {
+        "cod": "1747",
+        "uf":"Caçu" 
+        },
+        {
+        "cod": "1748",
+        "uf":"Caiapônia" 
+        },
+        {
+        "cod": "1749",
+        "uf":"Caldas Novas" 
+        },
+        {
+        "cod": "1750",
+        "uf":"Caldazinha" 
+        },
+        {
+        "cod": "1751",
+        "uf":"Campestre de Goiás" 
+        },
+        {
+        "cod": "1752",
+        "uf":"Campinaçu" 
+        },
+        {
+        "cod": "1753",
+        "uf":"Campinorte" 
+        },
+        {
+        "cod": "1754",
+        "uf":"Campo Alegre de Goiás" 
+        },
+        {
+        "cod": "1755",
+        "uf":"Campos Limpo de Goiás" 
+        },
+        {
+        "cod": "1756",
+        "uf":"Campos Belos" 
+        },
+        {
+        "cod": "1757",
+        "uf":"Campos Verdes" 
+        },
+        {
+        "cod": "1758",
+        "uf":"Carmo do Rio Verde" 
+        },
+        {
+        "cod": "1759",
+        "uf":"Castelândia" 
+        },
+        {
+        "cod": "1760",
+        "uf":"Catalão" 
+        },
+        {
+        "cod": "1761",
+        "uf":"Caturaí" 
+        },
+        {
+        "cod": "1762",
+        "uf":"Cavalcante" 
+        },
+        {
+        "cod": "1763",
+        "uf":"Ceres" 
+        },
+        {
+        "cod": "1764",
+        "uf":"Cezarina" 
+        },
+        {
+        "cod": "1765",
+        "uf":"Chapadão do Céu" 
+        },
+        {
+        "cod": "1766",
+        "uf":"Cidade Ocidental" 
+        },
+        {
+        "cod": "1767",
+        "uf":"Cocalzinho de Goiás" 
+        },
+        {
+        "cod": "1768",
+        "uf":"Colinas do Sul" 
+        },
+        {
+        "cod": "1769",
+        "uf":"Córrego do Ouro" 
+        },
+        {
+        "cod": "1770",
+        "uf":"Corumbá de Goiás" 
+        },
+        {
+        "cod": "1771",
+        "uf":"Corumbaíba" 
+        },
+        {
+        "cod": "1772",
+        "uf":"Cristalina" 
+        },
+        {
+        "cod": "1773",
+        "uf":"Cristianópolis" 
+        },
+        {
+        "cod": "1774",
+        "uf":"Crixás" 
+        },
+        {
+        "cod": "1775",
+        "uf":"Cromínia" 
+        },
+        {
+        "cod": "1776",
+        "uf":"Cumari" 
+        },
+        {
+        "cod": "1777",
+        "uf":"Damianópolis" 
+        },
+        {
+        "cod": "1778",
+        "uf":"Damolândia" 
+        },
+        {
+        "cod": "1779",
+        "uf":"Davinópolis" 
+        },
+        {
+        "cod": "1780",
+        "uf":"Diorama" 
+        },
+        {
+        "cod": "1781",
+        "uf":"Divinópolis de Goiás" 
+        },
+        {
+        "cod": "1782",
+        "uf":"Doverlândia" 
+        },
+        {
+        "cod": "1783",
+        "uf":"Edealina" 
+        },
+        {
+        "cod": "1784",
+        "uf":"Edéia" 
+        },
+        {
+        "cod": "1785",
+        "uf":"Estrela do Norte" 
+        },
+        {
+        "cod": "1786",
+        "uf":"Faina" 
+        },
+        {
+        "cod": "1787",
+        "uf":"Fazenda Nova" 
+        },
+        {
+        "cod": "1788",
+        "uf":"Firminópolis" 
+        },
+        {
+        "cod": "1789",
+        "uf":"Flores de Goiás" 
+        },
+        {
+        "cod": "1790",
+        "uf":"Formosa" 
+        },
+        {
+        "cod": "1791",
+        "uf":"Formoso" 
+        },
+        {
+        "cod": "1792",
+        "uf":"Gameleira de Goiás" 
+        },
+        {
+        "cod": "1793",
+        "uf":"Goianápolis" 
+        },
+        {
+        "cod": "1794",
+        "uf":"Goiandira" 
+        },
+        {
+        "cod": "1795",
+        "uf":"Goianésia" 
+        },
+        {
+        "cod": "1796",
+        "uf":"Goiânia" 
+        },
+        {
+        "cod": "1797",
+        "uf":"Goianira" 
+        },
+        {
+        "cod": "1798",
+        "uf":"Goiás" 
+        },
+        {
+        "cod": "1799",
+        "uf":"Goiatuba" 
+        },
+        {
+        "cod": "1800",
+        "uf":"Gouvelândia" 
+        },
+        {
+        "cod": "1801",
+        "uf":"Guapó" 
+        },
+        {
+        "cod": "1802",
+        "uf":"Guaraíta" 
+        },
+        {
+        "cod": "1803",
+        "uf":"Guarani de Goiás" 
+        },
+        {
+        "cod": "1804",
+        "uf":"Guarinos" 
+        },
+        {
+        "cod": "1805",
+        "uf":"Heitoraí" 
+        },
+        {
+        "cod": "1806",
+        "uf":"Hidrolândia" 
+        },
+        {
+        "cod": "1807",
+        "uf":"Hidrolina" 
+        },
+        {
+        "cod": "1808",
+        "uf":"Iaciara" 
+        },
+        {
+        "cod": "1809",
+        "uf":"Inaciolândia" 
+        },
+        {
+        "cod": "1810",
+        "uf":"Indiara" 
+        },
+        {
+        "cod": "1811",
+        "uf":"Inhumas" 
+        },
+        {
+        "cod": "1812",
+        "uf":"Ipameri" 
+        },
+        {
+        "cod": "1813",
+        "uf":"Ipiranga de Goiás" 
+        },
+        {
+        "cod": "1814",
+        "uf":"Iporá" 
+        },
+        {
+        "cod": "1815",
+        "uf":"Israelândia" 
+        },
+        {
+        "cod": "1816",
+        "uf":"Itaberaí" 
+        },
+        {
+        "cod": "1817",
+        "uf":"Itaguari" 
+        },
+        {
+        "cod": "1818",
+        "uf":"Itaguaru" 
+        },
+        {
+        "cod": "1819",
+        "uf":"Itajá" 
+        },
+        {
+        "cod": "1820",
+        "uf":"Itapaci" 
+        },
+        {
+        "cod": "1821",
+        "uf":"Itapirapuã" 
+        },
+        {
+        "cod": "1822",
+        "uf":"Itapuranga" 
+        },
+        {
+        "cod": "1823",
+        "uf":"Itarumã" 
+        },
+        {
+        "cod": "1824",
+        "uf":"Itauçu" 
+        },
+        {
+        "cod": "1825",
+        "uf":"Itumbiara" 
+        },
+        {
+        "cod": "1826",
+        "uf":"Ivolândia" 
+        },
+        {
+        "cod": "1827",
+        "uf":"Jandaia" 
+        },
+        {
+        "cod": "1828",
+        "uf":"Jaraguá" 
+        },
+        {
+        "cod": "1829",
+        "uf":"Jataí" 
+        },
+        {
+        "cod": "1830",
+        "uf":"Jaupaci" 
+        },
+        {
+        "cod": "1831",
+        "uf":"Jesúpolis" 
+        },
+        {
+        "cod": "1832",
+        "uf":"Joviânia" 
+        },
+        {
+        "cod": "1833",
+        "uf":"Jussara" 
+        },
+        {
+        "cod": "1834",
+        "uf":"Lagoa Santa" 
+        },
+        {
+        "cod": "1835",
+        "uf":"Leopoldo de Bulhões" 
+        },
+        {
+        "cod": "1836",
+        "uf":"Luziânia" 
+        },
+        {
+        "cod": "1837",
+        "uf":"Mairipotaba" 
+        },
+        {
+        "cod": "1838",
+        "uf":"Mambaí" 
+        },
+        {
+        "cod": "1839",
+        "uf":"Mara Rosa" 
+        },
+        {
+        "cod": "1840",
+        "uf":"Marzagão" 
+        },
+        {
+        "cod": "1841",
+        "uf":"Matrinchã" 
+        },
+        {
+        "cod": "1842",
+        "uf":"Maurilândia" 
+        },
+        {
+        "cod": "1843",
+        "uf":"Mimoso de Goiás" 
+        },
+        {
+        "cod": "1844",
+        "uf":"Minaçu" 
+        },
+        {
+        "cod": "1845",
+        "uf":"Mineiros" 
+        },
+        {
+        "cod": "1846",
+        "uf":"Moiporá" 
+        },
+        {
+        "cod": "1847",
+        "uf":"Monte Alegre de Goiás" 
+        },
+        {
+        "cod": "1848",
+        "uf":"Montes Claros de Goiás" 
+        },
+        {
+        "cod": "1849",
+        "uf":"Montividiu" 
+        },
+        {
+        "cod": "1850",
+        "uf":"Montividiu do Norte" 
+        },
+        {
+        "cod": "1851",
+        "uf":"Morrinhos" 
+        },
+        {
+        "cod": "1852",
+        "uf":"Morro Agudo de Goiás" 
+        },
+        {
+        "cod": "1853",
+        "uf":"Mossâmedes" 
+        },
+        {
+        "cod": "1854",
+        "uf":"Mozarlândia" 
+        },
+        {
+        "cod": "1855",
+        "uf":"Mundo Novo" 
+        },
+        {
+        "cod": "1856",
+        "uf":"Mutunópolis" 
+        },
+        {
+        "cod": "1857",
+        "uf":"Nazário" 
+        },
+        {
+        "cod": "1858",
+        "uf":"Nerópolis" 
+        },
+        {
+        "cod": "1859",
+        "uf":"Niquelândia" 
+        },
+        {
+        "cod": "1860",
+        "uf":"Nova América" 
+        },
+        {
+        "cod": "1861",
+        "uf":"Nova Aurora" 
+        },
+        {
+        "cod": "1862",
+        "uf":"Nova Crixás" 
+        },
+        {
+        "cod": "1863",
+        "uf":"Nova Glória" 
+        },
+        {
+        "cod": "1864",
+        "uf":"Nova Iguaçu de Goiás" 
+        },
+        {
+        "cod": "1865",
+        "uf":"Nova Roma" 
+        },
+        {
+        "cod": "1866",
+        "uf":"Nova Veneza" 
+        },
+        {
+        "cod": "1867",
+        "uf":"Novo Brasil" 
+        },
+        {
+        "cod": "1868",
+        "uf":"Novo Gama" 
+        },
+        {
+        "cod": "1869",
+        "uf":"Novo Planalto" 
+        },
+        {
+        "cod": "1870",
+        "uf":"Orizona" 
+        },
+        {
+        "cod": "1871",
+        "uf":"Ouro Verde de Goiás" 
+        },
+        {
+        "cod": "1872",
+        "uf":"Ouvidor" 
+        },
+        {
+        "cod": "1873",
+        "uf":"Padre Bernardo" 
+        },
+        {
+        "cod": "1874",
+        "uf":"Palestina de Goiás" 
+        },
+        {
+        "cod": "1875",
+        "uf":"Palmeiras de Goiás" 
+        },
+        {
+        "cod": "1876",
+        "uf":"Palmelo" 
+        },
+        {
+        "cod": "1877",
+        "uf":"Palminópolis" 
+        },
+        {
+        "cod": "1878",
+        "uf":"Panamá" 
+        },
+        {
+        "cod": "1879",
+        "uf":"Paranaiguara" 
+        },
+        {
+        "cod": "1880",
+        "uf":"Paraúna" 
+        },
+        {
+        "cod": "1881",
+        "uf":"Perolândia" 
+        },
+        {
+        "cod": "1882",
+        "uf":"Petrolina de Goiás" 
+        },
+        {
+        "cod": "1883",
+        "uf":"Pilar de Goiás" 
+        },
+        {
+        "cod": "1884",
+        "uf":"Piracanjuba" 
+        },
+        {
+        "cod": "1885",
+        "uf":"Piranhas" 
+        },
+        {
+        "cod": "1886",
+        "uf":"Pirenópolis" 
+        },
+        {
+        "cod": "1887",
+        "uf":"Pires do Rio" 
+        },
+        {
+        "cod": "1888",
+        "uf":"Planaltina" 
+        },
+        {
+        "cod": "1889",
+        "uf":"Pontalina" 
+        },
+        {
+        "cod": "1890",
+        "uf":"Porangatu" 
+        },
+        {
+        "cod": "1891",
+        "uf":"Porteirão" 
+        },
+        {
+        "cod": "1892",
+        "uf":"Portelândia" 
+        },
+        {
+        "cod": "1893",
+        "uf":"Posse" 
+        },
+        {
+        "cod": "1894",
+        "uf":"Professor Jamil" 
+        },
+        {
+        "cod": "1895",
+        "uf":"Quirinópolis" 
+        },
+        {
+        "cod": "1896",
+        "uf":"Rialma" 
+        },
+        {
+        "cod": "1897",
+        "uf":"Rianápolis" 
+        },
+        {
+        "cod": "1898",
+        "uf":"Rio Quente" 
+        },
+        {
+        "cod": "1899",
+        "uf":"Rio Verde" 
+        },
+        {
+        "cod": "1900",
+        "uf":"Rubiataba" 
+        },
+        {
+        "cod": "1901",
+        "uf":"Sanclerlândia" 
+        },
+        {
+        "cod": "1902",
+        "uf":"Santa Bárbara de Goiás" 
+        },
+        {
+        "cod": "1903",
+        "uf":"Santa Cruz de Goiás" 
+        },
+        {
+        "cod": "1904",
+        "uf":"Santa Fé de Goiás" 
+        },
+        {
+        "cod": "1905",
+        "uf":"Santa Helena de Goiás" 
+        },
+        {
+        "cod": "1906",
+        "uf":"Santa Isabel" 
+        },
+        {
+        "cod": "1907",
+        "uf":"Santa Rita do Araguaia" 
+        },
+        {
+        "cod": "1908",
+        "uf":"Santa Rita do Novo Destino" 
+        },
+        {
+        "cod": "1909",
+        "uf":"Santa Rosa de Goiás" 
+        },
+        {
+        "cod": "1910",
+        "uf":"Santa Tereza de Goiás" 
+        },
+        {
+        "cod": "1911",
+        "uf":"Santa Terezinha de Goiás" 
+        },
+        {
+        "cod": "1912",
+        "uf":"Santo Antônio da Barra" 
+        },
+        {
+        "cod": "1913",
+        "uf":"Santo Antônio de Goiás" 
+        },
+        {
+        "cod": "1914",
+        "uf":"Santo Antônio do Descoberto" 
+        },
+        {
+        "cod": "1915",
+        "uf":"São Domingos" 
+        },
+        {
+        "cod": "1916",
+        "uf":"São Francisco de Goiás" 
+        },
+        {
+        "cod": "1917",
+        "uf":"São João d'Aliança" 
+        },
+        {
+        "cod": "1918",
+        "uf":"São João da Paraúna" 
+        },
+        {
+        "cod": "1919",
+        "uf":"São Luís de Montes Belos" 
+        },
+        {
+        "cod": "1920",
+        "uf":"São Luíz do Norte" 
+        },
+        {
+        "cod": "1921",
+        "uf":"São Miguel do Araguaia" 
+        },
+        {
+        "cod": "1922",
+        "uf":"São Miguel do Passa Quatro" 
+        },
+        {
+        "cod": "1923",
+        "uf":"São Patrício" 
+        },
+        {
+        "cod": "1924",
+        "uf":"São Simão" 
+        },
+        {
+        "cod": "1925",
+        "uf":"Senador Canedo" 
+        },
+        {
+        "cod": "1926",
+        "uf":"Serranópolis" 
+        },
+        {
+        "cod": "1927",
+        "uf":"Silvânia" 
+        },
+        {
+        "cod": "1928",
+        "uf":"Simolândia" 
+        },
+        {
+        "cod": "1929",
+        "uf":"Sítio d'Abadia" 
+        },
+        {
+        "cod": "1930",
+        "uf":"Taquaral de Goiás" 
+        },
+        {
+        "cod": "1931",
+        "uf":"Teresina de Goiás" 
+        },
+        {
+        "cod": "1932",
+        "uf":"Terezópolis de Goiás" 
+        },
+        {
+        "cod": "1933",
+        "uf":"Três Ranchos" 
+        },
+        {
+        "cod": "1934",
+        "uf":"Trindade" 
+        },
+        {
+        "cod": "1935",
+        "uf":"Trombas" 
+        },
+        {
+        "cod": "1936",
+        "uf":"Turvânia" 
+        },
+        {
+        "cod": "1937",
+        "uf":"Turvelândia" 
+        },
+        {
+        "cod": "1938",
+        "uf":"Uirapuru" 
+        },
+        {
+        "cod": "1939",
+        "uf":"Uruaçu" 
+        },
+        {
+        "cod": "1940",
+        "uf":"Uruana" 
+        },
+        {
+        "cod": "1941",
+        "uf":"Urutaí" 
+        },
+        {
+        "cod": "1942",
+        "uf":"Valparaíso de Goiás" 
+        },
+        {
+        "cod": "1943",
+        "uf":"Varjão" 
+        },
+        {
+        "cod": "1944",
+        "uf":"Vianópolis" 
+        },
+        {
+        "cod": "1945",
+        "uf":"Vicentinópolis" 
+        },
+        {
+        "cod": "1946",
+        "uf":"Vila Boa" 
+        },
+        {
+        "cod": "1947",
+        "uf":"Vila Propício"},
       ]
     },
     {
@@ -3832,223 +4569,873 @@
       "sigla": "MA",
       "nome": "Maranhão",
       "cidades": [
-        "Açailândia",
-        "Afonso Cunha",
-        "Água Doce do Maranhão",
-        "Alcântara",
-        "Aldeias Altas",
-        "Altamira do Maranhão",
-        "Alto Alegre do Maranhão",
-        "Alto Alegre do Pindaré",
-        "Alto Parnaíba",
-        "Amapá do Maranhão",
-        "Amarante do Maranhão",
-        "Anajatuba",
-        "Anapurus",
-        "Apicum-Açu",
-        "Araguanã",
-        "Araioses",
-        "Arame",
-        "Arari",
-        "Axixá",
-        "Bacabal",
-        "Bacabeira",
-        "Bacuri",
-        "Bacurituba",
-        "Balsas",
-        "Barão de Grajaú",
-        "Barra do Corda",
-        "Barreirinhas",
-        "Bela Vista do Maranhão",
-        "Belágua",
-        "Benedito Leite",
-        "Bequimão",
-        "Bernardo do Mearim",
-        "Boa Vista do Gurupi",
-        "Bom Jardim",
-        "Bom Jesus das Selvas",
-        "Bom Lugar",
-        "Brejo",
-        "Brejo de Areia",
-        "Buriti",
-        "Buriti Bravo",
-        "Buriticupu",
-        "Buritirana",
-        "Cachoeira Grande",
-        "Cajapió",
-        "Cajari",
-        "Campestre do Maranhão",
-        "Cândido Mendes",
-        "Cantanhede",
-        "Capinzal do Norte",
-        "Carolina",
-        "Carutapera",
-        "Caxias",
-        "Cedral",
-        "Central do Maranhão",
-        "Centro do Guilherme",
-        "Centro Novo do Maranhão",
-        "Chapadinha",
-        "Cidelândia",
-        "Codó",
-        "Coelho Neto",
-        "Colinas",
-        "Conceição do Lago-Açu",
-        "Coroatá",
-        "Cururupu",
-        "Davinópolis",
-        "Dom Pedro",
-        "Duque Bacelar",
-        "Esperantinópolis",
-        "Estreito",
-        "Feira Nova do Maranhão",
-        "Fernando Falcão",
-        "Formosa da Serra Negra",
-        "Fortaleza dos Nogueiras",
-        "Fortuna",
-        "Godofredo Viana",
-        "Gonçalves Dias",
-        "Governador Archer",
-        "Governador Edison Lobão",
-        "Governador Eugênio Barros",
-        "Governador Luiz Rocha",
-        "Governador Newton Bello",
-        "Governador Nunes Freire",
-        "Graça Aranha",
-        "Grajaú",
-        "Guimarães",
-        "Humberto de Campos",
-        "Icatu",
-        "Igarapé do Meio",
-        "Igarapé Grande",
-        "Imperatriz",
-        "Itaipava do Grajaú",
-        "Itapecuru Mirim",
-        "Itinga do Maranhão",
-        "Jatobá",
-        "Jenipapo dos Vieiras",
-        "João Lisboa",
-        "Joselândia",
-        "Junco do Maranhão",
-        "Lago da Pedra",
-        "Lago do Junco",
-        "Lago dos Rodrigues",
-        "Lago Verde",
-        "Lagoa do Mato",
-        "Lagoa Grande do Maranhão",
-        "Lajeado Novo",
-        "Lima Campos",
-        "Loreto",
-        "Luís Domingues",
-        "Magalhães de Almeida",
-        "Maracaçumé",
-        "Marajá do Sena",
-        "Maranhãozinho",
-        "Mata Roma",
-        "Matinha",
-        "Matões",
-        "Matões do Norte",
-        "Milagres do Maranhão",
-        "Mirador",
-        "Miranda do Norte",
-        "Mirinzal",
-        "Monção",
-        "Montes Altos",
-        "Morros",
-        "Nina Rodrigues",
-        "Nova Colinas",
-        "Nova Iorque",
-        "Nova Olinda do Maranhão",
-        "Olho d'Água das Cunhãs",
-        "Olinda Nova do Maranhão",
-        "Paço do Lumiar",
-        "Palmeirândia",
-        "Paraibano",
-        "Parnarama",
-        "Passagem Franca",
-        "Pastos Bons",
-        "Paulino Neves",
-        "Paulo Ramos",
-        "Pedreiras",
-        "Pedro do Rosário",
-        "Penalva",
-        "Peri Mirim",
-        "Peritoró",
-        "Pindaré Mirim",
-        "Pinheiro",
-        "Pio XII",
-        "Pirapemas",
-        "Poção de Pedras",
-        "Porto Franco",
-        "Porto Rico do Maranhão",
-        "Presidente Dutra",
-        "Presidente Juscelino",
-        "Presidente Médici",
-        "Presidente Sarney",
-        "Presidente Vargas",
-        "Primeira Cruz",
-        "Raposa",
-        "Riachão",
-        "Ribamar Fiquene",
-        "Rosário",
-        "Sambaíba",
-        "Santa Filomena do Maranhão",
-        "Santa Helena",
-        "Santa Inês",
-        "Santa Luzia",
-        "Santa Luzia do Paruá",
-        "Santa Quitéria do Maranhão",
-        "Santa Rita",
-        "Santana do Maranhão",
-        "Santo Amaro do Maranhão",
-        "Santo Antônio dos Lopes",
-        "São Benedito do Rio Preto",
-        "São Bento",
-        "São Bernardo",
-        "São Domingos do Azeitão",
-        "São Domingos do Maranhão",
-        "São Félix de Balsas",
-        "São Francisco do Brejão",
-        "São Francisco do Maranhão",
-        "São João Batista",
-        "São João do Carú",
-        "São João do Paraíso",
-        "São João do Soter",
-        "São João dos Patos",
-        "São José de Ribamar",
-        "São José dos Basílios",
-        "São Luís",
-        "São Luís Gonzaga do Maranhão",
-        "São Mateus do Maranhão",
-        "São Pedro da Água Branca",
-        "São Pedro dos Crentes",
-        "São Raimundo das Mangabeiras",
-        "São Raimundo do Doca Bezerra",
-        "São Roberto",
-        "São Vicente Ferrer",
-        "Satubinha",
-        "Senador Alexandre Costa",
-        "Senador La Rocque",
-        "Serrano do Maranhão",
-        "Sítio Novo",
-        "Sucupira do Norte",
-        "Sucupira do Riachão",
-        "Tasso Fragoso",
-        "Timbiras",
-        "Timon",
-        "Trizidela do Vale",
-        "Tufilândia",
-        "Tuntum",
-        "Turiaçu",
-        "Turilândia",
-        "Tutóia",
-        "Urbano Santos",
-        "Vargem Grande",
-        "Viana",
-        "Vila Nova dos Martírios",
-        "Vitória do Mearim",
-        "Vitorino Freire",
-        "Zé Doca"
+        {
+        "cod": "450",
+        "uf":"Açailândia" 
+        },
+        {
+        "cod": "451",
+        "uf":"Afonso Cunha" 
+        },
+        {
+        "cod": "452",
+        "uf":"Água Doce do Maranhão" 
+        },
+        {
+        "cod": "453",
+        "uf":"Alcântara" 
+        },
+        {
+        "cod": "454",
+        "uf":"Aldeias Altas" 
+        },
+        {
+        "cod": "455",
+        "uf":"Altamira do Maranhão" 
+        },
+        {
+        "cod": "456",
+        "uf":"Alto Alegre do Maranhão" 
+        },
+        {
+        "cod": "457",
+        "uf":"Alto Alegre do Pindaré" 
+        },
+        {
+        "cod": "458",
+        "uf":"Alto Parnaíba" 
+        },
+        {
+        "cod": "459",
+        "uf":"Amapá do Maranhão" 
+        },
+        {
+        "cod": "460",
+        "uf":"Amarante do Maranhão" 
+        },
+        {
+        "cod": "461",
+        "uf":"Anajatuba" 
+        },
+        {
+        "cod": "462",
+        "uf":"Anapurus" 
+        },
+        {
+        "cod": "463",
+        "uf":"Apicum-Açu" 
+        },
+        {
+        "cod": "464",
+        "uf":"Araguanã" 
+        },
+        {
+        "cod": "465",
+        "uf":"Araioses" 
+        },
+        {
+        "cod": "466",
+        "uf":"Arame" 
+        },
+        {
+        "cod": "467",
+        "uf":"Arari" 
+        },
+        {
+        "cod": "468",
+        "uf":"Axixá" 
+        },
+        {
+        "cod": "469",
+        "uf":"Bacabal" 
+        },
+        {
+        "cod": "470",
+        "uf":"Bacabeira" 
+        },
+        {
+        "cod": "471",
+        "uf":"Bacuri" 
+        },
+        {
+        "cod": "472",
+        "uf":"Bacurituba" 
+        },
+        {
+        "cod": "473",
+        "uf":"Balsas" 
+        },
+        {
+        "cod": "474",
+        "uf":"Barão de Grajaú" 
+        },
+        {
+        "cod": "475",
+        "uf":"Barra do Corda" 
+        },
+        {
+        "cod": "476",
+        "uf":"Barreirinhas" 
+        },
+        {
+        "cod": "477",
+        "uf":"Bela Vista do Maranhão" 
+        },
+        {
+        "cod": "478",
+        "uf":"Belágua" 
+        },
+        {
+        "cod": "479",
+        "uf":"Benedito Leite" 
+        },
+        {
+        "cod": "480",
+        "uf":"Bequimão" 
+        },
+        {
+        "cod": "481",
+        "uf":"Bernardo do Mearim" 
+        },
+        {
+        "cod": "482",
+        "uf":"Boa Vista do Gurupi" 
+        },
+        {
+        "cod": "483",
+        "uf":"Bom Jardim" 
+        },
+        {
+        "cod": "484",
+        "uf":"Bom Jesus das Selvas" 
+        },
+        {
+        "cod": "485",
+        "uf":"Bom Lugar" 
+        },
+        {
+        "cod": "486",
+        "uf":"Brejo" 
+        },
+        {
+        "cod": "487",
+        "uf":"Brejo de Areia" 
+        },
+        {
+        "cod": "488",
+        "uf":"Buriti" 
+        },
+        {
+        "cod": "489",
+        "uf":"Buriti Bravo" 
+        },
+        {
+        "cod": "490",
+        "uf":"Buriticupu" 
+        },
+        {
+        "cod": "491",
+        "uf":"Buritirana" 
+        },
+        {
+        "cod": "492",
+        "uf":"Cachoeira Grande" 
+        },
+        {
+        "cod": "493",
+        "uf":"Cajapió" 
+        },
+        {
+        "cod": "494",
+        "uf":"Cajari" 
+        },
+        {
+        "cod": "495",
+        "uf":"Campestre do Maranhão" 
+        },
+        {
+        "cod": "496",
+        "uf":"Cândido Mendes" 
+        },
+        {
+        "cod": "497",
+        "uf":"Cantanhede" 
+        },
+        {
+        "cod": "498",
+        "uf":"Capinzal do Norte" 
+        },
+        {
+        "cod": "499",
+        "uf":"Carolina" 
+        },
+        {
+        "cod": "500",
+        "uf":"Carutapera" 
+        },
+        {
+        "cod": "501",
+        "uf":"Caxias" 
+        },
+        {
+        "cod": "502",
+        "uf":"Cedral" 
+        },
+        {
+        "cod": "503",
+        "uf":"Central do Maranhão" 
+        },
+        {
+        "cod": "504",
+        "uf":"Centro do Guilherme" 
+        },
+        {
+        "cod": "505",
+        "uf":"Centro Novo do Maranhão" 
+        },
+        {
+        "cod": "506",
+        "uf":"Chapadinha" 
+        },
+        {
+        "cod": "507",
+        "uf":"Cidelândia" 
+        },
+        {
+        "cod": "508",
+        "uf":"Codó" 
+        },
+        {
+        "cod": "509",
+        "uf":"Coelho Neto" 
+        },
+        {
+        "cod": "510",
+        "uf":"Colinas" 
+        },
+        {
+        "cod": "511",
+        "uf":"Conceição do Lago-Açu" 
+        },
+        {
+        "cod": "512",
+        "uf":"Coroatá" 
+        },
+        {
+        "cod": "513",
+        "uf":"Cururupu" 
+        },
+        {
+        "cod": "514",
+        "uf":"Davinópolis" 
+        },
+        {
+        "cod": "515",
+        "uf":"Dom Pedro" 
+        },
+        {
+        "cod": "516",
+        "uf":"Duque Bacelar" 
+        },
+        {
+        "cod": "517",
+        "uf":"Esperantinópolis" 
+        },
+        {
+        "cod": "518",
+        "uf":"Estreito" 
+        },
+        {
+        "cod": "519",
+        "uf":"Feira Nova do Maranhão" 
+        },
+        {
+        "cod": "520",
+        "uf":"Fernando Falcão" 
+        },
+        {
+        "cod": "521",
+        "uf":"Formosa da Serra Negra" 
+        },
+        {
+        "cod": "522",
+        "uf":"Fortaleza dos Nogueiras" 
+        },
+        {
+        "cod": "523",
+        "uf":"Fortuna" 
+        },
+        {
+        "cod": "524",
+        "uf":"Godofredo Viana" 
+        },
+        {
+        "cod": "525",
+        "uf":"Gonçalves Dias" 
+        },
+        {
+        "cod": "526",
+        "uf":"Governador Archer" 
+        },
+        {
+        "cod": "527",
+        "uf":"Governador Edison Lobão" 
+        },
+        {
+        "cod": "528",
+        "uf":"Governador Eugênio Barros" 
+        },
+        {
+        "cod": "529",
+        "uf":"Governador Luiz Rocha" 
+        },
+        {
+        "cod": "530",
+        "uf":"Governador Newton Bello" 
+        },
+        {
+        "cod": "531",
+        "uf":"Governador Nunes Freire" 
+        },
+        {
+        "cod": "532",
+        "uf":"Graça Aranha" 
+        },
+        {
+        "cod": "533",
+        "uf":"Grajaú" 
+        },
+        {
+        "cod": "534",
+        "uf":"Guimarães" 
+        },
+        {
+        "cod": "535",
+        "uf":"Humberto de Campos" 
+        },
+        {
+        "cod": "536",
+        "uf":"Icatu" 
+        },
+        {
+        "cod": "537",
+        "uf":"Igarapé do Meio" 
+        },
+        {
+        "cod": "538",
+        "uf":"Igarapé Grande" 
+        },
+        {
+        "cod": "539",
+        "uf":"Imperatriz" 
+        },
+        {
+        "cod": "540",
+        "uf":"Itaipava do Grajaú" 
+        },
+        {
+        "cod": "541",
+        "uf":"Itapecuru Mirim" 
+        },
+        {
+        "cod": "542",
+        "uf":"Itinga do Maranhão" 
+        },
+        {
+        "cod": "543",
+        "uf":"Jatobá" 
+        },
+        {
+        "cod": "544",
+        "uf":"Jenipapo dos Vieiras" 
+        },
+        {
+        "cod": "545",
+        "uf":"João Lisboa" 
+        },
+        {
+        "cod": "546",
+        "uf":"Joselândia" 
+        },
+        {
+        "cod": "547",
+        "uf":"Junco do Maranhão" 
+        },
+        {
+        "cod": "548",
+        "uf":"Lago da Pedra" 
+        },
+        {
+        "cod": "549",
+        "uf":"Lago do Junco" 
+        },
+        {
+        "cod": "550",
+        "uf":"Lago dos Rodrigues" 
+        },
+        {
+        "cod": "551",
+        "uf":"Lago Verde" 
+        },
+        {
+        "cod": "552",
+        "uf":"Lagoa do Mato" 
+        },
+        {
+        "cod": "553",
+        "uf":"Lagoa Grande do Maranhão" 
+        },
+        {
+        "cod": "554",
+        "uf":"Lajeado Novo" 
+        },
+        {
+        "cod": "555",
+        "uf":"Lima Campos" 
+        },
+        {
+        "cod": "556",
+        "uf":"Loreto" 
+        },
+        {
+        "cod": "557",
+        "uf":"Luís Domingues" 
+        },
+        {
+        "cod": "558",
+        "uf":"Magalhães de Almeida" 
+        },
+        {
+        "cod": "559",
+        "uf":"Maracaçumé" 
+        },
+        {
+        "cod": "560",
+        "uf":"Marajá do Sena" 
+        },
+        {
+        "cod": "561",
+        "uf":"Maranhãozinho" 
+        },
+        {
+        "cod": "562",
+        "uf":"Mata Roma" 
+        },
+        {
+        "cod": "563",
+        "uf":"Matinha" 
+        },
+        {
+        "cod": "564",
+        "uf":"Matões" 
+        },
+        {
+        "cod": "565",
+        "uf":"Matões do Norte" 
+        },
+        {
+        "cod": "566",
+        "uf":"Milagres do Maranhão" 
+        },
+        {
+        "cod": "567",
+        "uf":"Mirador" 
+        },
+        {
+        "cod": "568",
+        "uf":"Miranda do Norte" 
+        },
+        {
+        "cod": "569",
+        "uf":"Mirinzal" 
+        },
+        {
+        "cod": "570",
+        "uf":"Monção" 
+        },
+        {
+        "cod": "571",
+        "uf":"Montes Altos" 
+        },
+        {
+        "cod": "572",
+        "uf":"Morros" 
+        },
+        {
+        "cod": "573",
+        "uf":"Nina Rodrigues" 
+        },
+        {
+        "cod": "574",
+        "uf":"Nova Colinas" 
+        },
+        {
+        "cod": "575",
+        "uf":"Nova Iorque" 
+        },
+        {
+        "cod": "576",
+        "uf":"Nova Olinda do Maranhão" 
+        },
+        {
+        "cod": "577",
+        "uf":"Olho d'Água das Cunhãs" 
+        },
+        {
+        "cod": "578",
+        "uf":"Olinda Nova do Maranhão" 
+        },
+        {
+        "cod": "579",
+        "uf":"Paço do Lumiar" 
+        },
+        {
+        "cod": "580",
+        "uf":"Palmeirândia" 
+        },
+        {
+        "cod": "581",
+        "uf":"Paraibano" 
+        },
+        {
+        "cod": "582",
+        "uf":"Parnarama" 
+        },
+        {
+        "cod": "583",
+        "uf":"Passagem Franca" 
+        },
+        {
+        "cod": "584",
+        "uf":"Pastos Bons" 
+        },
+        {
+        "cod": "585",
+        "uf":"Paulino Neves" 
+        },
+        {
+        "cod": "586",
+        "uf":"Paulo Ramos" 
+        },
+        {
+        "cod": "587",
+        "uf":"Pedreiras" 
+        },
+        {
+        "cod": "588",
+        "uf":"Pedro do Rosário" 
+        },
+        {
+        "cod": "589",
+        "uf":"Penalva" 
+        },
+        {
+        "cod": "590",
+        "uf":"Peri Mirim" 
+        },
+        {
+        "cod": "591",
+        "uf":"Peritoró" 
+        },
+        {
+        "cod": "592",
+        "uf":"Pindaré Mirim" 
+        },
+        {
+        "cod": "593",
+        "uf":"Pinheiro" 
+        },
+        {
+        "cod": "594",
+        "uf":"Pio XII" 
+        },
+        {
+        "cod": "595",
+        "uf":"Pirapemas" 
+        },
+        {
+        "cod": "596",
+        "uf":"Poção de Pedras" 
+        },
+        {
+        "cod": "597",
+        "uf":"Porto Franco" 
+        },
+        {
+        "cod": "598",
+        "uf":"Porto Rico do Maranhão" 
+        },
+        {
+        "cod": "599",
+        "uf":"Presidente Dutra" 
+        },
+        {
+        "cod": "600",
+        "uf":"Presidente Juscelino" 
+        },
+        {
+        "cod": "601",
+        "uf":"Presidente Médici" 
+        },
+        {
+        "cod": "602",
+        "uf":"Presidente Sarney" 
+        },
+        {
+        "cod": "603",
+        "uf":"Presidente Vargas" 
+        },
+        {
+        "cod": "604",
+        "uf":"Primeira Cruz" 
+        },
+        {
+        "cod": "605",
+        "uf":"Raposa" 
+        },
+        {
+        "cod": "606",
+        "uf":"Riachão" 
+        },
+        {
+        "cod": "607",
+        "uf":"Ribamar Fiquene" 
+        },
+        {
+        "cod": "608",
+        "uf":"Rosário" 
+        },
+        {
+        "cod": "609",
+        "uf":"Sambaíba" 
+        },
+        {
+        "cod": "610",
+        "uf":"Santa Filomena do Maranhão" 
+        },
+        {
+        "cod": "611",
+        "uf":"Santa Helena" 
+        },
+        {
+        "cod": "612",
+        "uf":"Santa Inês" 
+        },
+        {
+        "cod": "613",
+        "uf":"Santa Luzia" 
+        },
+        {
+        "cod": "614",
+        "uf":"Santa Luzia do Paruá" 
+        },
+        {
+        "cod": "615",
+        "uf":"Santa Quitéria do Maranhão" 
+        },
+        {
+        "cod": "616",
+        "uf":"Santa Rita" 
+        },
+        {
+        "cod": "617",
+        "uf":"Santana do Maranhão" 
+        },
+        {
+        "cod": "618",
+        "uf":"Santo Amaro do Maranhão" 
+        },
+        {
+        "cod": "619",
+        "uf":"Santo Antônio dos Lopes" 
+        },
+        {
+        "cod": "620",
+        "uf":"São Benedito do Rio Preto" 
+        },
+        {
+        "cod": "621",
+        "uf":"São Bento" 
+        },
+        {
+        "cod": "622",
+        "uf":"São Bernardo" 
+        },
+        {
+        "cod": "623",
+        "uf":"São Domingos do Azeitão" 
+        },
+        {
+        "cod": "624",
+        "uf":"São Domingos do Maranhão" 
+        },
+        {
+        "cod": "625",
+        "uf":"São Félix de Balsas" 
+        },
+        {
+        "cod": "626",
+        "uf":"São Francisco do Brejão" 
+        },
+        {
+        "cod": "627",
+        "uf":"São Francisco do Maranhão" 
+        },
+        {
+        "cod": "628",
+        "uf":"São João Batista" 
+        },
+        {
+        "cod": "629",
+        "uf":"São João do Carú" 
+        },
+        {
+        "cod": "630",
+        "uf":"São João do Paraíso" 
+        },
+        {
+        "cod": "631",
+        "uf":"São João do Soter" 
+        },
+        {
+        "cod": "632",
+        "uf":"São João dos Patos" 
+        },
+        {
+        "cod": "633",
+        "uf":"São José de Ribamar" 
+        },
+        {
+        "cod": "634",
+        "uf":"São José dos Basílios" 
+        },
+        {
+        "cod": "635",
+        "uf":"São Luís" 
+        },
+        {
+        "cod": "636",
+        "uf":"São Luís Gonzaga do Maranhão" 
+        },
+        {
+        "cod": "637",
+        "uf":"São Mateus do Maranhão" 
+        },
+        {
+        "cod": "638",
+        "uf":"São Pedro da Água Branca" 
+        },
+        {
+        "cod": "639",
+        "uf":"São Pedro dos Crentes" 
+        },
+        {
+        "cod": "640",
+        "uf":"São Raimundo das Mangabeiras" 
+        },
+        {
+        "cod": "641",
+        "uf":"São Raimundo do Doca Bezerra" 
+        },
+        {
+        "cod": "642",
+        "uf":"São Roberto" 
+        },
+        {
+        "cod": "643",
+        "uf":"São Vicente Ferrer" 
+        },
+        {
+        "cod": "644",
+        "uf":"Satubinha" 
+        },
+        {
+        "cod": "645",
+        "uf":"Senador Alexandre Costa" 
+        },
+        {
+        "cod": "646",
+        "uf":"Senador La Rocque" 
+        },
+        {
+        "cod": "647",
+        "uf":"Serrano do Maranhão" 
+        },
+        {
+        "cod": "648",
+        "uf":"Sítio Novo" 
+        },
+        {
+        "cod": "649",
+        "uf":"Sucupira do Norte" 
+        },
+        {
+        "cod": "650",
+        "uf":"Sucupira do Riachão" 
+        },
+        {
+        "cod": "651",
+        "uf":"Tasso Fragoso" 
+        },
+        {
+        "cod": "652",
+        "uf":"Timbiras" 
+        },
+        {
+        "cod": "653",
+        "uf":"Timon" 
+        },
+        {
+        "cod": "654",
+        "uf":"Trizidela do Vale" 
+        },
+        {
+        "cod": "655",
+        "uf":"Tufilândia" 
+        },
+        {
+        "cod": "656",
+        "uf":"Tuntum" 
+        },
+        {
+        "cod": "657",
+        "uf":"Turiaçu" 
+        },
+        {
+        "cod": "658",
+        "uf":"Turilândia" 
+        },
+        {
+        "cod": "659",
+        "uf":"Tutóia" 
+        },
+        {
+        "cod": "660",
+        "uf":"Urbano Santos" 
+        },
+        {
+        "cod": "661",
+        "uf":"Vargem Grande" 
+        },
+        {
+        "cod": "662",
+        "uf":"Viana" 
+        },
+        {
+        "cod": "663",
+        "uf":"Vila Nova dos Martírios" 
+        },
+        {
+        "cod": "664",
+        "uf":"Vitória do Mearim" 
+        },
+        {
+        "cod": "665",
+        "uf":"Vitorino Freire" 
+        },
+        {
+        "cod": "666",
+        "uf":"Zé Doca"},
       ]
     },
     {
