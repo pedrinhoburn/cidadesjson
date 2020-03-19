@@ -1602,190 +1602,741 @@
       "sigla": "CE",
       "nome": "Ceará",
       "cidades": [
-        "Abaiara",
-        "Acarapé",
-        "Acaraú",
-        "Acopiara",
-        "Aiuaba",
-        "Alcântaras",
-        "Altaneira",
-        "Alto Santo",
-        "Amontada",
-        "Antonina do Norte",
-        "Apuiarés",
-        "Aquiraz",
-        "Aracati",
-        "Aracoiaba",
-        "Ararendá",
-        "Araripe",
-        "Aratuba",
-        "Arneiroz",
-        "Assaré",
-        "Aurora",
-        "Baixio",
-        "Banabuiú",
-        "Barbalha",
-        "Barreira",
-        "Barro",
-        "Barroquinha",
-        "Baturité",
-        "Beberibe",
-        "Bela Cruz",
-        "Boa Viagem",
-        "Brejo Santo",
-        "Camocim",
-        "Campos Sales",
-        "Canindé",
-        "Capistrano",
-        "Caridade",
-        "Cariré",
-        "Caririaçu",
-        "Cariús",
-        "Carnaubal",
-        "Cascavel",
-        "Catarina",
-        "Catunda",
-        "Caucaia",
-        "Cedro",
-        "Chaval",
-        "Choró",
-        "Chorozinho",
-        "Coreaú",
-        "Crateús",
-        "Crato",
-        "Croatá",
-        "Cruz",
-        "Deputado Irapuan Pinheiro",
-        "Ererê",
-        "Eusébio",
-        "Farias Brito",
-        "Forquilha",
-        "Fortaleza",
-        "Fortim",
-        "Frecheirinha",
-        "General Sampaio",
-        "Graça",
-        "Granja",
-        "Granjeiro",
-        "Groaíras",
-        "Guaiúba",
-        "Guaraciaba do Norte",
-        "Guaramiranga",
-        "Hidrolândia",
-        "Horizonte",
-        "Ibaretama",
-        "Ibiapina",
-        "Ibicuitinga",
-        "Icapuí",
-        "Icó",
-        "Iguatu",
-        "Independência",
-        "Ipaporanga",
-        "Ipaumirim",
-        "Ipu",
-        "Ipueiras",
-        "Iracema",
-        "Irauçuba",
-        "Itaiçaba",
-        "Itaitinga",
-        "Itapagé",
-        "Itapipoca",
-        "Itapiúna",
-        "Itarema",
-        "Itatira",
-        "Jaguaretama",
-        "Jaguaribara",
-        "Jaguaribe",
-        "Jaguaruana",
-        "Jardim",
-        "Jati",
-        "Jijoca de Jericoaroara",
-        "Juazeiro do Norte",
-        "Jucás",
-        "Lavras da Mangabeira",
-        "Limoeiro do Norte",
-        "Madalena",
-        "Maracanaú",
-        "Maranguape",
-        "Marco",
-        "Martinópole",
-        "Massapê",
-        "Mauriti",
-        "Meruoca",
-        "Milagres",
-        "Milhã",
-        "Miraíma",
-        "Missão Velha",
-        "Mombaça",
-        "Monsenhor Tabosa",
-        "Morada Nova",
-        "Moraújo",
-        "Morrinhos",
-        "Mucambo",
-        "Mulungu",
-        "Nova Olinda",
-        "Nova Russas",
-        "Novo Oriente",
-        "Ocara",
-        "Orós",
-        "Pacajus",
-        "Pacatuba",
-        "Pacoti",
-        "Pacujá",
-        "Palhano",
-        "Palmácia",
-        "Paracuru",
-        "Paraipaba",
-        "Parambu",
-        "Paramoti",
-        "Pedra Branca",
-        "Penaforte",
-        "Pentecoste",
-        "Pereiro",
-        "Pindoretama",
-        "Piquet Carneiro",
-        "Pires Ferreira",
-        "Poranga",
-        "Porteiras",
-        "Potengi",
-        "Potiretama",
-        "Quiterianópolis",
-        "Quixadá",
-        "Quixelô",
-        "Quixeramobim",
-        "Quixeré",
-        "Redenção",
-        "Reriutaba",
-        "Russas",
-        "Saboeiro",
-        "Salitre",
-        "Santa Quitéria",
-        "Santana do Acaraú",
-        "Santana do Cariri",
-        "São Benedito",
-        "São Gonçalo do Amarante",
-        "São João do Jaguaribe",
-        "São Luís do Curu",
-        "Senador Pompeu",
-        "Senador Sá",
-        "Sobral",
-        "Solonópole",
-        "Tabuleiro do Norte",
-        "Tamboril",
-        "Tarrafas",
-        "Tauá",
-        "Tejuçuoca",
-        "Tianguá",
-        "Trairi",
-        "Tururu",
-        "Ubajara",
-        "Umari",
-        "Umirim",
-        "Uruburetama",
-        "Uruoca",
-        "Varjota",
-        "Várzea Alegre",
-        "Viçosa do Ceará"
+      {
+      "cod": "878",
+      "uf":"Abaiara" 
+      },
+      {
+      "cod": "879",
+      "uf":"Acarapé" 
+      },
+      {
+      "cod": "880",
+      "uf":"Acaraú" 
+      },
+      {
+      "cod": "881",
+      "uf":"Acopiara" 
+      },
+      {
+      "cod": "882",
+      "uf":"Aiuaba" 
+      },
+      {
+      "cod": "883",
+      "uf":"Alcântaras" 
+      },
+      {
+      "cod": "884",
+      "uf":"Altaneira" 
+      },
+      {
+      "cod": "885",
+      "uf":"Alto Santo" 
+      },
+      {
+      "cod": "886",
+      "uf":"Amontada" 
+      },
+      {
+      "cod": "887",
+      "uf":"Antonina do Norte" 
+      },
+      {
+      "cod": "888",
+      "uf":"Apuiarés" 
+      },
+      {
+      "cod": "889",
+      "uf":"Aquiraz" 
+      },
+      {
+      "cod": "890",
+      "uf":"Aracati" 
+      },
+      {
+      "cod": "891",
+      "uf":"Aracoiaba" 
+      },
+      {
+      "cod": "892",
+      "uf":"Ararendá" 
+      },
+      {
+      "cod": "893",
+      "uf":"Araripe" 
+      },
+      {
+      "cod": "894",
+      "uf":"Aratuba" 
+      },
+      {
+      "cod": "895",
+      "uf":"Arneiroz" 
+      },
+      {
+      "cod": "896",
+      "uf":"Assaré" 
+      },
+      {
+      "cod": "897",
+      "uf":"Aurora" 
+      },
+      {
+      "cod": "898",
+      "uf":"Baixio" 
+      },
+      {
+      "cod": "899",
+      "uf":"Banabuiú" 
+      },
+      {
+      "cod": "900",
+      "uf":"Barbalha" 
+      },
+      {
+      "cod": "901",
+      "uf":"Barreira" 
+      },
+      {
+      "cod": "902",
+      "uf":"Barro" 
+      },
+      {
+      "cod": "903",
+      "uf":"Barroquinha" 
+      },
+      {
+      "cod": "904",
+      "uf":"Baturité" 
+      },
+      {
+      "cod": "905",
+      "uf":"Beberibe" 
+      },
+      {
+      "cod": "906",
+      "uf":"Bela Cruz" 
+      },
+      {
+      "cod": "907",
+      "uf":"Boa Viagem" 
+      },
+      {
+      "cod": "908",
+      "uf":"Brejo Santo" 
+      },
+      {
+      "cod": "909",
+      "uf":"Camocim" 
+      },
+      {
+      "cod": "910",
+      "uf":"Campos Sales" 
+      },
+      {
+      "cod": "911",
+      "uf":"Canindé" 
+      },
+      {
+      "cod": "912",
+      "uf":"Capistrano" 
+      },
+      {
+      "cod": "913",
+      "uf":"Caridade" 
+      },
+      {
+      "cod": "914",
+      "uf":"Cariré" 
+      },
+      {
+      "cod": "915",
+      "uf":"Caririaçu" 
+      },
+      {
+      "cod": "916",
+      "uf":"Cariús" 
+      },
+      {
+      "cod": "917",
+      "uf":"Carnaubal" 
+      },
+      {
+      "cod": "918",
+      "uf":"Cascavel" 
+      },
+      {
+      "cod": "919",
+      "uf":"Catarina" 
+      },
+      {
+      "cod": "920",
+      "uf":"Catunda" 
+      },
+      {
+      "cod": "921",
+      "uf":"Caucaia" 
+      },
+      {
+      "cod": "922",
+      "uf":"Cedro" 
+      },
+      {
+      "cod": "923",
+      "uf":"Chaval" 
+      },
+      {
+      "cod": "924",
+      "uf":"Choró" 
+      },
+      {
+      "cod": "925",
+      "uf":"Chorozinho" 
+      },
+      {
+      "cod": "926",
+      "uf":"Coreaú" 
+      },
+      {
+      "cod": "927",
+      "uf":"Crateús" 
+      },
+      {
+      "cod": "928",
+      "uf":"Crato" 
+      },
+      {
+      "cod": "929",
+      "uf":"Croatá" 
+      },
+      {
+      "cod": "930",
+      "uf":"Cruz" 
+      },
+      {
+      "cod": "931",
+      "uf":"Deputado Irapuan Pinheiro" 
+      },
+      {
+      "cod": "932",
+      "uf":"Ererê" 
+      },
+      {
+      "cod": "933",
+      "uf":"Eusébio" 
+      },
+      {
+      "cod": "934",
+      "uf":"Farias Brito" 
+      },
+      {
+      "cod": "935",
+      "uf":"Forquilha" 
+      },
+      {
+      "cod": "936",
+      "uf":"Fortaleza" 
+      },
+      {
+      "cod": "937",
+      "uf":"Fortim" 
+      },
+      {
+      "cod": "938",
+      "uf":"Frecheirinha" 
+      },
+      {
+      "cod": "939",
+      "uf":"General Sampaio" 
+      },
+      {
+      "cod": "940",
+      "uf":"Graça" 
+      },
+      {
+      "cod": "941",
+      "uf":"Granja" 
+      },
+      {
+      "cod": "942",
+      "uf":"Granjeiro" 
+      },
+      {
+      "cod": "943",
+      "uf":"Groaíras" 
+      },
+      {
+      "cod": "944",
+      "uf":"Guaiúba" 
+      },
+      {
+      "cod": "945",
+      "uf":"Guaraciaba do Norte" 
+      },
+      {
+      "cod": "946",
+      "uf":"Guaramiranga" 
+      },
+      {
+      "cod": "947",
+      "uf":"Hidrolândia" 
+      },
+      {
+      "cod": "948",
+      "uf":"Horizonte" 
+      },
+      {
+      "cod": "949",
+      "uf":"Ibaretama" 
+      },
+      {
+      "cod": "950",
+      "uf":"Ibiapina" 
+      },
+      {
+      "cod": "951",
+      "uf":"Ibicuitinga" 
+      },
+      {
+      "cod": "952",
+      "uf":"Icapuí" 
+      },
+      {
+      "cod": "953",
+      "uf":"Icó" 
+      },
+      {
+      "cod": "954",
+      "uf":"Iguatu" 
+      },
+      {
+      "cod": "955",
+      "uf":"Independência" 
+      },
+      {
+      "cod": "956",
+      "uf":"Ipaporanga" 
+      },
+      {
+      "cod": "957",
+      "uf":"Ipaumirim" 
+      },
+      {
+      "cod": "958",
+      "uf":"Ipu" 
+      },
+      {
+      "cod": "959",
+      "uf":"Ipueiras" 
+      },
+      {
+      "cod": "960",
+      "uf":"Iracema" 
+      },
+      {
+      "cod": "961",
+      "uf":"Irauçuba" 
+      },
+      {
+      "cod": "962",
+      "uf":"Itaiçaba" 
+      },
+      {
+      "cod": "963",
+      "uf":"Itaitinga" 
+      },
+      {
+      "cod": "964",
+      "uf":"Itapagé" 
+      },
+      {
+      "cod": "965",
+      "uf":"Itapipoca" 
+      },
+      {
+      "cod": "966",
+      "uf":"Itapiúna" 
+      },
+      {
+      "cod": "967",
+      "uf":"Itarema" 
+      },
+      {
+      "cod": "968",
+      "uf":"Itatira" 
+      },
+      {
+      "cod": "969",
+      "uf":"Jaguaretama" 
+      },
+      {
+      "cod": "970",
+      "uf":"Jaguaribara" 
+      },
+      {
+      "cod": "971",
+      "uf":"Jaguaribe" 
+      },
+      {
+      "cod": "972",
+      "uf":"Jaguaruana" 
+      },
+      {
+      "cod": "973",
+      "uf":"Jardim" 
+      },
+      {
+      "cod": "974",
+      "uf":"Jati" 
+      },
+      {
+      "cod": "975",
+      "uf":"Jijoca de Jericoaroara" 
+      },
+      {
+      "cod": "976",
+      "uf":"Juazeiro do Norte" 
+      },
+      {
+      "cod": "977",
+      "uf":"Jucás" 
+      },
+      {
+      "cod": "978",
+      "uf":"Lavras da Mangabeira" 
+      },
+      {
+      "cod": "979",
+      "uf":"Limoeiro do Norte" 
+      },
+      {
+      "cod": "980",
+      "uf":"Madalena" 
+      },
+      {
+      "cod": "981",
+      "uf":"Maracanaú" 
+      },
+      {
+      "cod": "982",
+      "uf":"Maranguape" 
+      },
+      {
+      "cod": "983",
+      "uf":"Marco" 
+      },
+      {
+      "cod": "984",
+      "uf":"Martinópole" 
+      },
+      {
+      "cod": "985",
+      "uf":"Massapê" 
+      },
+      {
+      "cod": "986",
+      "uf":"Mauriti" 
+      },
+      {
+      "cod": "987",
+      "uf":"Meruoca" 
+      },
+      {
+      "cod": "988",
+      "uf":"Milagres" 
+      },
+      {
+      "cod": "989",
+      "uf":"Milhã" 
+      },
+      {
+      "cod": "990",
+      "uf":"Miraíma" 
+      },
+      {
+      "cod": "991",
+      "uf":"Missão Velha" 
+      },
+      {
+      "cod": "992",
+      "uf":"Mombaça" 
+      },
+      {
+      "cod": "993",
+      "uf":"Monsenhor Tabosa" 
+      },
+      {
+      "cod": "994",
+      "uf":"Morada Nova" 
+      },
+      {
+      "cod": "995",
+      "uf":"Moraújo" 
+      },
+      {
+      "cod": "996",
+      "uf":"Morrinhos" 
+      },
+      {
+      "cod": "997",
+      "uf":"Mucambo" 
+      },
+      {
+      "cod": "998",
+      "uf":"Mulungu" 
+      },
+      {
+      "cod": "999",
+      "uf":"Nova Olinda" 
+      },
+      {
+      "cod": "1000",
+      "uf":"Nova Russas" 
+      },
+      {
+      "cod": "1001",
+      "uf":"Novo Oriente" 
+      },
+      {
+      "cod": "1002",
+      "uf":"Ocara" 
+      },
+      {
+      "cod": "1003",
+      "uf":"Orós" 
+      },
+      {
+      "cod": "1004",
+      "uf":"Pacajus" 
+      },
+      {
+      "cod": "1005",
+      "uf":"Pacatuba" 
+      },
+      {
+      "cod": "1006",
+      "uf":"Pacoti" 
+      },
+      {
+      "cod": "1007",
+      "uf":"Pacujá" 
+      },
+      {
+      "cod": "1008",
+      "uf":"Palhano" 
+      },
+      {
+      "cod": "1009",
+      "uf":"Palmácia" 
+      },
+      {
+      "cod": "1010",
+      "uf":"Paracuru" 
+      },
+      {
+      "cod": "1011",
+      "uf":"Paraipaba" 
+      },
+      {
+      "cod": "1012",
+      "uf":"Parambu" 
+      },
+      {
+      "cod": "1013",
+      "uf":"Paramoti" 
+      },
+      {
+      "cod": "1014",
+      "uf":"Pedra Branca" 
+      },
+      {
+      "cod": "1015",
+      "uf":"Penaforte" 
+      },
+      {
+      "cod": "1016",
+      "uf":"Pentecoste" 
+      },
+      {
+      "cod": "1017",
+      "uf":"Pereiro" 
+      },
+      {
+      "cod": "1018",
+      "uf":"Pindoretama" 
+      },
+      {
+      "cod": "1019",
+      "uf":"Piquet Carneiro" 
+      },
+      {
+      "cod": "1020",
+      "uf":"Pires Ferreira" 
+      },
+      {
+      "cod": "1021",
+      "uf":"Poranga" 
+      },
+      {
+      "cod": "1022",
+      "uf":"Porteiras" 
+      },
+      {
+      "cod": "1023",
+      "uf":"Potengi" 
+      },
+      {
+      "cod": "1024",
+      "uf":"Potiretama" 
+      },
+      {
+      "cod": "1025",
+      "uf":"Quiterianópolis" 
+      },
+      {
+      "cod": "1026",
+      "uf":"Quixadá" 
+      },
+      {
+      "cod": "1027",
+      "uf":"Quixelô" 
+      },
+      {
+      "cod": "1028",
+      "uf":"Quixeramobim" 
+      },
+      {
+      "cod": "1029",
+      "uf":"Quixeré" 
+      },
+      {
+      "cod": "1030",
+      "uf":"Redenção" 
+      },
+      {
+      "cod": "1031",
+      "uf":"Reriutaba" 
+      },
+      {
+      "cod": "1032",
+      "uf":"Russas" 
+      },
+      {
+      "cod": "4251",
+      "uf":"Saboeiro" 
+      },
+      {
+      "cod": "4252",
+      "uf":"Salitre" 
+      },
+      {
+      "cod": "4253",
+      "uf":"Santa Quitéria" 
+      },
+      {
+      "cod": "4254",
+      "uf":"Santana do Acaraú" 
+      },
+      {
+      "cod": "4255",
+      "uf":"Santana do Cariri" 
+      },
+      {
+      "cod": "4256",
+      "uf":"São Benedito" 
+      },
+      {
+      "cod": "4257",
+      "uf":"São Gonçalo do Amarante" 
+      },
+      {
+      "cod": "4258",
+      "uf":"São João do Jaguaribe" 
+      },
+      {
+      "cod": "4259",
+      "uf":"São Luís do Curu" 
+      },
+      {
+      "cod": "4260",
+      "uf":"Senador Pompeu" 
+      },
+      {
+      "cod": "4261",
+      "uf":"Senador Sá" 
+      },
+      {
+      "cod": "4262",
+      "uf":"Sobral" 
+      },
+      {
+      "cod": "4263",
+      "uf":"Solonópole" 
+      },
+      {
+      "cod": "4264",
+      "uf":"Tabuleiro do Norte" 
+      },
+      {
+      "cod": "4265",
+      "uf":"Tamboril" 
+      },
+      {
+      "cod": "4266",
+      "uf":"Tarrafas" 
+      },
+      {
+      "cod": "4267",
+      "uf":"Tauá" 
+      },
+      {
+      "cod": "4268",
+      "uf":"Tejuçuoca" 
+      },
+      {
+      "cod": "4269",
+      "uf":"Tianguá" 
+      },
+      {
+      "cod": "4270",
+      "uf":"Trairi" 
+      },
+      {
+      "cod": "4271",
+      "uf":"Tururu" 
+      },
+      {
+      "cod": "4272",
+      "uf":"Ubajara" 
+      },
+      {
+      "cod": "4273",
+      "uf":"Umari" 
+      },
+      {
+      "cod": "4274",
+      "uf":"Umirim" 
+      },
+      {
+      "cod": "4275",
+      "uf":"Uruburetama" 
+      },
+      {
+      "cod": "4276",
+      "uf":"Uruoca" 
+      },
+      {
+      "cod": "4277",
+      "uf":"Varjota" 
+      },
+      {
+      "cod": "4278",
+      "uf":"Várzea Alegre" 
+      },
+      {
+      "cod": "4279",
+      "uf":"Viçosa do Ceará"},
       ]
     },
     {
