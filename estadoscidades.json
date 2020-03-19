@@ -3253,7 +3253,10 @@
       "sigla": "DF",
       "nome": "Distrito Federal",
       "cidades": [
-        "Brasília"
+        {
+         "cod": "1054",
+        " uf": "Brasília"
+        }
       ]
     },
     {
@@ -3824,743 +3827,743 @@
         "uf":"Cavalcante" 
         },
         {
-        "cod": "1763",
+        "cod": "1055",
         "uf":"Ceres" 
         },
         {
-        "cod": "1764",
+        "cod": "1056",
         "uf":"Cezarina" 
         },
         {
-        "cod": "1765",
+        "cod": "1057",
         "uf":"Chapadão do Céu" 
         },
         {
-        "cod": "1766",
+        "cod": "1058",
         "uf":"Cidade Ocidental" 
         },
         {
-        "cod": "1767",
+        "cod": "1059",
         "uf":"Cocalzinho de Goiás" 
         },
         {
-        "cod": "1768",
+        "cod": "1060",
         "uf":"Colinas do Sul" 
         },
         {
-        "cod": "1769",
+        "cod": "1061",
         "uf":"Córrego do Ouro" 
         },
         {
-        "cod": "1770",
+        "cod": "1062",
         "uf":"Corumbá de Goiás" 
         },
         {
-        "cod": "1771",
+        "cod": "1063",
         "uf":"Corumbaíba" 
         },
         {
-        "cod": "1772",
+        "cod": "1064",
         "uf":"Cristalina" 
         },
         {
-        "cod": "1773",
+        "cod": "1065",
         "uf":"Cristianópolis" 
         },
         {
-        "cod": "1774",
+        "cod": "1066",
         "uf":"Crixás" 
         },
         {
-        "cod": "1775",
+        "cod": "1067",
         "uf":"Cromínia" 
         },
         {
-        "cod": "1776",
+        "cod": "1068",
         "uf":"Cumari" 
         },
         {
-        "cod": "1777",
+        "cod": "1069",
         "uf":"Damianópolis" 
         },
         {
-        "cod": "1778",
+        "cod": "1070",
         "uf":"Damolândia" 
         },
         {
-        "cod": "1779",
+        "cod": "1071",
         "uf":"Davinópolis" 
         },
         {
-        "cod": "1780",
+        "cod": "1072",
         "uf":"Diorama" 
         },
         {
-        "cod": "1781",
+        "cod": "1073",
         "uf":"Divinópolis de Goiás" 
         },
         {
-        "cod": "1782",
+        "cod": "1074",
         "uf":"Doverlândia" 
         },
         {
-        "cod": "1783",
+        "cod": "1075",
         "uf":"Edealina" 
         },
         {
-        "cod": "1784",
+        "cod": "1076",
         "uf":"Edéia" 
         },
         {
-        "cod": "1785",
+        "cod": "1077",
         "uf":"Estrela do Norte" 
         },
         {
-        "cod": "1786",
+        "cod": "1078",
         "uf":"Faina" 
         },
         {
-        "cod": "1787",
+        "cod": "1079",
         "uf":"Fazenda Nova" 
         },
         {
-        "cod": "1788",
+        "cod": "1080",
         "uf":"Firminópolis" 
         },
         {
-        "cod": "1789",
+        "cod": "1081",
         "uf":"Flores de Goiás" 
         },
         {
-        "cod": "1790",
+        "cod": "1082",
         "uf":"Formosa" 
         },
         {
-        "cod": "1791",
+        "cod": "1083",
         "uf":"Formoso" 
         },
         {
-        "cod": "1792",
+        "cod": "1084",
         "uf":"Gameleira de Goiás" 
         },
         {
-        "cod": "1793",
+        "cod": "1085",
         "uf":"Goianápolis" 
         },
         {
-        "cod": "1794",
+        "cod": "1086",
         "uf":"Goiandira" 
         },
         {
-        "cod": "1795",
+        "cod": "1087",
         "uf":"Goianésia" 
         },
         {
-        "cod": "1796",
+        "cod": "1088",
         "uf":"Goiânia" 
         },
         {
-        "cod": "1797",
+        "cod": "1089",
         "uf":"Goianira" 
         },
         {
-        "cod": "1798",
+        "cod": "1090",
         "uf":"Goiás" 
         },
         {
-        "cod": "1799",
+        "cod": "1091",
         "uf":"Goiatuba" 
         },
         {
-        "cod": "1800",
+        "cod": "1092",
         "uf":"Gouvelândia" 
         },
         {
-        "cod": "1801",
+        "cod": "1093",
         "uf":"Guapó" 
         },
         {
-        "cod": "1802",
+        "cod": "1094",
         "uf":"Guaraíta" 
         },
         {
-        "cod": "1803",
+        "cod": "1095",
         "uf":"Guarani de Goiás" 
         },
         {
-        "cod": "1804",
+        "cod": "1096",
         "uf":"Guarinos" 
         },
         {
-        "cod": "1805",
+        "cod": "1097",
         "uf":"Heitoraí" 
         },
         {
-        "cod": "1806",
+        "cod": "1098",
         "uf":"Hidrolândia" 
         },
         {
-        "cod": "1807",
+        "cod": "1099",
         "uf":"Hidrolina" 
         },
         {
-        "cod": "1808",
+        "cod": "1100",
         "uf":"Iaciara" 
         },
         {
-        "cod": "1809",
+        "cod": "1101",
         "uf":"Inaciolândia" 
         },
         {
-        "cod": "1810",
+        "cod": "1102",
         "uf":"Indiara" 
         },
         {
-        "cod": "1811",
+        "cod": "1103",
         "uf":"Inhumas" 
         },
         {
-        "cod": "1812",
+        "cod": "1104",
         "uf":"Ipameri" 
         },
         {
-        "cod": "1813",
+        "cod": "1105",
         "uf":"Ipiranga de Goiás" 
         },
         {
-        "cod": "1814",
+        "cod": "1106",
         "uf":"Iporá" 
         },
         {
-        "cod": "1815",
+        "cod": "1107",
         "uf":"Israelândia" 
         },
         {
-        "cod": "1816",
+        "cod": "1108",
         "uf":"Itaberaí" 
         },
         {
-        "cod": "1817",
+        "cod": "1109",
         "uf":"Itaguari" 
         },
         {
-        "cod": "1818",
+        "cod": "1110",
         "uf":"Itaguaru" 
         },
         {
-        "cod": "1819",
+        "cod": "1111",
         "uf":"Itajá" 
         },
         {
-        "cod": "1820",
+        "cod": "1112",
         "uf":"Itapaci" 
         },
         {
-        "cod": "1821",
+        "cod": "1113",
         "uf":"Itapirapuã" 
         },
         {
-        "cod": "1822",
+        "cod": "1114",
         "uf":"Itapuranga" 
         },
         {
-        "cod": "1823",
+        "cod": "1115",
         "uf":"Itarumã" 
         },
         {
-        "cod": "1824",
+        "cod": "1116",
         "uf":"Itauçu" 
         },
         {
-        "cod": "1825",
+        "cod": "1117",
         "uf":"Itumbiara" 
         },
         {
-        "cod": "1826",
+        "cod": "1118",
         "uf":"Ivolândia" 
         },
         {
-        "cod": "1827",
+        "cod": "1119",
         "uf":"Jandaia" 
         },
         {
-        "cod": "1828",
+        "cod": "1120",
         "uf":"Jaraguá" 
         },
         {
-        "cod": "1829",
+        "cod": "1121",
         "uf":"Jataí" 
         },
         {
-        "cod": "1830",
+        "cod": "1122",
         "uf":"Jaupaci" 
         },
         {
-        "cod": "1831",
+        "cod": "1123",
         "uf":"Jesúpolis" 
         },
         {
-        "cod": "1832",
+        "cod": "1124",
         "uf":"Joviânia" 
         },
         {
-        "cod": "1833",
+        "cod": "1125",
         "uf":"Jussara" 
         },
         {
-        "cod": "1834",
+        "cod": "1126",
         "uf":"Lagoa Santa" 
         },
         {
-        "cod": "1835",
+        "cod": "1127",
         "uf":"Leopoldo de Bulhões" 
         },
         {
-        "cod": "1836",
+        "cod": "1128",
         "uf":"Luziânia" 
         },
         {
-        "cod": "1837",
+        "cod": "1129",
         "uf":"Mairipotaba" 
         },
         {
-        "cod": "1838",
+        "cod": "1130",
         "uf":"Mambaí" 
         },
         {
-        "cod": "1839",
+        "cod": "1131",
         "uf":"Mara Rosa" 
         },
         {
-        "cod": "1840",
+        "cod": "1132",
         "uf":"Marzagão" 
         },
         {
-        "cod": "1841",
+        "cod": "1133",
         "uf":"Matrinchã" 
         },
         {
-        "cod": "1842",
+        "cod": "1134",
         "uf":"Maurilândia" 
         },
         {
-        "cod": "1843",
+        "cod": "1135",
         "uf":"Mimoso de Goiás" 
         },
         {
-        "cod": "1844",
+        "cod": "1136",
         "uf":"Minaçu" 
         },
         {
-        "cod": "1845",
+        "cod": "1137",
         "uf":"Mineiros" 
         },
         {
-        "cod": "1846",
+        "cod": "1138",
         "uf":"Moiporá" 
         },
         {
-        "cod": "1847",
+        "cod": "1139",
         "uf":"Monte Alegre de Goiás" 
         },
         {
-        "cod": "1848",
+        "cod": "1140",
         "uf":"Montes Claros de Goiás" 
         },
         {
-        "cod": "1849",
+        "cod": "1141",
         "uf":"Montividiu" 
         },
         {
-        "cod": "1850",
+        "cod": "1142",
         "uf":"Montividiu do Norte" 
         },
         {
-        "cod": "1851",
+        "cod": "1143",
         "uf":"Morrinhos" 
         },
         {
-        "cod": "1852",
+        "cod": "1144",
         "uf":"Morro Agudo de Goiás" 
         },
         {
-        "cod": "1853",
+        "cod": "1145",
         "uf":"Mossâmedes" 
         },
         {
-        "cod": "1854",
+        "cod": "1146",
         "uf":"Mozarlândia" 
         },
         {
-        "cod": "1855",
+        "cod": "1147",
         "uf":"Mundo Novo" 
         },
         {
-        "cod": "1856",
+        "cod": "1148",
         "uf":"Mutunópolis" 
         },
         {
-        "cod": "1857",
+        "cod": "1149",
         "uf":"Nazário" 
         },
         {
-        "cod": "1858",
+        "cod": "1150",
         "uf":"Nerópolis" 
         },
         {
-        "cod": "1859",
+        "cod": "1151",
         "uf":"Niquelândia" 
         },
         {
-        "cod": "1860",
+        "cod": "1152",
         "uf":"Nova América" 
         },
         {
-        "cod": "1861",
+        "cod": "1153",
         "uf":"Nova Aurora" 
         },
         {
-        "cod": "1862",
+        "cod": "1154",
         "uf":"Nova Crixás" 
         },
         {
-        "cod": "1863",
+        "cod": "1155",
         "uf":"Nova Glória" 
         },
         {
-        "cod": "1864",
+        "cod": "1156",
         "uf":"Nova Iguaçu de Goiás" 
         },
         {
-        "cod": "1865",
+        "cod": "1157",
         "uf":"Nova Roma" 
         },
         {
-        "cod": "1866",
+        "cod": "1158",
         "uf":"Nova Veneza" 
         },
         {
-        "cod": "1867",
+        "cod": "1159",
         "uf":"Novo Brasil" 
         },
         {
-        "cod": "1868",
+        "cod": "1160",
         "uf":"Novo Gama" 
         },
         {
-        "cod": "1869",
+        "cod": "1161",
         "uf":"Novo Planalto" 
         },
         {
-        "cod": "1870",
+        "cod": "1162",
         "uf":"Orizona" 
         },
         {
-        "cod": "1871",
+        "cod": "1163",
         "uf":"Ouro Verde de Goiás" 
         },
         {
-        "cod": "1872",
+        "cod": "1164",
         "uf":"Ouvidor" 
         },
         {
-        "cod": "1873",
+        "cod": "1165",
         "uf":"Padre Bernardo" 
         },
         {
-        "cod": "1874",
+        "cod": "1166",
         "uf":"Palestina de Goiás" 
         },
         {
-        "cod": "1875",
+        "cod": "1167",
         "uf":"Palmeiras de Goiás" 
         },
         {
-        "cod": "1876",
+        "cod": "1168",
         "uf":"Palmelo" 
         },
         {
-        "cod": "1877",
+        "cod": "1169",
         "uf":"Palminópolis" 
         },
         {
-        "cod": "1878",
+        "cod": "1170",
         "uf":"Panamá" 
         },
         {
-        "cod": "1879",
+        "cod": "1171",
         "uf":"Paranaiguara" 
         },
         {
-        "cod": "1880",
+        "cod": "1172",
         "uf":"Paraúna" 
         },
         {
-        "cod": "1881",
+        "cod": "1173",
         "uf":"Perolândia" 
         },
         {
-        "cod": "1882",
+        "cod": "1174",
         "uf":"Petrolina de Goiás" 
         },
         {
-        "cod": "1883",
+        "cod": "1175",
         "uf":"Pilar de Goiás" 
         },
         {
-        "cod": "1884",
+        "cod": "1176",
         "uf":"Piracanjuba" 
         },
         {
-        "cod": "1885",
+        "cod": "1177",
         "uf":"Piranhas" 
         },
         {
-        "cod": "1886",
+        "cod": "1178",
         "uf":"Pirenópolis" 
         },
         {
-        "cod": "1887",
+        "cod": "1179",
         "uf":"Pires do Rio" 
         },
         {
-        "cod": "1888",
+        "cod": "1180",
         "uf":"Planaltina" 
         },
         {
-        "cod": "1889",
+        "cod": "1181",
         "uf":"Pontalina" 
         },
         {
-        "cod": "1890",
+        "cod": "1182",
         "uf":"Porangatu" 
         },
         {
-        "cod": "1891",
+        "cod": "1183",
         "uf":"Porteirão" 
         },
         {
-        "cod": "1892",
+        "cod": "1184",
         "uf":"Portelândia" 
         },
         {
-        "cod": "1893",
+        "cod": "1185",
         "uf":"Posse" 
         },
         {
-        "cod": "1894",
+        "cod": "1186",
         "uf":"Professor Jamil" 
         },
         {
-        "cod": "1895",
+        "cod": "1187",
         "uf":"Quirinópolis" 
         },
         {
-        "cod": "1896",
+        "cod": "1188",
         "uf":"Rialma" 
         },
         {
-        "cod": "1897",
+        "cod": "1189",
         "uf":"Rianápolis" 
         },
         {
-        "cod": "1898",
+        "cod": "1190",
         "uf":"Rio Quente" 
         },
         {
-        "cod": "1899",
+        "cod": "1191",
         "uf":"Rio Verde" 
         },
         {
-        "cod": "1900",
+        "cod": "1192",
         "uf":"Rubiataba" 
         },
         {
-        "cod": "1901",
+        "cod": "1193",
         "uf":"Sanclerlândia" 
         },
         {
-        "cod": "1902",
+        "cod": "1194",
         "uf":"Santa Bárbara de Goiás" 
         },
         {
-        "cod": "1903",
+        "cod": "1195",
         "uf":"Santa Cruz de Goiás" 
         },
         {
-        "cod": "1904",
+        "cod": "1196",
         "uf":"Santa Fé de Goiás" 
         },
         {
-        "cod": "1905",
+        "cod": "1197",
         "uf":"Santa Helena de Goiás" 
         },
         {
-        "cod": "1906",
+        "cod": "1198",
         "uf":"Santa Isabel" 
         },
         {
-        "cod": "1907",
+        "cod": "1199",
         "uf":"Santa Rita do Araguaia" 
         },
         {
-        "cod": "1908",
+        "cod": "1200",
         "uf":"Santa Rita do Novo Destino" 
         },
         {
-        "cod": "1909",
+        "cod": "1201",
         "uf":"Santa Rosa de Goiás" 
         },
         {
-        "cod": "1910",
+        "cod": "1202",
         "uf":"Santa Tereza de Goiás" 
         },
         {
-        "cod": "1911",
+        "cod": "1203",
         "uf":"Santa Terezinha de Goiás" 
         },
         {
-        "cod": "1912",
+        "cod": "1204",
         "uf":"Santo Antônio da Barra" 
         },
         {
-        "cod": "1913",
+        "cod": "1205",
         "uf":"Santo Antônio de Goiás" 
         },
         {
-        "cod": "1914",
+        "cod": "1206",
         "uf":"Santo Antônio do Descoberto" 
         },
         {
-        "cod": "1915",
+        "cod": "1207",
         "uf":"São Domingos" 
         },
         {
-        "cod": "1916",
+        "cod": "1208",
         "uf":"São Francisco de Goiás" 
         },
         {
-        "cod": "1917",
+        "cod": "1209",
         "uf":"São João d'Aliança" 
         },
         {
-        "cod": "1918",
+        "cod": "1210",
         "uf":"São João da Paraúna" 
         },
         {
-        "cod": "1919",
+        "cod": "1211",
         "uf":"São Luís de Montes Belos" 
         },
         {
-        "cod": "1920",
+        "cod": "1212",
         "uf":"São Luíz do Norte" 
         },
         {
-        "cod": "1921",
+        "cod": "1213",
         "uf":"São Miguel do Araguaia" 
         },
         {
-        "cod": "1922",
+        "cod": "1214",
         "uf":"São Miguel do Passa Quatro" 
         },
         {
-        "cod": "1923",
+        "cod": "1215",
         "uf":"São Patrício" 
         },
         {
-        "cod": "1924",
+        "cod": "1216",
         "uf":"São Simão" 
         },
         {
-        "cod": "1925",
+        "cod": "1217",
         "uf":"Senador Canedo" 
         },
         {
-        "cod": "1926",
+        "cod": "1218",
         "uf":"Serranópolis" 
         },
         {
-        "cod": "1927",
+        "cod": "1219",
         "uf":"Silvânia" 
         },
         {
-        "cod": "1928",
+        "cod": "1220",
         "uf":"Simolândia" 
         },
         {
-        "cod": "1929",
+        "cod": "1221",
         "uf":"Sítio d'Abadia" 
         },
         {
-        "cod": "1930",
+        "cod": "1222",
         "uf":"Taquaral de Goiás" 
         },
         {
-        "cod": "1931",
+        "cod": "1223",
         "uf":"Teresina de Goiás" 
         },
         {
-        "cod": "1932",
+        "cod": "1224",
         "uf":"Terezópolis de Goiás" 
         },
         {
-        "cod": "1933",
+        "cod": "1225",
         "uf":"Três Ranchos" 
         },
         {
-        "cod": "1934",
+        "cod": "1226",
         "uf":"Trindade" 
         },
         {
-        "cod": "1935",
+        "cod": "1227",
         "uf":"Trombas" 
         },
         {
-        "cod": "1936",
+        "cod": "1228",
         "uf":"Turvânia" 
         },
         {
-        "cod": "1937",
+        "cod": "1229",
         "uf":"Turvelândia" 
         },
         {
-        "cod": "1938",
+        "cod": "1230",
         "uf":"Uirapuru" 
         },
         {
-        "cod": "1939",
+        "cod": "1231",
         "uf":"Uruaçu" 
         },
         {
-        "cod": "1940",
+        "cod": "1232",
         "uf":"Uruana" 
         },
         {
-        "cod": "1941",
+        "cod": "1233",
         "uf":"Urutaí" 
         },
         {
-        "cod": "1942",
+        "cod": "1234",
         "uf":"Valparaíso de Goiás" 
         },
         {
-        "cod": "1943",
+        "cod": "1235",
         "uf":"Varjão" 
         },
         {
-        "cod": "1944",
+        "cod": "1236",
         "uf":"Vianópolis" 
         },
         {
-        "cod": "1945",
+        "cod": "1237",
         "uf":"Vicentinópolis" 
         },
         {
-        "cod": "1946",
+        "cod": "1238",
         "uf":"Vila Boa" 
         },
         {
-        "cod": "1947",
+        "cod": "1239",
         "uf":"Vila Propício"},
       ]
     },
